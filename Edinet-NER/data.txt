@@ -1,0 +1,11032 @@
+株式会社リード	B-CompanyName
+株式会社リード	B-CompanyName
+生産技術	B-Position
+部長	I-Position
+
+株式会社アルバイトタイムス	B-CompanyName
+株式会社アルバイトタイムス	B-CompanyName
+東京	B-Position
+支社長	I-Position
+
+イー・アイ・エルソリューション	B-CompanyName
+㈱	I-CompanyName
+　	I-CompanyName
+イー・アイ・エルソリューション	B-CompanyName
+㈱	I-CompanyName
+　	I-CompanyName
+入社	B-Start
+
+浜	B-CompanyName
+協	I-CompanyName
+サービス	I-CompanyName
+株式会社	I-CompanyName
+浜	B-CompanyName
+協	I-CompanyName
+サービス	I-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+（	O
+現任	O
+）	O
+
+株式会社	B-CompanyName
+カチタス	I-CompanyName
+株式会社	B-CompanyName
+カチタス	I-CompanyName
+　	O
+社外取締役	B-Position
+　	O
+（	O
+現任	O
+）	O
+
+安城	B-Position
+支店長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+代表取締役	B-Position
+副社長	I-Position
+執行役員	I-Position
+
+株式会社商工組合中央金庫	B-CompanyName
+株式会社商工組合中央金庫	B-CompanyName
+入社	B-Start
+
+株式会社	B-CompanyName
+トリドールホールディングス	I-CompanyName
+株式会社	B-CompanyName
+トリドールホールディングス	I-CompanyName
+取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+株式会社	B-CompanyName
+トリドールホールディングス	I-CompanyName
+取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+伊藤忠インタラクティブ株式会社	B-CompanyName
+伊藤忠インタラクティブ株式会社	B-CompanyName
+取締役	B-Position
+
+あらた監査法人	B-CompanyName
+あらた監査法人	B-CompanyName
+入所	B-Start
+
+株式会社ベスト電器	B-CompanyName
+株式会社ベスト電器	B-CompanyName
+ 新	O
+中期経営計画	I-Position
+推進	I-Position
+室	I-Position
+ 次長	I-Position
+
+ダイコク電機株式会社	B-CompanyName
+ダイコク電機株式会社	B-CompanyName
+入社	B-Start
+
+株式会社ネクステージ	B-CompanyName
+株式会社ネクステージ	B-CompanyName
+取締役	B-Position
+第	I-Position
+二	I-Position
+事業	I-Position
+本部長	I-Position
+株式会社ネクステージ	B-CompanyName
+取締役	B-Position
+第	I-Position
+二	I-Position
+事業	I-Position
+本部長	I-Position
+就任	B-Start
+
+朝日監査法人	O
+(	O
+現	O
+ 有限責任	O
+ あずさ監査法人	I-CompanyName
+朝日監査法人	O
+(	O
+現	O
+ 有限責任	O
+ あずさ監査法人	I-CompanyName
+)	O
+入所	B-Start
+
+株式会社enish	B-CompanyName
+株式会社enish	B-CompanyName
+　	O
+代表取締役社長	B-Position
+株式会社enish	B-CompanyName
+　	O
+代表取締役社長	B-Position
+就任	B-Start
+
+株式会社	B-CompanyName
+　	I-CompanyName
+ヒマラヤ	I-CompanyName
+株式会社	B-CompanyName
+　	I-CompanyName
+ヒマラヤ	I-CompanyName
+専務取締役	B-Position
+販売チャネル	I-Position
+統括	I-Position
+ 本部長	I-Position
+
+学校法人明治大学	B-CompanyName
+学校法人明治大学	B-CompanyName
+副	B-Position
+学長	I-Position
+
+㈱	B-CompanyName
+アテクトエンジニアリング	I-CompanyName
+㈱	B-CompanyName
+アテクトエンジニアリング	I-CompanyName
+取締役	B-Position
+㈱	B-CompanyName
+アテクトエンジニアリング	I-CompanyName
+取締役	B-Position
+就任	B-Start
+(	O
+現任	O
+)	O
+
+サムコ	B-CompanyName
+　	I-CompanyName
+株式会社	I-CompanyName
+サムコ	B-CompanyName
+　	I-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+
+大井電気株式会社	B-CompanyName
+大井電気株式会社	B-CompanyName
+営業	B-Position
+統括	I-Position
+副	I-Position
+統括	I-Position
+
+同	B-CompanyName
+同	B-CompanyName
+　	O
+専務取締役	B-Position
+同	B-CompanyName
+　	O
+専務取締役	B-Position
+就任	B-Start
+
+ライオン流通サービス	B-CompanyName
+株式会社	I-CompanyName
+ライオン流通サービス	B-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+
+Ｄ	B-CompanyName
+Ｍ	I-CompanyName
+三井製糖	I-CompanyName
+ホールディングス	I-CompanyName
+株式会社	I-CompanyName
+Ｄ	B-CompanyName
+Ｍ	I-CompanyName
+三井製糖	I-CompanyName
+ホールディングス	I-CompanyName
+株式会社	I-CompanyName
+社外取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+（	O
+現任	O
+）	O
+
+香川県	B-CompanyName
+香川県	B-CompanyName
+に	O
+入	B-Start
+庁	I-Start
+
+イオンストアーズ	B-CompanyName
+香港	I-CompanyName
+株式会社	I-CompanyName
+イオンストアーズ	B-CompanyName
+香港	I-CompanyName
+株式会社	I-CompanyName
+　	O
+管理	B-Position
+本部長	I-Position
+
+朝日監査法人	O
+（	O
+現	O
+有限責任あずさ監査法人	B-CompanyName
+朝日監査法人	O
+（	O
+現	O
+有限責任あずさ監査法人	B-CompanyName
+）	O
+入所	B-Start
+
+㈱	O
+三菱銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+三菱	I-CompanyName
+ＵＦＪ	I-CompanyName
+銀行	I-CompanyName
+㈱	O
+三菱銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+三菱	I-CompanyName
+ＵＦＪ	I-CompanyName
+銀行	I-CompanyName
+）	O
+入行	B-Start
+
+株式会社	B-CompanyName
+はま寿司	I-CompanyName
+株式会社	B-CompanyName
+はま寿司	I-CompanyName
+取締役	B-Position
+
+富士精工株式会社	B-CompanyName
+富士精工株式会社	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社トーメンデバイス	B-CompanyName
+株式会社トーメンデバイス	B-CompanyName
+常務取締役	B-Position
+
+リスク管理	B-Position
+部長	I-Position
+
+株式会社	B-CompanyName
+テーオーホールディングス	I-CompanyName
+株式会社	B-CompanyName
+テーオーホールディングス	I-CompanyName
+取締役	B-Position
+専務	I-Position
+株式会社	B-CompanyName
+テーオーホールディングス	I-CompanyName
+取締役	B-Position
+専務	I-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+関西ペイント株式会社	B-CompanyName
+関西ペイント株式会社	B-CompanyName
+ 社外取締役	O
+（	O
+現任	O
+）	O
+
+株式会社エコノス	B-CompanyName
+株式会社エコノス	B-CompanyName
+取締役	B-Position
+
+株式会社	B-CompanyName
+ビーガル	I-CompanyName
+株式会社	B-CompanyName
+ビーガル	I-CompanyName
+　	O
+取締役	B-Position
+
+株式会社エスライン	B-CompanyName
+株式会社エスライン	B-CompanyName
+東京	B-Position
+本部	I-Position
+部長	I-Position
+兼	I-Position
+東京	I-Position
+ブロック	I-Position
+長	I-Position
+
+代表取締役社長	B-Position
+(	O
+現任	O
+)	O
+
+テクノクオーツ株式会社	B-CompanyName
+テクノクオーツ株式会社	B-CompanyName
+常務取締役	B-Position
+半導体事業	I-Position
+統括	I-Position
+
+東京	O
+電気	O
+(株)	O
+（	O
+現	O
+：	O
+東芝テック(株)	B-CompanyName
+東京	O
+電気	O
+(株)	O
+（	O
+現	O
+：	O
+東芝テック(株)	B-CompanyName
+）	O
+　	O
+入社	B-Start
+
+㈱	B-CompanyName
+エンバイオ・ホールディングス	I-CompanyName
+㈱	B-CompanyName
+エンバイオ・ホールディングス	I-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+代表取締役	B-Position
+副社長	I-Position
+代表取締役	B-Position
+副社長	I-Position
+　	O
+執行役員	B-Position
+代表取締役	B-Position
+副社長	I-Position
+　	O
+執行役員	B-Position
+　	O
+事業	B-Position
+統括	I-Position
+(	O
+現任	O
+)	O
+
+日神	O
+管理	O
+㈱	O
+（	O
+現	O
+　	O
+日神	B-CompanyName
+管財	I-CompanyName
+㈱	I-CompanyName
+日神	O
+管理	O
+㈱	O
+（	O
+現	O
+　	O
+日神	B-CompanyName
+管財	I-CompanyName
+㈱	I-CompanyName
+）	O
+専務取締役	B-Position
+
+上海	B-CompanyName
+貴弥	I-CompanyName
+功	I-CompanyName
+貿易	I-CompanyName
+有限公司	I-CompanyName
+上海	B-CompanyName
+貴弥	I-CompanyName
+功	I-CompanyName
+貿易	I-CompanyName
+有限公司	I-CompanyName
+董事長	B-Position
+（	O
+現	O
+）	O
+
+株式会社メイコー	B-CompanyName
+株式会社メイコー	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+株式会社メイコー	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+就任	B-Start
+(	O
+現任	O
+)	O
+
+ＫＮＴ－ＣＴホールディングス株式会社	B-CompanyName
+ＫＮＴ－ＣＴホールディングス株式会社	B-CompanyName
+取締役	B-Position
+
+谷林	B-CompanyName
+一憲	I-CompanyName
+法律事務所	I-CompanyName
+谷林	B-CompanyName
+一憲	I-CompanyName
+法律事務所	I-CompanyName
+に	O
+改称	B-Transfer
+(	O
+現在	O
+に	O
+至る	O
+)	O
+
+株式会社エグゼクティブ	B-CompanyName
+・	I-CompanyName
+パートナーズ	I-CompanyName
+株式会社エグゼクティブ	B-CompanyName
+・	I-CompanyName
+パートナーズ	I-CompanyName
+顧問	B-Position
+株式会社エグゼクティブ	B-CompanyName
+・	I-CompanyName
+パートナーズ	I-CompanyName
+顧問	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+みらかホールディングス株式会社	B-CompanyName
+みらかホールディングス株式会社	B-CompanyName
+社外取締役	B-Position
+
+株式会社リンクアンドモチベーション	B-CompanyName
+株式会社リンクアンドモチベーション	B-CompanyName
+　	O
+入社	B-Start
+
+国立大学法人	B-CompanyName
+三重大学	I-CompanyName
+国立大学法人	B-CompanyName
+三重大学	I-CompanyName
+学長	B-Position
+顧問	I-Position
+(	O
+現職	O
+)	O
+
+三精テクノロジーズ株式会社	B-CompanyName
+三精テクノロジーズ株式会社	B-CompanyName
+代表取締役	B-Position
+副社長	I-Position
+三精テクノロジーズ株式会社	B-CompanyName
+代表取締役	B-Position
+副社長	I-Position
+兼	O
+企画	B-Position
+室	I-Position
+担当	I-Position
+三精テクノロジーズ株式会社	B-CompanyName
+代表取締役	B-Position
+副社長	I-Position
+兼	O
+企画	B-Position
+室	I-Position
+担当	I-Position
+兼	O
+保守	B-Position
+サービス	I-Position
+本部長	I-Position
+
+同	B-CompanyName
+同	B-CompanyName
+　	O
+執行役員	B-Position
+経営企画	I-Position
+室長	I-Position
+
+菊水電子工業株式会社	B-CompanyName
+菊水電子工業株式会社	B-CompanyName
+専務取締役	B-Position
+生産	I-Position
+本部長	I-Position
+菊水電子工業株式会社	B-CompanyName
+専務取締役	B-Position
+生産	I-Position
+本部長	I-Position
+、	O
+社長	B-Position
+室長	I-Position
+
+執行役員	B-Position
+コンポーネント	I-Position
+機器	I-Position
+事業	I-Position
+本部長	I-Position
+
+執行役員	B-Position
+経営企画	I-Position
+室	I-Position
+執行役員	B-Position
+経営企画	I-Position
+室	I-Position
+兼	O
+情報システム	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役	B-Position
+相談役	I-Position
+
+同	B-CompanyName
+同	B-CompanyName
+　	O
+北九州	B-Position
+支店長	I-Position
+
+ジョンソン・エンド・ジョンソン	B-CompanyName
+㈱	I-CompanyName
+ジョンソン・エンド・ジョンソン	B-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+
+フォーセンス・パートナーズ	B-CompanyName
+株式会社	I-CompanyName
+フォーセンス・パートナーズ	B-CompanyName
+株式会社	I-CompanyName
+設立	B-Start
+フォーセンス・パートナーズ	B-CompanyName
+株式会社	I-CompanyName
+設立	B-Start
+　	O
+代表取締役	B-Position
+パートナー	I-Position
+（	O
+現任	O
+）	O
+
+株式会社ＮＳＤ	B-CompanyName
+東京	I-CompanyName
+システム	I-CompanyName
+株式会社ＮＳＤ	B-CompanyName
+東京	I-CompanyName
+システム	I-CompanyName
+営業	B-Position
+４	I-Position
+部長	I-Position
+
+執行役員	B-Position
+東京	I-Position
+支店長	I-Position
+
+㈱	B-CompanyName
+Campus	I-CompanyName
+ for	I-CompanyName
+ H	I-CompanyName
+㈱	B-CompanyName
+Campus	I-CompanyName
+ for	I-CompanyName
+ H	I-CompanyName
+　	O
+取締役	B-Position
+㈱	B-CompanyName
+Campus	I-CompanyName
+ for	I-CompanyName
+ H	I-CompanyName
+　	O
+取締役	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+株式会社システムリサーチ	B-CompanyName
+株式会社システムリサーチ	B-CompanyName
+システム	B-Position
+技術	I-Position
+２	I-Position
+部	I-Position
+ゼネラルマネージャー	I-Position
+
+弁護士	B-Position
+弁護士	B-Position
+登録	B-Start
+
+扶桑電通株式会社	B-CompanyName
+扶桑電通株式会社	B-CompanyName
+取締役	B-Position
+執行役員	I-Position
+関西	I-Position
+支店長	I-Position
+扶桑電通株式会社	B-CompanyName
+取締役	B-Position
+執行役員	I-Position
+関西	I-Position
+支店長	I-Position
+就任	B-Start
+
+同行	B-CompanyName
+同行	B-CompanyName
+三次	B-Position
+支店長	I-Position
+
+富士変速機株式会社	B-CompanyName
+富士変速機株式会社	B-CompanyName
+減速機	B-Position
+事業部	I-Position
+東日本	I-Position
+営業	I-Position
+部長	I-Position
+代行	I-Position
+
+名古屋	O
+弁護士会	O
+(	O
+現	O
+愛知県弁護士会	B-CompanyName
+名古屋	O
+弁護士会	O
+(	O
+現	O
+愛知県弁護士会	B-CompanyName
+)	O
+弁護士	B-Position
+名古屋	O
+弁護士会	O
+(	O
+現	O
+愛知県弁護士会	B-CompanyName
+)	O
+弁護士	B-Position
+登録	B-Start
+
+税理士法人	B-CompanyName
+ブレインワン	I-CompanyName
+税理士法人	B-CompanyName
+ブレインワン	I-CompanyName
+代表社員	B-Position
+税理士法人	B-CompanyName
+ブレインワン	I-CompanyName
+代表社員	B-Position
+就任	B-Start
+(	O
+現任	O
+)	O
+
+営業	B-Position
+本部	I-Position
+ 栃木	I-Position
+支店	I-Position
+ 支店長	I-Position
+営業	B-Position
+本部	I-Position
+ 栃木	I-Position
+支店	I-Position
+ 支店長	I-Position
+、	O
+東京支店	B-Position
+ 支店長	I-Position
+
+㈱	B-CompanyName
+ワールドレジデンシャル	I-CompanyName
+㈱	B-CompanyName
+ワールドレジデンシャル	I-CompanyName
+代表取締役社長	B-Position
+(	O
+現任	O
+)	O
+
+ＴＨＫ株式会社	B-CompanyName
+ＴＨＫ株式会社	B-CompanyName
+取締役	B-Position
+ＴＨＫ株式会社	B-CompanyName
+取締役	B-Position
+に	O
+就任	B-Start
+（	O
+現	O
+）	O
+
+取締役	B-Position
+在宅医療	I-Position
+事業	I-Position
+部長	I-Position
+取締役	B-Position
+在宅医療	I-Position
+事業	I-Position
+部長	I-Position
+兼	O
+鹿児島	B-Position
+・	I-Position
+山梨	I-Position
+・	I-Position
+長野	I-Position
+地区	I-Position
+担当	I-Position
+
+代表取締役社長	B-Position
+代表取締役社長	B-Position
+就任	B-Start
+（	O
+現	O
+）	O
+
+民営化	O
+により	O
+東日本旅客鉄道株式会社	B-CompanyName
+民営化	O
+により	O
+東日本旅客鉄道株式会社	B-CompanyName
+入社	B-Start
+民営化	O
+により	O
+東日本旅客鉄道株式会社	B-CompanyName
+入社	B-Start
+ 	O
+横浜	B-Position
+支社	I-Position
+営業	I-Position
+部長	I-Position
+民営化	O
+により	O
+東日本旅客鉄道株式会社	B-CompanyName
+入社	B-Start
+ 	O
+横浜	B-Position
+支社	I-Position
+営業	I-Position
+部長	I-Position
+、	O
+横浜駅	B-Position
+長	I-Position
+民営化	O
+により	O
+東日本旅客鉄道株式会社	B-CompanyName
+入社	B-Start
+ 	O
+横浜	B-Position
+支社	I-Position
+営業	I-Position
+部長	I-Position
+、	O
+横浜駅	B-Position
+長	I-Position
+、	O
+ 	O
+東京	B-Position
+支社	I-Position
+営業	I-Position
+部長	I-Position
+など	O
+
+ラス・カーズ・キャピタル	B-CompanyName
+㈱	I-CompanyName
+ラス・カーズ・キャピタル	B-CompanyName
+㈱	I-CompanyName
+代表取締役社長	B-Position
+（	O
+現任	O
+）	O
+
+株式会社	B-CompanyName
+シーラクンス	I-CompanyName
+株式会社	B-CompanyName
+シーラクンス	I-CompanyName
+　	O
+社外取締役	B-Position
+（	O
+現任	O
+）	O
+
+日本アイ・ビー・エム	B-CompanyName
+㈱	I-CompanyName
+日本アイ・ビー・エム	B-CompanyName
+㈱	I-CompanyName
+入社	B-Position
+
+ＷＡＳ	B-CompanyName
+Ｈ	I-CompanyName
+ハウス	I-CompanyName
+株式会社	I-CompanyName
+ＷＡＳ	B-CompanyName
+Ｈ	I-CompanyName
+ハウス	I-CompanyName
+株式会社	I-CompanyName
+取締役	B-Position
+営業	I-Position
+部長	I-Position
+
+太洋工業株式会社	B-CompanyName
+太洋工業株式会社	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+住友金属鉱山株式会社	B-CompanyName
+住友金属鉱山株式会社	B-CompanyName
+入社	B-Start
+
+株式会社ヨシックス	B-CompanyName
+ホールディングス	I-CompanyName
+株式会社ヨシックス	B-CompanyName
+ホールディングス	I-CompanyName
+取締役	B-Position
+副社長	I-Position
+株式会社ヨシックス	B-CompanyName
+ホールディングス	I-CompanyName
+取締役	B-Position
+副社長	I-Position
+　	O
+就任	B-Start
+
+株式会社中央倉庫	B-CompanyName
+株式会社中央倉庫	B-CompanyName
+営業	B-Position
+統括	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+株式会社中央倉庫	B-CompanyName
+営業	B-Position
+統括	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+兼	O
+京都	B-Position
+支店長	I-Position
+
+セコム上信越株式会社	B-CompanyName
+セコム上信越株式会社	B-CompanyName
+入社	B-Start
+
+東日本	B-CompanyName
+総合計画	I-CompanyName
+㈱	I-CompanyName
+東日本	B-CompanyName
+総合計画	I-CompanyName
+㈱	I-CompanyName
+代表取締役社長	B-Position
+
+公認会計士	B-CompanyName
+公認会計士	B-CompanyName
+登録	B-Start
+
+浜田	O
+敏	O
+法律事務所	O
+（	O
+現	O
+ 浜田	O
+・	I-CompanyName
+伊藤	I-CompanyName
+法律事務所	I-CompanyName
+浜田	O
+敏	O
+法律事務所	O
+（	O
+現	O
+ 浜田	O
+・	I-CompanyName
+伊藤	I-CompanyName
+法律事務所	I-CompanyName
+）	O
+所長	B-Position
+（	O
+現任	O
+）	O
+
+税理士	B-CompanyName
+税理士	B-CompanyName
+登録	B-Start
+
+オリンパス	B-CompanyName
+㈱	I-CompanyName
+オリンパス	B-CompanyName
+㈱	I-CompanyName
+入社	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+洋菓子	B-Position
+第一部	I-Position
+長	I-Position
+
+株式会社やまびこ	B-CompanyName
+株式会社やまびこ	B-CompanyName
+内部監査	B-Position
+室長	I-Position
+
+アシード	B-CompanyName
+(株)	I-CompanyName
+アシード	B-CompanyName
+(株)	I-CompanyName
+ 取締役	O
+常務執行役員	I-Position
+業務	I-Position
+本部長	I-Position
+
+専務取締役	B-Position
+営業	I-Position
+本部	I-Position
+本部長	I-Position
+専務取締役	B-Position
+営業	I-Position
+本部	I-Position
+本部長	I-Position
+ 兼	O
+東日本	B-Position
+営業	I-Position
+統括	I-Position
+部	I-Position
+統括	I-Position
+マネージャー	I-Position
+ （	O
+現任	O
+）	O
+
+同	B-CompanyName
+事務所	I-CompanyName
+同	B-CompanyName
+事務所	I-CompanyName
+ パートナー	O
+(	O
+現任	O
+)	O
+
+藤田実	B-CompanyName
+業	I-CompanyName
+藤田実	B-CompanyName
+業	I-CompanyName
+（	O
+家業	O
+）	O
+入社	B-Start
+
+株式会社岡本工作機械製作所	B-CompanyName
+株式会社岡本工作機械製作所	B-CompanyName
+入社	B-Start
+
+常務取締役	B-Position
+本店	I-Position
+営業	I-Position
+部長	I-Position
+
+㈱	O
+三井銀行	O
+   （	O
+現	O
+㈱	B-CompanyName
+三井住友銀行	I-CompanyName
+㈱	O
+三井銀行	O
+   （	O
+現	O
+㈱	B-CompanyName
+三井住友銀行	I-CompanyName
+）	O
+入行	B-Start
+
+ＳＰＫ株式会社	B-CompanyName
+ＳＰＫ株式会社	B-CompanyName
+国内	B-Position
+営業	I-Position
+本部長	I-Position
+（	O
+現任	O
+）	O
+
+株式会社アミューズキャピタル	B-CompanyName
+株式会社アミューズキャピタル	B-CompanyName
+専務取締役	B-Position
+
+ヤマトロジスティクス株式会社	B-CompanyName
+ヤマトロジスティクス株式会社	B-CompanyName
+ エグゼクティブアドバイザー	O
+
+㈱	B-CompanyName
+アイン	I-CompanyName
+㈱	B-CompanyName
+アイン	I-CompanyName
+代表取締役	B-Position
+
+㈱	B-CompanyName
+ローランド・ベルガー	I-CompanyName
+㈱	B-CompanyName
+ローランド・ベルガー	I-CompanyName
+　	O
+シニア	B-Position
+パートナー	I-Position
+
+経済産業省	B-CompanyName
+製造産業局	I-CompanyName
+経済産業省	B-CompanyName
+製造産業局	I-CompanyName
+化学	B-Position
+課	I-Position
+アルコール	I-Position
+室長	I-Position
+
+代表取締役	B-Position
+代表取締役	B-Position
+兼	O
+副社長	B-Position
+執行役員	I-Position
+
+ジオマテック株式会社	B-CompanyName
+ジオマテック株式会社	B-CompanyName
+入社	B-Start
+
+三井物産株式会社	B-CompanyName
+三井物産株式会社	B-CompanyName
+食糧	B-Position
+本部	I-Position
+穀物	I-Position
+事業	I-Position
+第	I-Position
+二	I-Position
+部長	I-Position
+
+同	B-CompanyName
+同	B-CompanyName
+　	O
+取締役	B-Position
+同	B-CompanyName
+　	O
+取締役	B-Position
+、	O
+総務	B-Position
+・	I-Position
+人事	I-Position
+本部長	I-Position
+
+株式会社フジクラ	B-CompanyName
+株式会社フジクラ	B-CompanyName
+執行役員	B-Position
+株式会社フジクラ	B-CompanyName
+執行役員	B-Position
+　	O
+コーポレート	B-Position
+調達	I-Position
+部	I-Position
+部長	I-Position
+
+イオンリテール	B-CompanyName
+㈱	I-CompanyName
+イオンリテール	B-CompanyName
+㈱	I-CompanyName
+代表取締役	B-Position
+執行役員	I-Position
+副社長	I-Position
+管理	I-Position
+担当	I-Position
+
+京都銀行	B-CompanyName
+京都銀行	B-CompanyName
+入行	B-Start
+
+取締役	B-Position
+総務	I-Position
+部長	I-Position
+取締役	B-Position
+総務	I-Position
+部長	I-Position
+兼	O
+経理	B-Position
+部長	I-Position
+(	O
+現	O
+)	O
+
+㈱	B-CompanyName
+ヨウジヤマモト	I-CompanyName
+㈱	B-CompanyName
+ヨウジヤマモト	I-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+日清	O
+ビジネス	O
+アシスト株式会社	O
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ＮＳＰ	I-CompanyName
+日清	O
+ビジネス	O
+アシスト株式会社	O
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ＮＳＰ	I-CompanyName
+）	O
+入社	B-Start
+
+五洋建設株式会社	B-CompanyName
+五洋建設株式会社	B-CompanyName
+取締役	B-Position
+五洋建設株式会社	B-CompanyName
+取締役	B-Position
+ 兼	O
+ 常務執行役員	O
+国際	I-Position
+部門	I-Position
+国際	I-Position
+管理	I-Position
+本部長	I-Position
+
+㈱	B-CompanyName
+読売広告社	I-CompanyName
+㈱	B-CompanyName
+読売広告社	I-CompanyName
+入社	B-Position
+
+㈱	B-CompanyName
+LIFULL	I-CompanyName
+㈱	B-CompanyName
+LIFULL	I-CompanyName
+　	O
+社外取締役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社神戸製鋼所	B-CompanyName
+株式会社神戸製鋼所	B-CompanyName
+取締役	B-Position
+株式会社神戸製鋼所	B-CompanyName
+取締役	B-Position
+（	O
+現職	O
+）	O
+、	O
+丸紅株式会社	B-CompanyName
+株式会社神戸製鋼所	B-CompanyName
+取締役	B-Position
+（	O
+現職	O
+）	O
+、	O
+丸紅株式会社	B-CompanyName
+監査役	B-Position
+
+総合	B-Position
+企画	I-Position
+部	I-Position
+企画	I-Position
+課長	I-Position
+
+取締役	B-Position
+執行役員	I-Position
+精密機器	I-Position
+事業	I-Position
+部長	I-Position
+
+公認会計士	B-Position
+公認会計士	B-Position
+登録	B-Start
+
+株式会社オリエントコーポレーション	B-CompanyName
+株式会社オリエントコーポレーション	B-CompanyName
+常務執行役員	B-Position
+
+三菱化工機株式会社	B-CompanyName
+三菱化工機株式会社	B-CompanyName
+入社	B-Start
+
+㈱	B-CompanyName
+赤川英	I-CompanyName
+㈱	B-CompanyName
+赤川英	I-CompanyName
+入社	B-Start
+
+同庁	B-CompanyName
+同庁	B-CompanyName
+次長	B-Position
+同庁	B-CompanyName
+次長	B-Position
+兼	O
+人事	B-Position
+部長	I-Position
+事務	I-Position
+取扱	I-Position
+
+㈱	O
+日本興業銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+みずほ銀行	I-CompanyName
+㈱	O
+日本興業銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+みずほ銀行	I-CompanyName
+）	O
+入行	B-Start
+
+株式会社	O
+リクルートフロムエー	O
+（	O
+現	B-CompanyName
+株式会社リクルートジョブズ	I-CompanyName
+株式会社	O
+リクルートフロムエー	O
+（	O
+現	B-CompanyName
+株式会社リクルートジョブズ	I-CompanyName
+）	O
+取締役	B-Position
+株式会社	O
+リクルートフロムエー	O
+（	O
+現	B-CompanyName
+株式会社リクルートジョブズ	I-CompanyName
+）	O
+取締役	B-Position
+就任	B-Start
+株式会社	O
+リクルートフロムエー	O
+（	O
+現	B-CompanyName
+株式会社リクルートジョブズ	I-CompanyName
+）	O
+取締役	B-Position
+就任	B-Start
+　	O
+管理部門	B-Position
+担当	I-Position
+
+株式会社	B-CompanyName
+ティビィシィ・スキヤツト	I-CompanyName
+株式会社	B-CompanyName
+ティビィシィ・スキヤツト	I-CompanyName
+常勤	B-Position
+監査役	I-Position
+株式会社	B-CompanyName
+ティビィシィ・スキヤツト	I-CompanyName
+常勤	B-Position
+監査役	I-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+JOCDN	B-CompanyName
+㈱	I-CompanyName
+JOCDN	B-CompanyName
+㈱	I-CompanyName
+ 取締役	O
+
+税理士法人	B-CompanyName
+ブレイン	I-CompanyName
+綜合	I-CompanyName
+会計	I-CompanyName
+税理士法人	B-CompanyName
+ブレイン	I-CompanyName
+綜合	I-CompanyName
+会計	I-CompanyName
+代表	B-Position
+(	O
+現任	O
+)	O
+
+株式会社不二家	B-CompanyName
+株式会社不二家	B-CompanyName
+執行役員	B-Position
+総務	I-Position
+人事	I-Position
+本部	I-Position
+総務	I-Position
+部長	I-Position
+
+日産東京販売ホールディングス株式会社	B-CompanyName
+日産東京販売ホールディングス株式会社	B-CompanyName
+常務執行役員	B-Position
+（	O
+現任	O
+）	O
+
+株式会社ジャフコ	O
+（	O
+現	O
+ジャフコ	B-CompanyName
+ グループ	I-CompanyName
+株式会社	I-CompanyName
+株式会社ジャフコ	O
+（	O
+現	O
+ジャフコ	B-CompanyName
+ グループ	I-CompanyName
+株式会社	I-CompanyName
+）	O
+広報	B-Position
+部長	I-Position
+
+株式会社伊予銀行	B-CompanyName
+株式会社伊予銀行	B-CompanyName
+取締役	B-Position
+システム	I-Position
+部長	I-Position
+
+同行	B-CompanyName
+同行	B-CompanyName
+人事部	B-Position
+副部長	I-Position
+教育	I-Position
+研修	I-Position
+室長	I-Position
+
+株式会社	B-CompanyName
+　	I-CompanyName
+トプコン	I-CompanyName
+株式会社	B-CompanyName
+　	I-CompanyName
+トプコン	I-CompanyName
+測量機器	B-Position
+事業部	I-Position
+副	I-Position
+技師長	I-Position
+
+KPMG	B-CompanyName
+会計事務所	I-CompanyName
+KPMG	B-CompanyName
+会計事務所	I-CompanyName
+　	O
+入所	B-Start
+
+㈱	B-CompanyName
+ハーベストン	I-CompanyName
+㈱	B-CompanyName
+ハーベストン	I-CompanyName
+入社	B-Start
+
+ＢＯ	B-Position
+戦略	I-Position
+本部長	I-Position
+
+㈲	B-CompanyName
+ネット	I-CompanyName
+ビジョン	I-CompanyName
+㈲	B-CompanyName
+ネット	I-CompanyName
+ビジョン	I-CompanyName
+代表取締役	B-Position
+㈲	B-CompanyName
+ネット	I-CompanyName
+ビジョン	I-CompanyName
+代表取締役	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+同社	O
+を	O
+株式会社	O
+に	O
+改組	B-Transfer
+同社	O
+を	O
+株式会社	O
+に	O
+改組	B-Transfer
+、	O
+新	O
+商号	O
+㈱	B-CompanyName
+ベクター	I-CompanyName
+同社	O
+を	O
+株式会社	O
+に	O
+改組	B-Transfer
+、	O
+新	O
+商号	O
+㈱	B-CompanyName
+ベクター	I-CompanyName
+代表取締役社長	B-Position
+同社	O
+を	O
+株式会社	O
+に	O
+改組	B-Transfer
+、	O
+新	O
+商号	O
+㈱	B-CompanyName
+ベクター	I-CompanyName
+代表取締役社長	B-Position
+(	O
+現任	O
+)	O
+ 兼	O
+営業	B-Position
+部長	I-Position
+
+東京窯業株式会社	B-CompanyName
+東京窯業株式会社	B-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社フライングガーデン	B-CompanyName
+株式会社フライングガーデン	B-CompanyName
+専務取締役	B-Position
+品質管理	I-Position
+室長	I-Position
+
+一般財団法人	B-CompanyName
+社会	I-CompanyName
+変革	I-CompanyName
+推進	I-CompanyName
+機構	I-CompanyName
+一般財団法人	B-CompanyName
+社会	I-CompanyName
+変革	I-CompanyName
+推進	I-CompanyName
+機構	I-CompanyName
+　	O
+監事	B-Position
+
+執行役員	B-Position
+海外	I-Position
+商品	I-Position
+部	I-Position
+貿易	I-Position
+業務	I-Position
+支援	I-Position
+グループ	I-Position
+兼	I-Position
+業務	I-Position
+グループ	I-Position
+マネージャー	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+執行役員	B-Position
+同社	B-CompanyName
+執行役員	B-Position
+、	O
+環境	B-Position
+・	I-Position
+安全対策	I-Position
+本部長	I-Position
+
+アサヒプリテック	B-CompanyName
+㈱	I-CompanyName
+アサヒプリテック	B-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+法律事務所	B-CompanyName
+LAB	I-CompanyName
+-	I-CompanyName
+01	I-CompanyName
+法律事務所	B-CompanyName
+LAB	I-CompanyName
+-	I-CompanyName
+01	I-CompanyName
+（	O
+ラボ	O
+ワン	O
+）	O
+所属	B-Position
+弁護士	I-Position
+（	O
+現任	O
+）	O
+
+城西	O
+リハウス	O
+(株)	O
+（	O
+現	O
+ 三井不動産リアルティ	O
+(株)	I-CompanyName
+城西	O
+リハウス	O
+(株)	O
+（	O
+現	O
+ 三井不動産リアルティ	O
+(株)	I-CompanyName
+）	O
+入社	B-Start
+
+泰国	B-CompanyName
+いすゞ自動車株式会社	I-CompanyName
+泰国	B-CompanyName
+いすゞ自動車株式会社	I-CompanyName
+取締役	B-Position
+上級副社長	I-Position
+
+茨城県	B-CompanyName
+生活	I-CompanyName
+協同組合連合会	I-CompanyName
+茨城県	B-CompanyName
+生活	I-CompanyName
+協同組合連合会	I-CompanyName
+理事	B-Position
+
+常務取締役	B-Position
+東京	I-Position
+営業	I-Position
+統括	I-Position
+（	O
+現任	O
+）	O
+
+株式会社白鳩	B-CompanyName
+株式会社白鳩	B-CompanyName
+監査役	B-Position
+(	O
+常勤	O
+)	O
+
+株式会社	B-CompanyName
+債券	I-CompanyName
+決済	I-CompanyName
+ネットワーク	I-CompanyName
+株式会社	B-CompanyName
+債券	I-CompanyName
+決済	I-CompanyName
+ネットワーク	I-CompanyName
+常務取締役	B-Position
+
+㈱	O
+大和銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+りそな銀行	I-CompanyName
+㈱	O
+大和銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+りそな銀行	I-CompanyName
+）	O
+入行	B-Start
+
+同所	B-CompanyName
+同所	B-CompanyName
+退所	B-End
+
+みずほ	B-CompanyName
+ビジネス	I-CompanyName
+パートナー	I-CompanyName
+株式会社	I-CompanyName
+みずほ	B-CompanyName
+ビジネス	I-CompanyName
+パートナー	I-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+みずほ	B-CompanyName
+ビジネス	I-CompanyName
+パートナー	I-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+　	O
+人事	B-Position
+総務部	I-Position
+担当	I-Position
+部長	I-Position
+
+大阪	B-CompanyName
+木津	I-CompanyName
+市場	I-CompanyName
+株式会社	I-CompanyName
+大阪	B-CompanyName
+木津	I-CompanyName
+市場	I-CompanyName
+株式会社	I-CompanyName
+　	O
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+最高検察庁	B-CompanyName
+最高検察庁	B-CompanyName
+次長検事	B-Position
+
+有機合成薬品工業株式会社	B-CompanyName
+有機合成薬品工業株式会社	B-CompanyName
+社外取締役	B-Position
+（	O
+現任	O
+）	O
+
+監査法人トーマツ	O
+(	O
+現	O
+ 有限責任監査法人トーマツ	O
+監査法人トーマツ	O
+(	O
+現	O
+ 有限責任監査法人トーマツ	O
+)	O
+入所	B-Start
+
+株式会社ＩＨＩ	B-CompanyName
+株式会社ＩＨＩ	B-CompanyName
+航空	B-Position
+・	I-Position
+宇宙	I-Position
+・	I-Position
+防衛	I-Position
+事業領域	I-Position
+民間	I-Position
+エンジン	I-Position
+事業	I-Position
+部長	I-Position
+
+参事	B-Position
+地域	I-Position
+応援	I-Position
+部長	I-Position
+
+井上	B-CompanyName
+監査法人	I-CompanyName
+井上	B-CompanyName
+監査法人	I-CompanyName
+入所	B-Start
+
+松井薬品	O
+㈱	O
+〔	O
+現	O
+㈱	B-CompanyName
+ファイネス	I-CompanyName
+松井薬品	O
+㈱	O
+〔	O
+現	O
+㈱	B-CompanyName
+ファイネス	I-CompanyName
+〕	O
+入社	B-Start
+
+株式会社データ・アプリケーション	B-CompanyName
+株式会社データ・アプリケーション	B-CompanyName
+入社	B-Start
+
+住吉	B-CompanyName
+食品	I-CompanyName
+㈲	I-CompanyName
+住吉	B-CompanyName
+食品	I-CompanyName
+㈲	I-CompanyName
+取締役	B-Position
+(	O
+現任	O
+)	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+ 常務取締役	O
+(	O
+現任	O
+)	O
+
+㈱	B-CompanyName
+スコア	I-CompanyName
+㈱	B-CompanyName
+スコア	I-CompanyName
+ 取締役会長	O
+
+株式会社	B-CompanyName
+ｃｏｔｔａ	I-CompanyName
+株式会社	B-CompanyName
+ｃｏｔｔａ	I-CompanyName
+入社	B-Start
+
+執行役員	B-Position
+執行役員	B-Position
+ 洋紙	O
+事業部	I-Position
+副	I-Position
+事業	I-Position
+部長	I-Position
+
+株式会社カワサキ	B-CompanyName
+株式会社カワサキ	B-CompanyName
+　	O
+専門店	B-Position
+部	I-Position
+部長	I-Position
+（	I-Position
+現	I-Position
+営業	I-Position
+統括	I-Position
+）	I-Position
+（	O
+現任	O
+）	O
+
+税理士法人	B-CompanyName
+ＳＫＣ	I-CompanyName
+古川	I-CompanyName
+直樹	I-CompanyName
+税理士	I-CompanyName
+事務所	I-CompanyName
+税理士法人	B-CompanyName
+ＳＫＣ	I-CompanyName
+古川	I-CompanyName
+直樹	I-CompanyName
+税理士	I-CompanyName
+事務所	I-CompanyName
+代表	B-Position
+（	O
+現任	O
+）	O
+
+伊藤忠食品株式会社	B-CompanyName
+伊藤忠食品株式会社	B-CompanyName
+入社	B-Start
+
+取締役	B-Position
+知的財産	I-Position
+部長	I-Position
+取締役	B-Position
+知的財産	I-Position
+部長	I-Position
+就任	B-Start
+(	O
+現	O
+)	O
+
+東京弁護士会	B-CompanyName
+東京弁護士会	B-CompanyName
+登録	B-Start
+東京弁護士会	B-CompanyName
+登録	B-Start
+・	O
+山浦	B-CompanyName
+法律事務所	I-CompanyName
+東京弁護士会	B-CompanyName
+登録	B-Start
+・	O
+山浦	B-CompanyName
+法律事務所	I-CompanyName
+入所	B-Start
+
+㈱	B-CompanyName
+ポル	I-CompanyName
+・	I-CompanyName
+メド	I-CompanyName
+・	I-CompanyName
+テック	I-CompanyName
+㈱	B-CompanyName
+ポル	I-CompanyName
+・	I-CompanyName
+メド	I-CompanyName
+・	I-CompanyName
+テック	I-CompanyName
+ 取締役	O
+(	O
+現任	O
+)	O
+
+三菱重工業株式会社	B-CompanyName
+三菱重工業株式会社	B-CompanyName
+取締役	B-Position
+三菱重工業株式会社	B-CompanyName
+取締役	B-Position
+ 監査	O
+等	I-Position
+委員	I-Position
+(	O
+現職	O
+)	O
+
+凸版印刷	B-CompanyName
+㈱	I-CompanyName
+凸版印刷	B-CompanyName
+㈱	I-CompanyName
+入社	B-Start
+
+㈱	B-CompanyName
+ユウシュウ	I-CompanyName
+建物	I-CompanyName
+㈱	B-CompanyName
+ユウシュウ	I-CompanyName
+建物	I-CompanyName
+代表取締役社長	B-Position
+㈱	B-CompanyName
+ユウシュウ	I-CompanyName
+建物	I-CompanyName
+代表取締役社長	B-Position
+清和	B-CompanyName
+総合	I-CompanyName
+建物	I-CompanyName
+㈱	I-CompanyName
+㈱	B-CompanyName
+ユウシュウ	I-CompanyName
+建物	I-CompanyName
+代表取締役社長	B-Position
+清和	B-CompanyName
+総合	I-CompanyName
+建物	I-CompanyName
+㈱	I-CompanyName
+監査役	B-Position
+
+小野薬品工業株式会社	B-CompanyName
+小野薬品工業株式会社	B-CompanyName
+社外監査役	B-Position
+
+早稲田大学	B-CompanyName
+早稲田大学	B-CompanyName
+商学部	B-Position
+教授	I-Position
+早稲田大学	B-CompanyName
+商学部	B-Position
+教授	I-Position
+就任	B-Start
+
+モーニングスター株式会社	B-CompanyName
+モーニングスター株式会社	B-CompanyName
+社外取締役	B-Position
+（	O
+現任	O
+）	O
+
+東北	B-CompanyName
+電気工事	I-CompanyName
+㈱	I-CompanyName
+東北	B-CompanyName
+電気工事	I-CompanyName
+㈱	I-CompanyName
+入社	B-Start
+
+フロイント産業株式会社	B-CompanyName
+フロイント産業株式会社	B-CompanyName
+取締役	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+ 顧問	O
+
+公認会計士	B-Position
+公認会計士	B-Position
+第	O
+二次	O
+試験	O
+合格	B-Start
+
+ベステラ株式会社	B-CompanyName
+ベステラ株式会社	B-CompanyName
+　	O
+監査役	B-Position
+(	O
+現任	O
+)	O
+
+高砂熱学工業株式会社	B-CompanyName
+高砂熱学工業株式会社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+コンプライアンス	I-Position
+担当	I-Position
+高砂熱学工業株式会社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+コンプライアンス	I-Position
+担当	I-Position
+兼	O
+コーポレート	B-Position
+本部	I-Position
+管掌	I-Position
+兼	I-Position
+業務	I-Position
+刷新	I-Position
+本部	I-Position
+管掌	I-Position
+
+原田工業株式会社	B-CompanyName
+原田工業株式会社	B-CompanyName
+上席	B-Position
+執行役員	I-Position
+
+多田建設	B-CompanyName
+㈱	I-CompanyName
+多田建設	B-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+高周波熱錬株式会社	B-CompanyName
+高周波熱錬株式会社	B-CompanyName
+嘱託	B-Position
+社長	I-Position
+付	I-Position
+
+ジェコス株式会社	B-CompanyName
+ジェコス株式会社	B-CompanyName
+入社	B-Start
+
+株式会社エクセディ	B-CompanyName
+株式会社エクセディ	B-CompanyName
+執行役員	B-Position
+
+取締役	B-Position
+執行役員	I-Position
+製品	I-Position
+事業	I-Position
+本部	I-Position
+製品	I-Position
+部長	I-Position
+
+株式会社エフ・ジェー・ネクスト	B-CompanyName
+株式会社エフ・ジェー・ネクスト	B-CompanyName
+取締役	B-Position
+
+税理士	B-CompanyName
+税理士	B-CompanyName
+登録	B-Start
+
+監査法人トーマツ	O
+（	O
+現	O
+有限責任監査法人トーマツ	B-CompanyName
+監査法人トーマツ	O
+（	O
+現	O
+有限責任監査法人トーマツ	B-CompanyName
+）	O
+入所	B-Start
+
+武蔵精密工業株式会社	B-CompanyName
+武蔵精密工業株式会社	B-CompanyName
+総務部	B-Position
+Ｍ	I-Position
+ＣＧ	I-Position
+推進	I-Position
+課	I-Position
+主幹	I-Position
+
+株式会社	B-CompanyName
+ジェイ・エス・ビー	I-CompanyName
+株式会社	B-CompanyName
+ジェイ・エス・ビー	I-CompanyName
+執行役員	B-Position
+株式会社	B-CompanyName
+ジェイ・エス・ビー	I-CompanyName
+執行役員	B-Position
+就任	B-Start
+
+ＡＴ＆Ｔ	B-CompanyName
+グローバル	I-CompanyName
+ネットワーク	I-CompanyName
+サービス	I-CompanyName
+日本法人	I-CompanyName
+ＡＴ＆Ｔ	B-CompanyName
+グローバル	I-CompanyName
+ネットワーク	I-CompanyName
+サービス	I-CompanyName
+日本法人	I-CompanyName
+社長	B-Position
+
+関西学院大学	B-CompanyName
+大学院	I-CompanyName
+関西学院大学	B-CompanyName
+大学院	I-CompanyName
+司法	B-Position
+研究科	I-Position
+非常勤講師	I-Position
+（	O
+現任	O
+）	O
+
+弁護士	B-CompanyName
+弁護士	B-CompanyName
+登録	B-Start
+（	O
+第二東京弁護士会	O
+）	O
+
+白井	B-CompanyName
+電子	I-CompanyName
+商	I-CompanyName
+貿	I-CompanyName
+(	I-CompanyName
+深セン	I-CompanyName
+)	I-CompanyName
+有限公司	I-CompanyName
+白井	B-CompanyName
+電子	I-CompanyName
+商	I-CompanyName
+貿	I-CompanyName
+(	I-CompanyName
+深セン	I-CompanyName
+)	I-CompanyName
+有限公司	I-CompanyName
+出向	B-Start
+白井	B-CompanyName
+電子	I-CompanyName
+商	I-CompanyName
+貿	I-CompanyName
+(	I-CompanyName
+深セン	I-CompanyName
+)	I-CompanyName
+有限公司	I-CompanyName
+出向	B-Start
+　	O
+本部長	B-Position
+
+名古屋中村	B-CompanyName
+税務署	I-CompanyName
+名古屋中村	B-CompanyName
+税務署	I-CompanyName
+副	B-Position
+署長	I-Position
+
+マネックスグループ	B-CompanyName
+㈱	I-CompanyName
+マネックスグループ	B-CompanyName
+㈱	I-CompanyName
+執行役員	B-Position
+社長	I-Position
+室	I-Position
+室長	I-Position
+
+菊水電子工業株式会社	B-CompanyName
+菊水電子工業株式会社	B-CompanyName
+営業	B-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+
+TOREX	B-CompanyName
+ USA	I-CompanyName
+ Corp	I-CompanyName
+.	I-CompanyName
+TOREX	B-CompanyName
+ USA	I-CompanyName
+ Corp	I-CompanyName
+.	I-CompanyName
+ Director	O
+(	I-Position
+CFO	I-Position
+)（	I-Position
+現任	O
+）	O
+
+執行役員	B-Position
+
+長島・大野・常松法律事務所	B-CompanyName
+長島・大野・常松法律事務所	B-CompanyName
+入所	B-Start
+
+海洋	B-CompanyName
+食品	I-CompanyName
+㈱	I-CompanyName
+海洋	B-CompanyName
+食品	I-CompanyName
+㈱	I-CompanyName
+出向	B-Start
+
+ムーディーズ・アナリティックス・ジャパン	B-CompanyName
+株式会社	I-CompanyName
+ムーディーズ・アナリティックス・ジャパン	B-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+技術	B-Position
+統括	I-Position
+技術	I-Position
+管理	I-Position
+本部	I-Position
+ 事業	I-Position
+管理	I-Position
+部長	I-Position
+
+株式会社	B-CompanyName
+イン	I-CompanyName
+ソース	I-CompanyName
+株式会社	B-CompanyName
+イン	I-CompanyName
+ソース	I-CompanyName
+設立	B-Start
+株式会社	B-CompanyName
+イン	I-CompanyName
+ソース	I-CompanyName
+設立	B-Start
+、	O
+株式会社	B-CompanyName
+イン	I-CompanyName
+ソース	I-CompanyName
+株式会社	B-CompanyName
+イン	I-CompanyName
+ソース	I-CompanyName
+設立	B-Start
+、	O
+株式会社	B-CompanyName
+イン	I-CompanyName
+ソース	I-CompanyName
+代表取締役	B-Position
+株式会社	B-CompanyName
+イン	I-CompanyName
+ソース	I-CompanyName
+設立	B-Start
+、	O
+株式会社	B-CompanyName
+イン	I-CompanyName
+ソース	I-CompanyName
+代表取締役	B-Position
+就任	B-Start
+
+アネスト岩田株式会社	B-CompanyName
+アネスト岩田株式会社	B-CompanyName
+社外監査役	B-Position
+
+執行役員	B-Position
+ナス	I-Position
+ラック	I-Position
+㈱	I-Position
+担当	I-Position
+
+石井	B-CompanyName
+啓之	I-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+石井	B-CompanyName
+啓之	I-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+開設	B-Start
+現在	O
+に	O
+至る	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+常勤	B-Position
+監査役	I-Position
+同社	B-CompanyName
+常勤	B-Position
+監査役	I-Position
+就任	B-Start
+(	O
+現任	O
+)	O
+
+総務	B-Position
+人事	I-Position
+企画部	I-Position
+担当	I-Position
+部長	I-Position
+総務	B-Position
+人事	I-Position
+企画部	I-Position
+担当	I-Position
+部長	I-Position
+兼	O
+企業法務	B-Position
+課長	I-Position
+
+東日本旅客鉄道株式会社	B-CompanyName
+東日本旅客鉄道株式会社	B-CompanyName
+常務取締役	B-Position
+鉄道事業	I-Position
+本部長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+経営企画	B-Position
+部長	I-Position
+
+同行	B-CompanyName
+同行	B-CompanyName
+多摩	B-Position
+支店長	I-Position
+
+代表取締役社長	B-Position
+代表取締役社長	B-Position
+に	O
+就任	B-Start
+、	O
+現在	O
+に	O
+至る	O
+
+株式会社建設技術研究所	B-CompanyName
+株式会社建設技術研究所	B-CompanyName
+執行役員	B-Position
+
+株式会社	B-CompanyName
+ジェイアール西日本デイリーサービスネット	I-CompanyName
+株式会社	B-CompanyName
+ジェイアール西日本デイリーサービスネット	I-CompanyName
+出向	B-Start
+
+特販	B-Position
+部長	I-Position
+
+株式会社倉元製作所	B-CompanyName
+株式会社倉元製作所	B-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社小田原エンジニアリング	B-CompanyName
+株式会社小田原エンジニアリング	B-CompanyName
+取締役	B-Position
+株式会社小田原エンジニアリング	B-CompanyName
+取締役	B-Position
+　	O
+営業	B-Position
+部長	I-Position
+
+HC	B-Position
+店舗運営	I-Position
+統括	I-Position
+部長	I-Position
+HC	B-Position
+店舗運営	I-Position
+統括	I-Position
+部長	I-Position
+兼	O
+専門店	B-Position
+統括	I-Position
+部長	I-Position
+
+常務取締役	B-Position
+執行役員	I-Position
+和歌山	I-Position
+工場長	I-Position
+ＩＳＯ	I-Position
+担当	I-Position
+（	O
+現	O
+）	O
+
+公認会計士	B-Position
+公認会計士	B-Position
+登録	B-Start
+
+エイチ・ツー・オー	B-CompanyName
+　	I-CompanyName
+リテイリング	I-CompanyName
+株式会社	I-CompanyName
+エイチ・ツー・オー	B-CompanyName
+　	I-CompanyName
+リテイリング	I-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+
+ブリッジインターナショナル株式会社	B-CompanyName
+ブリッジインターナショナル株式会社	B-CompanyName
+取締役	B-Position
+ブリッジインターナショナル株式会社	B-CompanyName
+取締役	B-Position
+就任	B-Start
+現在	O
+に	O
+至る	O
+
+スターツコーポレーション株式会社	B-CompanyName
+スターツコーポレーション株式会社	B-CompanyName
+取締役	B-Position
+スターツコーポレーション株式会社	B-CompanyName
+取締役	B-Position
+兼	O
+スターツ	B-CompanyName
+ピタットハウス	I-CompanyName
+株式会社	I-CompanyName
+スターツコーポレーション株式会社	B-CompanyName
+取締役	B-Position
+兼	O
+スターツ	B-CompanyName
+ピタットハウス	I-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+スターツコーポレーション株式会社	B-CompanyName
+取締役	B-Position
+兼	O
+スターツ	B-CompanyName
+ピタットハウス	I-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+就任	B-Start
+
+イワキインフォテインメント	B-CompanyName
+株式会社	I-CompanyName
+イワキインフォテインメント	B-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+
+リンテック株式会社	B-CompanyName
+リンテック株式会社	B-CompanyName
+生産	B-Position
+本部	I-Position
+龍野	I-Position
+工場長	I-Position
+
+取締役会長	B-Position
+、	O
+現在	O
+に	O
+至る	O
+
+森尾電機株式会社	B-CompanyName
+森尾電機株式会社	B-CompanyName
+入社	B-Start
+
+㈱	B-CompanyName
+スシローグローバルホールディングス	I-CompanyName
+㈱	B-CompanyName
+スシローグローバルホールディングス	I-CompanyName
+社外取締役	B-Position
+㈱	B-CompanyName
+スシローグローバルホールディングス	I-CompanyName
+社外取締役	B-Position
+・	O
+監査	B-Position
+等	I-Position
+委員	I-Position
+（	O
+現任	O
+）	O
+
+株式会社金剛	O
+建	O
+機	O
+（	O
+現	O
+ 金剛株式会社	O
+株式会社金剛	O
+建	O
+機	O
+（	O
+現	O
+ 金剛株式会社	O
+）	O
+入社	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+顧問	B-Position
+同社	B-CompanyName
+顧問	B-Position
+（	O
+現任	O
+）	O
+株式会社トーホー	B-CompanyName
+同社	B-CompanyName
+顧問	B-Position
+（	O
+現任	O
+）	O
+株式会社トーホー	B-CompanyName
+常勤	B-Position
+監査役	I-Position
+（	O
+現任	O
+）	O
+
+明石	B-Position
+工場	I-Position
+製造	I-Position
+部長	I-Position
+
+若築建設株式会社	B-CompanyName
+若築建設株式会社	B-CompanyName
+管理部門	B-Position
+財務	I-Position
+部	I-Position
+・	I-Position
+部長	I-Position
+
+小野建	B-CompanyName
+沖縄	I-CompanyName
+株式会社	I-CompanyName
+小野建	B-CompanyName
+沖縄	I-CompanyName
+株式会社	I-CompanyName
+代表取締役会長	B-Position
+（	O
+現任	O
+）	O
+
+安田不動産	B-CompanyName
+㈱	I-CompanyName
+安田不動産	B-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+ビル	I-Position
+営業	I-Position
+部長	I-Position
+
+ソフトバンク株式会社	B-CompanyName
+ソフトバンク株式会社	B-CompanyName
+代表取締役	B-Position
+ソフトバンク株式会社	B-CompanyName
+代表取締役	B-Position
+ 副社長	O
+執行役員	I-Position
+ソフトバンク株式会社	B-CompanyName
+代表取締役	B-Position
+ 副社長	O
+執行役員	I-Position
+ 兼	O
+ CTO	O
+
+東北セルラー電話	B-CompanyName
+株式会社	I-CompanyName
+東北セルラー電話	B-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+
+専務取締役	B-Position
+専務取締役	B-Position
+就任	B-Start
+　	O
+現任	O
+
+小倉北警察署	B-Position
+長	I-Position
+
+株式会社平賀	B-CompanyName
+株式会社平賀	B-CompanyName
+監査役	B-Position
+(	O
+現任	O
+)	O
+
+早川	B-CompanyName
+尚志	I-CompanyName
+法律事務所	I-CompanyName
+早川	B-CompanyName
+尚志	I-CompanyName
+法律事務所	I-CompanyName
+開設	B-Start
+
+丸紅	B-CompanyName
+カナダ	I-CompanyName
+会社	I-CompanyName
+丸紅	B-CompanyName
+カナダ	I-CompanyName
+会社	I-CompanyName
+　	O
+バンクーバー	B-Position
+副	I-Position
+支店長	I-Position
+
+㈱	O
+WASABI	O
+（	O
+現	O
+㈱	B-CompanyName
+BG	I-CompanyName
+ナビ	I-CompanyName
+㈱	O
+WASABI	O
+（	O
+現	O
+㈱	B-CompanyName
+BG	I-CompanyName
+ナビ	I-CompanyName
+）	O
+設立	B-Start
+㈱	O
+WASABI	O
+（	O
+現	O
+㈱	B-CompanyName
+BG	I-CompanyName
+ナビ	I-CompanyName
+）	O
+設立	B-Start
+ 代表取締役	O
+
+株式会社	O
+日本	O
+長期信用銀行	O
+（	O
+現	O
+ 株式会社新生銀行	O
+株式会社	O
+日本	O
+長期信用銀行	O
+（	O
+現	O
+ 株式会社新生銀行	O
+）	O
+　	O
+入行	B-Start
+
+同行	B-CompanyName
+同行	B-CompanyName
+国際	B-Position
+担当	I-Position
+審議	I-Position
+役	I-Position
+同行	B-CompanyName
+国際	B-Position
+担当	I-Position
+審議	I-Position
+役	I-Position
+（	O
+兼	O
+）	O
+総務部	B-Position
+広報室	I-Position
+長	I-Position
+
+株式会社ＩＨＩ	B-CompanyName
+株式会社ＩＨＩ	B-CompanyName
+常務執行役員	B-Position
+株式会社ＩＨＩ	B-CompanyName
+常務執行役員	B-Position
+ 航空宇宙	O
+事業	I-Position
+本部長	I-Position
+株式会社ＩＨＩ	B-CompanyName
+常務執行役員	B-Position
+ 航空宇宙	O
+事業	I-Position
+本部長	I-Position
+ （	O
+兼	O
+）	O
+高度	B-Position
+情報	I-Position
+マネジメント	I-Position
+統括	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+社外取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+同社	B-CompanyName
+社外取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+就任	B-Start
+
+ネットワンシステムズ株式会社	B-CompanyName
+ネットワンシステムズ株式会社	B-CompanyName
+社外監査役	B-Position
+
+法政大学	B-CompanyName
+法政大学	B-CompanyName
+　	O
+講師	B-Position
+
+クリナップ株式会社	B-CompanyName
+クリナップ株式会社	B-CompanyName
+取締役	B-Position
+
+株式会社オークネット	B-CompanyName
+株式会社オークネット	B-CompanyName
+専務取締役	B-Position
+
+取締役	B-Position
+ＩＴ	I-Position
+部	I-Position
+担当	I-Position
+部長	I-Position
+
+日本弁理士会	B-CompanyName
+日本弁理士会	B-CompanyName
+副会長	B-Position
+
+㈱	B-CompanyName
+ビーイング	I-CompanyName
+DC	I-CompanyName
+㈱	B-CompanyName
+ビーイング	I-CompanyName
+DC	I-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社ケア２１	B-CompanyName
+株式会社ケア２１	B-CompanyName
+　	O
+取締役	B-Position
+
+株式会社ピクセラ	B-CompanyName
+株式会社ピクセラ	B-CompanyName
+常勤	B-Position
+監査役	I-Position
+（	O
+現任	O
+）	O
+
+日本弁護士連合会	B-CompanyName
+日本弁護士連合会	B-CompanyName
+常務理事	B-Position
+
+同	B-CompanyName
+監査法人	I-CompanyName
+同	B-CompanyName
+監査法人	I-CompanyName
+経営	B-Position
+専務理事	I-Position
+
+アルテック株式会社	B-CompanyName
+アルテック株式会社	B-CompanyName
+入社	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+常務取締役	B-Position
+
+野村ホールディングス株式会社	B-CompanyName
+野村ホールディングス株式会社	B-CompanyName
+ 社外取締役	O
+野村ホールディングス株式会社	B-CompanyName
+ 社外取締役	O
+   野村證券株式会社	O
+野村ホールディングス株式会社	B-CompanyName
+ 社外取締役	O
+   野村證券株式会社	O
+ 社外取締役	O
+
+デュプロ	B-CompanyName
+精	I-CompanyName
+工	I-CompanyName
+株式会社	I-CompanyName
+デュプロ	B-CompanyName
+精	I-CompanyName
+工	I-CompanyName
+株式会社	I-CompanyName
+社外監査役	B-Position
+デュプロ	B-CompanyName
+精	I-CompanyName
+工	I-CompanyName
+株式会社	I-CompanyName
+社外監査役	B-Position
+就任	B-Start
+（	O
+現	O
+）	O
+
+株式会社ナカヨ	B-CompanyName
+株式会社ナカヨ	B-CompanyName
+執行役員	B-Position
+開発	I-Position
+推進	I-Position
+本部長	I-Position
+株式会社ナカヨ	B-CompanyName
+執行役員	B-Position
+開発	I-Position
+推進	I-Position
+本部長	I-Position
+兼	O
+機構	B-Position
+設計	I-Position
+部長	I-Position
+
+旭コンクリート工業株式会社	B-CompanyName
+旭コンクリート工業株式会社	B-CompanyName
+入社	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+顧問	B-Position
+
+株式会社	B-CompanyName
+トップ	I-CompanyName
+エンジニアリング	I-CompanyName
+株式会社	B-CompanyName
+トップ	I-CompanyName
+エンジニアリング	I-CompanyName
+　	O
+常務取締役	B-Position
+
+株式会社	B-CompanyName
+キャリア	I-CompanyName
+株式会社	B-CompanyName
+キャリア	I-CompanyName
+取締役	B-Position
+(	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+)	I-Position
+株式会社	B-CompanyName
+キャリア	I-CompanyName
+取締役	B-Position
+(	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+)	I-Position
+就任	B-Start
+(	O
+現任	O
+)	O
+
+株式会社サトー商会	B-CompanyName
+株式会社サトー商会	B-CompanyName
+取締役	B-Position
+営業	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+株式会社サトー商会	B-CompanyName
+取締役	B-Position
+営業	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+兼	O
+惣菜	B-Position
+部長	I-Position
+
+執行役員	B-Position
+大阪	I-Position
+支店長	I-Position
+
+大和	B-CompanyName
+PI	I-CompanyName
+パートナーズ	I-CompanyName
+㈱	I-CompanyName
+大和	B-CompanyName
+PI	I-CompanyName
+パートナーズ	I-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+(	O
+現	O
+)	O
+
+イオン北海道株式会社	B-CompanyName
+イオン北海道株式会社	B-CompanyName
+道央	B-Position
+第	I-Position
+２	I-Position
+事業	I-Position
+部長	I-Position
+
+株式会社	O
+日本興業銀行	O
+（	O
+現	O
+株式会社みずほ銀行	B-CompanyName
+株式会社	O
+日本興業銀行	O
+（	O
+現	O
+株式会社みずほ銀行	B-CompanyName
+）	O
+入行	B-Position
+
+ウインテスト株式会社	B-CompanyName
+ウインテスト株式会社	B-CompanyName
+顧問	B-Position
+
+管理部	B-Position
+経理	I-Position
+・	I-Position
+人事	I-Position
+担当	I-Position
+部長	I-Position
+
+プラザ	B-CompanyName
+賃貸	I-CompanyName
+管理	I-CompanyName
+保証	I-CompanyName
+㈱	I-CompanyName
+プラザ	B-CompanyName
+賃貸	I-CompanyName
+管理	I-CompanyName
+保証	I-CompanyName
+㈱	I-CompanyName
+監査役	B-Position
+プラザ	B-CompanyName
+賃貸	I-CompanyName
+管理	I-CompanyName
+保証	I-CompanyName
+㈱	I-CompanyName
+監査役	B-Position
+就任	B-Start
+
+株式会社三井住友銀行	B-CompanyName
+株式会社三井住友銀行	B-CompanyName
+ 経営企画	O
+部	I-Position
+株式会社三井住友銀行	B-CompanyName
+ 経営企画	O
+部	I-Position
+ 上席	O
+部長	I-Position
+代理	I-Position
+
+同	B-CompanyName
+法人	I-CompanyName
+同	B-CompanyName
+法人	I-CompanyName
+　	O
+常務理事	B-Position
+
+株式会社三菱東京ＵＦＪ銀行	O
+（	O
+現	O
+株式会社	B-CompanyName
+三菱	I-CompanyName
+ＵＦＪ	I-CompanyName
+銀行	I-CompanyName
+株式会社三菱東京ＵＦＪ銀行	O
+（	O
+現	O
+株式会社	B-CompanyName
+三菱	I-CompanyName
+ＵＦＪ	I-CompanyName
+銀行	I-CompanyName
+）	O
+大阪	B-Position
+営業	I-Position
+本部	I-Position
+大阪	I-Position
+営業	I-Position
+第一部	I-Position
+次長	I-Position
+
+ネスレ日本	B-CompanyName
+㈱	I-CompanyName
+ネスレ日本	B-CompanyName
+㈱	I-CompanyName
+代表取締役社長	B-Position
+ネスレ日本	B-CompanyName
+㈱	I-CompanyName
+代表取締役社長	B-Position
+兼	O
+CEO	B-Position
+ネスレ日本	B-CompanyName
+㈱	I-CompanyName
+代表取締役社長	B-Position
+兼	O
+CEO	B-Position
+就任	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役	B-Position
+社長	I-Position
+同社	B-CompanyName
+取締役	B-Position
+社長	I-Position
+就任	B-Start
+
+キリンホールディングス株式会社	B-CompanyName
+キリンホールディングス株式会社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+キリンホールディングス株式会社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+キリン	B-CompanyName
+㈱	I-CompanyName
+キリンホールディングス株式会社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+キリン	B-CompanyName
+㈱	I-CompanyName
+常務執行役員	B-Position
+キリンホールディングス株式会社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+キリン	B-CompanyName
+㈱	I-CompanyName
+常務執行役員	B-Position
+キリン	B-CompanyName
+ビジネスシステム	I-CompanyName
+㈱	I-CompanyName
+キリンホールディングス株式会社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+キリン	B-CompanyName
+㈱	I-CompanyName
+常務執行役員	B-Position
+キリン	B-CompanyName
+ビジネスシステム	I-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+キリンホールディングス株式会社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+キリン	B-CompanyName
+㈱	I-CompanyName
+常務執行役員	B-Position
+キリン	B-CompanyName
+ビジネスシステム	I-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+協和発酵キリン	O
+㈱	O
+(	O
+現	O
+ 協和	O
+キリン	I-CompanyName
+㈱	I-CompanyName
+キリンホールディングス株式会社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+キリン	B-CompanyName
+㈱	I-CompanyName
+常務執行役員	B-Position
+キリン	B-CompanyName
+ビジネスシステム	I-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+協和発酵キリン	O
+㈱	O
+(	O
+現	O
+ 協和	O
+キリン	I-CompanyName
+㈱	I-CompanyName
+)	O
+取締役	B-Position
+
+日本ハム株式会社	B-CompanyName
+日本ハム株式会社	B-CompanyName
+取締役	B-Position
+（	I-Position
+常務執行役員	I-Position
+）	I-Position
+経営企画	I-Position
+本部長	I-Position
+日本ハム株式会社	B-CompanyName
+取締役	B-Position
+（	I-Position
+常務執行役員	I-Position
+）	I-Position
+経営企画	I-Position
+本部長	I-Position
+、	O
+中央	B-Position
+研究所	I-Position
+担当	I-Position
+日本ハム株式会社	B-CompanyName
+取締役	B-Position
+（	I-Position
+常務執行役員	I-Position
+）	I-Position
+経営企画	I-Position
+本部長	I-Position
+、	O
+中央	B-Position
+研究所	I-Position
+担当	I-Position
+、	O
+北海道	B-Position
+プロジェクト	I-Position
+推進	I-Position
+担当	I-Position
+（	O
+現在	O
+）	O
+
+株式会社ノエビアホールディングス	B-CompanyName
+株式会社ノエビアホールディングス	B-CompanyName
+代表取締役会長	B-Position
+(	O
+現	O
+)	O
+
+光村印刷株式会社	B-CompanyName
+光村印刷株式会社	B-CompanyName
+取締役	B-Position
+副社長	I-Position
+執行役員	I-Position
+
+"	O
+株式会社きもと	B-CompanyName
+"	O
+株式会社きもと	B-CompanyName
+営業	B-Position
+副	I-Position
+本部長	I-Position
+"	O
+株式会社きもと	B-CompanyName
+営業	B-Position
+副	I-Position
+本部長	I-Position
+兼	O
+KIMOTO	B-CompanyName
+ TECH	I-CompanyName
+,	I-CompanyName
+ INC	I-CompanyName
+.	I-CompanyName
+"	O
+株式会社きもと	B-CompanyName
+営業	B-Position
+副	I-Position
+本部長	I-Position
+兼	O
+KIMOTO	B-CompanyName
+ TECH	I-CompanyName
+,	I-CompanyName
+ INC	I-CompanyName
+.	I-CompanyName
+執行役員	B-Position
+"	O
+
+イノテック株式会社	B-CompanyName
+イノテック株式会社	B-CompanyName
+取締役	B-Position
+管理	I-Position
+本部長	I-Position
+
+ヤマシンフィルタ株式会社	B-CompanyName
+ヤマシンフィルタ株式会社	B-CompanyName
+社外取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+ヤマシンフィルタ株式会社	B-CompanyName
+社外取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+京極運輸商事株式会社	B-CompanyName
+京極運輸商事株式会社	B-CompanyName
+入社	B-Position
+
+大王製紙	B-CompanyName
+㈱	I-CompanyName
+大王製紙	B-CompanyName
+㈱	I-CompanyName
+入社	B-Start
+
+取締役	B-Position
+取締役	B-Position
+経営管理	B-Position
+本部長	I-Position
+（	O
+現任	O
+）	O
+
+名古屋国税局	B-CompanyName
+名古屋国税局	B-CompanyName
+総務部	B-Position
+営繕	I-Position
+管理官	I-Position
+
+澤藤電機株式会社	B-CompanyName
+澤藤電機株式会社	B-CompanyName
+顧問	B-Position
+
+シュッピン株式会社	B-CompanyName
+シュッピン株式会社	B-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+M&Aキャピタルパートナーズ株式会社	B-CompanyName
+M&Aキャピタルパートナーズ株式会社	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社	B-CompanyName
+リテールパートナーズ	I-CompanyName
+株式会社	B-CompanyName
+リテールパートナーズ	I-CompanyName
+取締役	B-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+（	O
+現任	O
+）	O
+
+拓	B-CompanyName
+莉	I-CompanyName
+司	I-CompanyName
+国際	I-CompanyName
+有限公司	I-CompanyName
+拓	B-CompanyName
+莉	I-CompanyName
+司	I-CompanyName
+国際	I-CompanyName
+有限公司	I-CompanyName
+取締役	B-Position
+(	O
+現任	O
+)	O
+
+(	O
+現	O
+)	O
+東北	B-CompanyName
+那須	I-CompanyName
+電機	I-CompanyName
+株式会社	I-CompanyName
+(	O
+現	O
+)	O
+東北	B-CompanyName
+那須	I-CompanyName
+電機	I-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+
+株式会社リード	B-CompanyName
+株式会社リード	B-CompanyName
+営業	B-Position
+部長	I-Position
+
+名古屋	O
+弁護士会	O
+ （	O
+現	O
+　	O
+愛知県弁護士会	B-CompanyName
+名古屋	O
+弁護士会	O
+ （	O
+現	O
+　	O
+愛知県弁護士会	B-CompanyName
+）	O
+弁護士	B-Position
+名古屋	O
+弁護士会	O
+ （	O
+現	O
+　	O
+愛知県弁護士会	B-CompanyName
+）	O
+弁護士	B-Position
+登録	B-Start
+
+株式会社ビジネスブレイン太田昭和	B-CompanyName
+株式会社ビジネスブレイン太田昭和	B-CompanyName
+執行役員	B-Position
+営業	I-Position
+統括	I-Position
+本部	I-Position
+営業	I-Position
+本部長	I-Position
+
+来世	B-CompanyName
+幸福	I-CompanyName
+セレモニー	I-CompanyName
+株式会社	I-CompanyName
+来世	B-CompanyName
+幸福	I-CompanyName
+セレモニー	I-CompanyName
+株式会社	I-CompanyName
+　	O
+代表取締役	B-Position
+（	O
+現任	O
+）	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+取締役	B-Position
+同社	B-CompanyName
+　	O
+取締役	B-Position
+　	O
+指名	B-Position
+委員	I-Position
+同社	B-CompanyName
+　	O
+取締役	B-Position
+　	O
+指名	B-Position
+委員	I-Position
+　	O
+専務執行役	B-Position
+同社	B-CompanyName
+　	O
+取締役	B-Position
+　	O
+指名	B-Position
+委員	I-Position
+　	O
+専務執行役	B-Position
+　	O
+経営企画	B-Position
+・	I-Position
+関係会社	I-Position
+担当	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+顧問	B-Position
+（	O
+現任	O
+）	O
+
+モジュール	B-Position
+事業部	I-Position
+技術	I-Position
+グループ	I-Position
+部長	I-Position
+
+美樹工業株式会社	B-CompanyName
+美樹工業株式会社	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社平和	B-CompanyName
+株式会社平和	B-CompanyName
+常務取締役	B-Position
+管理	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+株式会社平和	B-CompanyName
+常務取締役	B-Position
+管理	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+兼	O
+経理	B-Position
+グループ	I-Position
+担当	I-Position
+
+㈱	B-Position
+パートナーズ	I-Position
+・	I-Position
+コンサルティング	I-Position
+㈱	B-Position
+パートナーズ	I-Position
+・	I-Position
+コンサルティング	I-Position
+入社	B-Start
+
+ＷＡＳＨＨＯＵＳＥ	B-CompanyName
+（	I-CompanyName
+Ｓｈａｎｄｏｎｇ	I-CompanyName
+）	I-CompanyName
+ ＣＯ	I-CompanyName
+．	I-CompanyName
+，	I-CompanyName
+ＬＴＤ	I-CompanyName
+．	I-CompanyName
+ＷＡＳＨＨＯＵＳＥ	B-CompanyName
+（	I-CompanyName
+Ｓｈａｎｄｏｎｇ	I-CompanyName
+）	I-CompanyName
+ ＣＯ	I-CompanyName
+．	I-CompanyName
+，	I-CompanyName
+ＬＴＤ	I-CompanyName
+．	I-CompanyName
+ 董事長	O
+（	O
+現任	O
+）	O
+
+株式会社ロブテックス	B-CompanyName
+株式会社ロブテックス	B-CompanyName
+補欠	B-Position
+監査役	I-Position
+
+筑波	B-CompanyName
+信用	I-CompanyName
+保証	I-CompanyName
+株式会社	I-CompanyName
+筑波	B-CompanyName
+信用	I-CompanyName
+保証	I-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+（	O
+現任	O
+）	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+株式	B-Position
+調査部	I-Position
+（	I-Position
+ヘルスケア	I-Position
+担当	I-Position
+）	I-Position
+
+わか	B-CompanyName
+さ	I-CompanyName
+屋	I-CompanyName
+美術	I-CompanyName
+印刷所	I-CompanyName
+わか	B-CompanyName
+さ	I-CompanyName
+屋	I-CompanyName
+美術	I-CompanyName
+印刷所	I-CompanyName
+入社	B-Start
+
+日本郵政公社	B-CompanyName
+日本郵政公社	B-CompanyName
+ 理事	O
+(	I-Position
+物流	I-Position
+・	I-Position
+国際	I-Position
+部	I-Position
+）	I-Position
+
+サンヨーホームズ株式会社	B-CompanyName
+サンヨーホームズ株式会社	B-CompanyName
+取締役	B-Position
+専務執行役員	I-Position
+サンヨーホームズ株式会社	B-CompanyName
+取締役	B-Position
+専務執行役員	I-Position
+サンアドバンス	B-CompanyName
+株式会社	I-CompanyName
+サンヨーホームズ株式会社	B-CompanyName
+取締役	B-Position
+専務執行役員	I-Position
+サンアドバンス	B-CompanyName
+株式会社	I-CompanyName
+取締役	B-Position
+サンヨーホームズ株式会社	B-CompanyName
+取締役	B-Position
+専務執行役員	I-Position
+サンアドバンス	B-CompanyName
+株式会社	I-CompanyName
+取締役	B-Position
+サンヨーホームズ	B-CompanyName
+コミュニティ	I-CompanyName
+株式会社	I-CompanyName
+サンヨーホームズ株式会社	B-CompanyName
+取締役	B-Position
+専務執行役員	I-Position
+サンアドバンス	B-CompanyName
+株式会社	I-CompanyName
+取締役	B-Position
+サンヨーホームズ	B-CompanyName
+コミュニティ	I-CompanyName
+株式会社	I-CompanyName
+取締役	B-Position
+
+公認会計士	B-CompanyName
+公認会計士	B-CompanyName
+登録	B-Start
+
+いすゞ自動車株式会社	B-CompanyName
+いすゞ自動車株式会社	B-CompanyName
+取締役	B-Position
+いすゞ自動車株式会社	B-CompanyName
+取締役	B-Position
+、	O
+営業	B-Position
+本部	I-Position
+ 営業部門	I-Position
+統括	I-Position
+
+ＡＧＳ株式会社	B-CompanyName
+ＡＧＳ株式会社	B-CompanyName
+ 取締役	O
+ＡＧＳ株式会社	B-CompanyName
+ 取締役	O
+兼	O
+副社長	B-Position
+執行役員	I-Position
+
+同行	B-CompanyName
+同行	B-CompanyName
+　	O
+淡路	B-Position
+支店長	I-Position
+
+株式会社	B-CompanyName
+　	I-CompanyName
+良品計画	I-CompanyName
+株式会社	B-CompanyName
+　	I-CompanyName
+良品計画	I-CompanyName
+社外取締役	B-Position
+（	O
+現任	O
+）	O
+
+東和	B-CompanyName
+レジスター	I-CompanyName
+株式会社	I-CompanyName
+東和	B-CompanyName
+レジスター	I-CompanyName
+株式会社	I-CompanyName
+ 入社	O
+
+ＳＭＮ	B-CompanyName
+株式会社	I-CompanyName
+ＳＭＮ	B-CompanyName
+株式会社	I-CompanyName
+社外取締役	B-Position
+（	O
+現任	O
+）	O
+
+東洋テック株式会社	B-CompanyName
+東洋テック株式会社	B-CompanyName
+　	O
+常務執行役員	B-Position
+管理	I-Position
+本部長	I-Position
+
+株式会社	B-CompanyName
+ＴＶ	I-CompanyName
+Ｅ	I-CompanyName
+メンテナンス	I-CompanyName
+株式会社	B-CompanyName
+ＴＶ	I-CompanyName
+Ｅ	I-CompanyName
+メンテナンス	I-CompanyName
+事業部	B-Position
+メンテナンス	I-Position
+部長	I-Position
+
+執行役員	B-Position
+
+株式会社	O
+リクルート	O
+（	O
+現	O
+　	O
+株式会社リクルートホールディングス	B-Position
+株式会社	O
+リクルート	O
+（	O
+現	O
+　	O
+株式会社リクルートホールディングス	B-Position
+）	O
+入社	B-Start
+
+頂	B-CompanyName
+正	I-CompanyName
+科技	I-CompanyName
+股份有限公司	I-CompanyName
+頂	B-CompanyName
+正	I-CompanyName
+科技	I-CompanyName
+股份有限公司	I-CompanyName
+総経理	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+金融	B-Position
+システム	I-Position
+本部長	I-Position
+
+富士通コワーコ株式会社	B-CompanyName
+富士通コワーコ株式会社	B-CompanyName
+専務取締役	B-Position
+
+株式会社	B-CompanyName
+ＡｍｉｄＡ	I-CompanyName
+ホールディングス	I-CompanyName
+株式会社	B-CompanyName
+ＡｍｉｄＡ	I-CompanyName
+ホールディングス	I-CompanyName
+入社	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+執行役員	B-Position
+土木	I-Position
+事業	I-Position
+本部	I-Position
+北日本	I-Position
+支店長	I-Position
+同社	B-CompanyName
+執行役員	B-Position
+土木	I-Position
+事業	I-Position
+本部	I-Position
+北日本	I-Position
+支店長	I-Position
+兼	O
+仙台	B-Position
+営業所	I-Position
+長	I-Position
+
+デンヨー株式会社	B-CompanyName
+デンヨー株式会社	B-CompanyName
+取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+（	O
+現任	O
+）	O
+
+日本料理	B-CompanyName
+「	I-CompanyName
+鴨川	I-CompanyName
+」	I-CompanyName
+日本料理	B-CompanyName
+「	I-CompanyName
+鴨川	I-CompanyName
+」	I-CompanyName
+室町	B-Position
+店長	I-Position
+
+株式会社テクノ菱和	B-CompanyName
+株式会社テクノ菱和	B-CompanyName
+取締役	B-Position
+
+㈱	B-CompanyName
+日テレ アックスオン	I-CompanyName
+㈱	B-CompanyName
+日テレ アックスオン	I-CompanyName
+代表取締役社長	B-Position
+
+三菱商事	B-CompanyName
+㈱	I-CompanyName
+三菱商事	B-CompanyName
+㈱	I-CompanyName
+執行役員	B-Position
+三菱商事	B-CompanyName
+㈱	I-CompanyName
+執行役員	B-Position
+、	O
+環境	B-Position
+・	I-Position
+インフラ	I-Position
+事業	I-Position
+本部長	I-Position
+
+株式会社シード	B-CompanyName
+株式会社シード	B-CompanyName
+常務執行役員	B-Position
+営業	I-Position
+本部長	I-Position
+
+カワキ	B-CompanyName
+計測	I-CompanyName
+工業	I-CompanyName
+㈱	I-CompanyName
+カワキ	B-CompanyName
+計測	I-CompanyName
+工業	I-CompanyName
+㈱	I-CompanyName
+監査役	B-Position
+カワキ	B-CompanyName
+計測	I-CompanyName
+工業	I-CompanyName
+㈱	I-CompanyName
+監査役	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+東京地方裁判所	B-CompanyName
+東京地方裁判所	B-CompanyName
+　	O
+裁判官	B-Position
+東京地方裁判所	B-CompanyName
+　	O
+裁判官	B-Position
+任官	B-Start
+
+南海電気鉄道株式会社	B-CompanyName
+南海電気鉄道株式会社	B-CompanyName
+入社	B-Start
+
+(株)アスコン	B-CompanyName
+(株)アスコン	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社ジャステック	B-CompanyName
+株式会社ジャステック	B-CompanyName
+社外取締役	B-Position
+(	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+)	I-Position
+株式会社ジャステック	B-CompanyName
+社外取締役	B-Position
+(	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+)	I-Position
+就任	B-Start
+(	O
+現	O
+)	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+立地	B-Position
+開発	I-Position
+部	I-Position
+部長	I-Position
+
+杏林	B-CompanyName
+薬品	I-CompanyName
+㈱	I-CompanyName
+杏林	B-CompanyName
+薬品	I-CompanyName
+㈱	I-CompanyName
+入社	B-Start
+
+株式会社学研ホールディングス	B-CompanyName
+株式会社学研ホールディングス	B-CompanyName
+入社	B-Start
+
+大正製薬	B-CompanyName
+㈱	I-CompanyName
+大正製薬	B-CompanyName
+㈱	I-CompanyName
+常務執行役員	B-Position
+
+日本企業開発支援株式会社	B-CompanyName
+日本企業開発支援株式会社	B-CompanyName
+　	O
+社外取締役	B-Position
+
+日本弁護士連合会	B-CompanyName
+日本弁護士連合会	B-CompanyName
+常務理事	B-Position
+
+株式会社オプト	B-CompanyName
+ラン	I-CompanyName
+株式会社オプト	B-CompanyName
+ラン	I-CompanyName
+常務執行役員	B-Position
+技術開発	I-Position
+本部長	I-Position
+株式会社オプト	B-CompanyName
+ラン	I-CompanyName
+常務執行役員	B-Position
+技術開発	I-Position
+本部長	I-Position
+就任	B-Start
+
+ダイヤモンド電機株式会社	B-CompanyName
+ダイヤモンド電機株式会社	B-CompanyName
+監査役	B-Position
+
+大宝運輸株式会社	B-CompanyName
+大宝運輸株式会社	B-CompanyName
+入社	B-Start
+
+常務取締役	B-Position
+・	I-Position
+上席	I-Position
+執行役員	I-Position
+商品	I-Position
+部	I-Position
+・	I-Position
+既存	I-Position
+店	I-Position
+対策	I-Position
+部	I-Position
+担当	I-Position
+
+三協立山株式会社	B-CompanyName
+三協立山株式会社	B-CompanyName
+経営企画	B-Position
+統括	I-Position
+室	I-Position
+信用	I-Position
+管理	I-Position
+部長	I-Position
+三協立山株式会社	B-CompanyName
+経営企画	B-Position
+統括	I-Position
+室	I-Position
+信用	I-Position
+管理	I-Position
+部長	I-Position
+兼	O
+経営	B-Position
+監査	I-Position
+部長	I-Position
+
+宮地エンジニアリング株式会社	B-CompanyName
+宮地エンジニアリング株式会社	B-CompanyName
+常務取締役	B-Position
+営業	I-Position
+本部長	I-Position
+
+秩父鉄道株式会社	B-CompanyName
+秩父鉄道株式会社	B-CompanyName
+営業	B-Position
+推進	I-Position
+課長	I-Position
+
+株式会社ブロッコリー	B-CompanyName
+株式会社ブロッコリー	B-CompanyName
+カードゲーム	B-Position
+部	I-Position
+部長	I-Position
+代行	I-Position
+
+(株)	B-CompanyName
+伊東	I-CompanyName
+アカウンティング	I-CompanyName
+オフィス	I-CompanyName
+(株)	B-CompanyName
+伊東	I-CompanyName
+アカウンティング	I-CompanyName
+オフィス	I-CompanyName
+代表取締役	B-Position
+（	O
+現任	O
+）	O
+
+エムスリー株式会社	B-CompanyName
+エムスリー株式会社	B-CompanyName
+ 監査役	O
+
+株式会社三菱総合研究所	B-CompanyName
+株式会社三菱総合研究所	B-CompanyName
+常務取締役	B-Position
+（	O
+現任	O
+）	O
+
+朝日インテック株式会社	B-CompanyName
+朝日インテック株式会社	B-CompanyName
+デバイス	B-Position
+事業	I-Position
+統括	I-Position
+本部長	I-Position
+(	O
+現任	O
+)	O
+
+江本	B-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+江本	B-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+　	O
+設立	B-Start
+(	O
+現任	O
+)	O
+
+箕面市	B-CompanyName
+建築紛争	I-CompanyName
+あっせん	I-CompanyName
+委員会	I-CompanyName
+箕面市	B-CompanyName
+建築紛争	I-CompanyName
+あっせん	I-CompanyName
+委員会	I-CompanyName
+委員	B-Position
+(	O
+現任	O
+)	O
+
+㈱	B-CompanyName
+神田	I-CompanyName
+エンタープライズ	I-CompanyName
+㈱	B-CompanyName
+神田	I-CompanyName
+エンタープライズ	I-CompanyName
+代表取締役社長	B-Position
+（	O
+現任	O
+）	O
+
+隼	B-CompanyName
+あすか	I-CompanyName
+法律事務所	I-CompanyName
+隼	B-CompanyName
+あすか	I-CompanyName
+法律事務所	I-CompanyName
+パートナー	B-Position
+
+ＫＬａｂ株式会社	B-CompanyName
+ＫＬａｂ株式会社	B-CompanyName
+代表取締役社長	B-Position
+CEO	I-Position
+(	O
+現任	O
+)	O
+
+時間	B-Position
+情報	I-Position
+事業	I-Position
+本部長	I-Position
+
+生化学工業株式会社	B-CompanyName
+生化学工業株式会社	B-CompanyName
+理事	B-Position
+生化学工業株式会社	B-CompanyName
+理事	B-Position
+ 研究開発	O
+本部	I-Position
+ 臨床	I-Position
+開発	I-Position
+部長	I-Position
+
+株式会社アウトソーシング	B-CompanyName
+株式会社アウトソーシング	B-CompanyName
+　	O
+入社	B-Start
+
+株式会社アジュバンコスメジャパン	B-CompanyName
+株式会社アジュバンコスメジャパン	B-CompanyName
+代表取締役会長	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+法務	B-Position
+室長	I-Position
+同社	B-CompanyName
+　	O
+法務	B-Position
+室長	I-Position
+就任	B-Start
+
+金融監督庁	O
+（	O
+現	O
+金融庁	B-CompanyName
+金融監督庁	O
+（	O
+現	O
+金融庁	B-CompanyName
+）	O
+検査	B-Position
+部	I-Position
+検査	I-Position
+総括	I-Position
+課	I-Position
+金融	I-Position
+証券	I-Position
+検査官	I-Position
+
+東京	B-CompanyName
+工業大学	I-CompanyName
+東京	B-CompanyName
+工業大学	I-CompanyName
+   応用	O
+セラミックス	I-Position
+研究所	I-Position
+COE	I-Position
+研究員	I-Position
+東京	B-CompanyName
+工業大学	I-CompanyName
+   応用	O
+セラミックス	I-Position
+研究所	I-Position
+COE	I-Position
+研究員	I-Position
+就任	B-Start
+
+京都機械工具株式会社	B-CompanyName
+京都機械工具株式会社	B-CompanyName
+執行役員	B-Position
+
+同	B-CompanyName
+同	B-CompanyName
+執行役員	B-Position
+マネジメント	I-Position
+事業	I-Position
+部長	I-Position
+
+㈱	B-CompanyName
+ニッセイ	I-CompanyName
+基礎	I-CompanyName
+研究所	I-CompanyName
+㈱	B-CompanyName
+ニッセイ	I-CompanyName
+基礎	I-CompanyName
+研究所	I-CompanyName
+入社	B-Start
+
+取締役	B-Position
+Ｒ	I-Position
+＆	I-Position
+Ｄ	I-Position
+センター	I-Position
+所長	I-Position
+
+社団法人	B-CompanyName
+中部	I-CompanyName
+経営	I-CompanyName
+情報化	I-CompanyName
+協会	I-CompanyName
+　	I-CompanyName
+あいち	I-CompanyName
+ベンチャー	I-CompanyName
+ハウス	I-CompanyName
+社団法人	B-CompanyName
+中部	I-CompanyName
+経営	I-CompanyName
+情報化	I-CompanyName
+協会	I-CompanyName
+　	I-CompanyName
+あいち	I-CompanyName
+ベンチャー	I-CompanyName
+ハウス	I-CompanyName
+　	O
+インキュベーションマネージャー	B-Position
+
+㈱	B-CompanyName
+コロプラ	I-CompanyName
+㈱	B-CompanyName
+コロプラ	I-CompanyName
+ 取締役	O
+（	O
+現任	O
+）	O
+
+㈱	O
+デジタルアイデンティティ	O
+（	O
+現	O
+ ㈱	O
+Ｏｒｃｈｅｓｔｒａ	I-CompanyName
+ Ｈ	I-CompanyName
+ｏｌｄｉｎｇｓ	I-CompanyName
+㈱	O
+デジタルアイデンティティ	O
+（	O
+現	O
+ ㈱	O
+Ｏｒｃｈｅｓｔｒａ	I-CompanyName
+ Ｈ	I-CompanyName
+ｏｌｄｉｎｇｓ	I-CompanyName
+）	O
+取締役	B-Position
+ＣＯＯ	I-Position
+
+ニッタ株式会社	B-CompanyName
+ニッタ株式会社	B-CompanyName
+経営管理	B-Position
+グループ	I-Position
+上席	I-Position
+部長	I-Position
+
+株式会社ベクター	B-CompanyName
+株式会社ベクター	B-CompanyName
+　	O
+社外監査役	B-Position
+(	O
+現任	O
+)	O
+
+カネコ種苗株式会社	B-CompanyName
+カネコ種苗株式会社	B-CompanyName
+監査役	B-Position
+カネコ種苗株式会社	B-CompanyName
+監査役	B-Position
+退任	B-End
+
+台湾	B-CompanyName
+小原	I-CompanyName
+光学	I-CompanyName
+股份有限公司	I-CompanyName
+台湾	B-CompanyName
+小原	I-CompanyName
+光学	I-CompanyName
+股份有限公司	I-CompanyName
+董事長	B-Position
+
+株式会社	B-CompanyName
+バル	I-CompanyName
+カー	I-CompanyName
+株式会社	B-CompanyName
+バル	I-CompanyName
+カー	I-CompanyName
+ 代表取締役	O
+副社長	I-Position
+株式会社	B-CompanyName
+バル	I-CompanyName
+カー	I-CompanyName
+ 代表取締役	O
+副社長	I-Position
+ 社長	O
+補佐	I-Position
+株式会社	B-CompanyName
+バル	I-CompanyName
+カー	I-CompanyName
+ 代表取締役	O
+副社長	I-Position
+ 社長	O
+補佐	I-Position
+兼	O
+社長	B-Position
+室	I-Position
+担当	I-Position
+株式会社	B-CompanyName
+バル	I-CompanyName
+カー	I-CompanyName
+ 代表取締役	O
+副社長	I-Position
+ 社長	O
+補佐	I-Position
+兼	O
+社長	B-Position
+室	I-Position
+担当	I-Position
+兼	O
+海外事業	B-Position
+部長	I-Position
+
+ＣＫＤ株式会社	B-CompanyName
+ＣＫＤ株式会社	B-CompanyName
+入社	B-Start
+
+積水ハウス株式会社	B-CompanyName
+積水ハウス株式会社	B-CompanyName
+執行役員	B-Position
+積水ハウス株式会社	B-CompanyName
+執行役員	B-Position
+就任	B-Start
+積水ハウス株式会社	B-CompanyName
+執行役員	B-Position
+就任	B-Start
+、	O
+開発	B-Position
+部長	I-Position
+積水ハウス株式会社	B-CompanyName
+執行役員	B-Position
+就任	B-Start
+、	O
+開発	B-Position
+部長	I-Position
+委嘱	B-Start
+
+同行	B-CompanyName
+同行	B-CompanyName
+新宿	B-Position
+中央	I-Position
+支店	I-Position
+支店長	I-Position
+
+弁護士	B-CompanyName
+弁護士	B-CompanyName
+登録	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+ 取締役	O
+同社	B-CompanyName
+ 取締役	O
+ 管理	O
+本部長	I-Position
+同社	B-CompanyName
+ 取締役	O
+ 管理	O
+本部長	I-Position
+兼	O
+財務	B-Position
+部長	I-Position
+
+一般社団法人	B-CompanyName
+日本	I-CompanyName
+電子回路	I-CompanyName
+工業	I-CompanyName
+会	I-CompanyName
+一般社団法人	B-CompanyName
+日本	I-CompanyName
+電子回路	I-CompanyName
+工業	I-CompanyName
+会	I-CompanyName
+ 	O
+会長	B-Position
+(	O
+現任	O
+)	O
+
+光	B-CompanyName
+馳	I-CompanyName
+科技	I-CompanyName
+（	I-CompanyName
+上海	I-CompanyName
+）	I-CompanyName
+有限公司	I-CompanyName
+光	B-CompanyName
+馳	I-CompanyName
+科技	I-CompanyName
+（	I-CompanyName
+上海	I-CompanyName
+）	I-CompanyName
+有限公司	I-CompanyName
+   董事	O
+光	B-CompanyName
+馳	I-CompanyName
+科技	I-CompanyName
+（	I-CompanyName
+上海	I-CompanyName
+）	I-CompanyName
+有限公司	I-CompanyName
+   董事	O
+就任	B-Start
+（	O
+現任	O
+）	O
+資格	O
+：	O
+工学	O
+博士	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+代表取締役	B-Position
+同社	B-CompanyName
+代表取締役	B-Position
+・	O
+取締役会	B-Position
+議長	I-Position
+
+株式会社ギガプライズ	B-CompanyName
+株式会社ギガプライズ	B-CompanyName
+代表取締役	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+エンジン	B-Position
+・	I-Position
+駆動	I-Position
+事業領域	I-Position
+　	I-Position
+統括	I-Position
+部長	I-Position
+同社	B-CompanyName
+エンジン	B-Position
+・	I-Position
+駆動	I-Position
+事業領域	I-Position
+　	I-Position
+統括	I-Position
+部長	I-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+同行	B-CompanyName
+同行	B-CompanyName
+ 取締役	O
+執行役員	I-Position
+同行	B-CompanyName
+ 取締役	O
+執行役員	I-Position
+ 新宿	O
+本店	I-Position
+営業	I-Position
+部長	I-Position
+同行	B-CompanyName
+ 取締役	O
+執行役員	I-Position
+ 新宿	O
+本店	I-Position
+営業	I-Position
+部長	I-Position
+ 兼	O
+ 東新宿	O
+   支店長	I-Position
+同行	B-CompanyName
+ 取締役	O
+執行役員	I-Position
+ 新宿	O
+本店	I-Position
+営業	I-Position
+部長	I-Position
+ 兼	O
+ 東新宿	O
+   支店長	I-Position
+ 兼	O
+ 西大久保	O
+支店長	I-Position
+
+株式会社	B-CompanyName
+　	I-CompanyName
+巴コーポレーション	I-CompanyName
+株式会社	B-CompanyName
+　	I-CompanyName
+巴コーポレーション	I-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+東邦亜鉛株式会社	B-CompanyName
+東邦亜鉛株式会社	B-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+ローム株式会社	B-CompanyName
+ローム株式会社	B-CompanyName
+取締役	B-Position
+ローム株式会社	B-CompanyName
+取締役	B-Position
+　	O
+上席	B-Position
+執行役員	I-Position
+ LSI	I-Position
+事業	I-Position
+本部長	I-Position
+ローム株式会社	B-CompanyName
+取締役	B-Position
+　	O
+上席	B-Position
+執行役員	I-Position
+ LSI	I-Position
+事業	I-Position
+本部長	I-Position
+就任	B-Start
+
+顧問	B-Position
+　	I-Position
+監査役	I-Position
+室	I-Position
+付	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+顧問	B-Position
+
+株式会社小松製作所	B-CompanyName
+株式会社小松製作所	B-CompanyName
+入社	B-Start
+株式会社小松製作所	B-CompanyName
+入社	B-Start
+ 輸出	O
+営業	I-Position
+本部	I-Position
+営業	I-Position
+総括	I-Position
+室	I-Position
+
+神尾	B-CompanyName
+康生	I-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+神尾	B-CompanyName
+康生	I-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+開設	B-Start
+神尾	B-CompanyName
+康生	I-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+開設	B-Start
+　	O
+代表	B-Position
+神尾	B-CompanyName
+康生	I-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+開設	B-Start
+　	O
+代表	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+大同工業株式会社	B-CompanyName
+大同工業株式会社	B-CompanyName
+経営戦略	B-Position
+本部	I-Position
+管掌	I-Position
+大同工業株式会社	B-CompanyName
+経営戦略	B-Position
+本部	I-Position
+管掌	I-Position
+兼	O
+開発	B-Position
+本部	I-Position
+管掌	I-Position
+
+株式会社ブレインパッド	B-CompanyName
+株式会社ブレインパッド	B-CompanyName
+ 社外取締役	O
+（	O
+現任	O
+）	O
+
+日本アジアホールディングズ株式会社	B-CompanyName
+日本アジアホールディングズ株式会社	B-CompanyName
+代表取締役	B-Position
+
+東リ株式会社	B-CompanyName
+東リ株式会社	B-CompanyName
+企画	B-Position
+推進	I-Position
+室長	I-Position
+
+本店	B-Position
+営業部	I-Position
+融資	I-Position
+課長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役	B-Position
+同社	B-CompanyName
+取締役	B-Position
+・	O
+専務執行役員	B-Position
+
+ライオン株式会社	B-CompanyName
+ライオン株式会社	B-CompanyName
+常務取締役	B-Position
+ライオン株式会社	B-CompanyName
+常務取締役	B-Position
+、	O
+ヘルスケア	B-Position
+事業	I-Position
+本部	I-Position
+分担	I-Position
+、	I-Position
+ハウス	I-Position
+ホールド	I-Position
+事業	I-Position
+本部	I-Position
+分担	I-Position
+、	I-Position
+特販	I-Position
+事業	I-Position
+本部	I-Position
+分担	I-Position
+、	I-Position
+宣伝	I-Position
+部	I-Position
+、	I-Position
+生活者	I-Position
+行動	I-Position
+研究所	I-Position
+、	I-Position
+流通	I-Position
+政策	I-Position
+部	I-Position
+、	I-Position
+営業	I-Position
+開発	I-Position
+部	I-Position
+担当	I-Position
+
+株式会社	B-CompanyName
+　	I-CompanyName
+梅の花	I-CompanyName
+株式会社	B-CompanyName
+　	I-CompanyName
+梅の花	I-CompanyName
+取締役	B-Position
+株式会社	B-CompanyName
+　	I-CompanyName
+梅の花	I-CompanyName
+取締役	B-Position
+常務執行役員	B-Position
+株式会社	B-CompanyName
+　	I-CompanyName
+梅の花	I-CompanyName
+取締役	B-Position
+常務執行役員	B-Position
+就任	B-Start
+
+桃木野	B-CompanyName
+総合	I-CompanyName
+法律事務所	I-CompanyName
+桃木野	B-CompanyName
+総合	I-CompanyName
+法律事務所	I-CompanyName
+　	O
+所長	B-Position
+
+育良	B-CompanyName
+精機	I-CompanyName
+㈱	I-CompanyName
+育良	B-CompanyName
+精機	I-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+工具	I-Position
+事業	I-Position
+部長	I-Position
+
+㈱	B-CompanyName
+ヤマザワ	I-CompanyName
+薬品	I-CompanyName
+㈱	B-CompanyName
+ヤマザワ	I-CompanyName
+薬品	I-CompanyName
+取締役	B-Position
+副社長	I-Position
+㈱	B-CompanyName
+ヤマザワ	I-CompanyName
+薬品	I-CompanyName
+取締役	B-Position
+副社長	I-Position
+に	O
+就任	B-Start
+
+一般財団法人	B-CompanyName
+ 地域	I-CompanyName
+・	I-CompanyName
+教育	I-CompanyName
+魅力	I-CompanyName
+化	I-CompanyName
+プラットフォーム	I-CompanyName
+一般財団法人	B-CompanyName
+ 地域	I-CompanyName
+・	I-CompanyName
+教育	I-CompanyName
+魅力	I-CompanyName
+化	I-CompanyName
+プラットフォーム	I-CompanyName
+　	O
+評議員	B-Position
+（	O
+現任	O
+）	O
+
+安徽	B-CompanyName
+富楽	I-CompanyName
+徳	I-CompanyName
+長江	I-CompanyName
+半導体	I-CompanyName
+材料	I-CompanyName
+股份有限公司	I-CompanyName
+安徽	B-CompanyName
+富楽	I-CompanyName
+徳	I-CompanyName
+長江	I-CompanyName
+半導体	I-CompanyName
+材料	I-CompanyName
+股份有限公司	I-CompanyName
+董事長	B-Position
+（	O
+現任	O
+）	O
+
+ミクロン精密株式会社	B-CompanyName
+ミクロン精密株式会社	B-CompanyName
+　	O
+設計	B-Position
+部	I-Position
+次長	I-Position
+
+前澤工業株式会社	B-CompanyName
+前澤工業株式会社	B-CompanyName
+入社	B-Start
+
+株式会社高見澤	B-CompanyName
+株式会社高見澤	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社インターネット総合研究所	B-CompanyName
+株式会社インターネット総合研究所	B-CompanyName
+ 入社	O
+
+同行	B-CompanyName
+同行	B-CompanyName
+常務取締役	B-Position
+本店	I-Position
+営業	I-Position
+部長	I-Position
+
+ＫＰＭＧ	B-CompanyName
+ビジネスアシュアランス	I-CompanyName
+株式会社	I-CompanyName
+ＫＰＭＧ	B-CompanyName
+ビジネスアシュアランス	I-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+
+有限責任	B-CompanyName
+ あずさ監査法人	I-CompanyName
+有限責任	B-CompanyName
+ あずさ監査法人	I-CompanyName
+退職	B-End
+
+山洋電気株式会社	B-CompanyName
+山洋電気株式会社	B-CompanyName
+企画部	B-Position
+部長	I-Position
+山洋電気株式会社	B-CompanyName
+企画部	B-Position
+部長	I-Position
+・	O
+総務部	B-Position
+部長	I-Position
+
+㈱	B-CompanyName
+扶桑	I-CompanyName
+㈱	B-CompanyName
+扶桑	I-CompanyName
+入社	B-Start
+
+株式会社	B-CompanyName
+　	I-CompanyName
+丸順	I-CompanyName
+株式会社	B-CompanyName
+　	I-CompanyName
+丸順	I-CompanyName
+参事	B-Position
+
+同	B-CompanyName
+同	B-CompanyName
+常務取締役	B-Position
+同	B-CompanyName
+常務取締役	B-Position
+兼	O
+ASEAN	B-Position
+事業	I-Position
+部長	I-Position
+
+SHINWA	B-CompanyName
+ ENGINEERING	I-CompanyName
+ S	I-CompanyName
+.	I-CompanyName
+A	I-CompanyName
+.	I-CompanyName
+ de	I-CompanyName
+ C	I-CompanyName
+.	I-CompanyName
+V	I-CompanyName
+.	I-CompanyName
+SHINWA	B-CompanyName
+ ENGINEERING	I-CompanyName
+ S	I-CompanyName
+.	I-CompanyName
+A	I-CompanyName
+.	I-CompanyName
+ de	I-CompanyName
+ C	I-CompanyName
+.	I-CompanyName
+V	I-CompanyName
+.	I-CompanyName
+代表取締役社長	B-Position
+（	O
+現	O
+）	O
+
+ヤマシンフィルタ株式会社	B-CompanyName
+ヤマシンフィルタ株式会社	B-CompanyName
+営業	B-Position
+本部長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+購買	B-Position
+本部	I-Position
+製品	I-Position
+部長	I-Position
+
+AI	B-CompanyName
+ inside	I-CompanyName
+株式会社	I-CompanyName
+AI	B-CompanyName
+ inside	I-CompanyName
+株式会社	I-CompanyName
+取締役	B-Position
+AI	B-CompanyName
+ inside	I-CompanyName
+株式会社	I-CompanyName
+取締役	B-Position
+（	O
+監査	O
+等	O
+委員	O
+）	O
+就任	B-Start
+（	O
+現任	O
+）	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+商品	B-Position
+本部	I-Position
+ＭＤ	I-Position
+オペレーション	I-Position
+ バイスプレジデント	I-Position
+
+ニホンフラッシュ株式会社	B-CompanyName
+ニホンフラッシュ株式会社	B-CompanyName
+常務取締役	B-Position
+
+インモビジャパン	B-CompanyName
+株式会社	I-CompanyName
+インモビジャパン	B-CompanyName
+株式会社	I-CompanyName
+　	O
+代表取締役社長	B-Position
+
+営業	B-Position
+戦略	I-Position
+部長	I-Position
+
+シャープ株式会社	B-CompanyName
+シャープ株式会社	B-CompanyName
+代表取締役	B-Position
+シャープ株式会社	B-CompanyName
+代表取締役	B-Position
+ 会長	O
+シャープ株式会社	B-CompanyName
+代表取締役	B-Position
+ 会長	O
+ 兼	O
+ 社長	O
+執行役員	I-Position
+シャープ株式会社	B-CompanyName
+代表取締役	B-Position
+ 会長	O
+ 兼	O
+ 社長	O
+執行役員	I-Position
+ 兼	O
+ ８	O
+Ｋ	I-Position
+エコシステム	I-Position
+グループ	I-Position
+長	I-Position
+シャープ株式会社	B-CompanyName
+代表取締役	B-Position
+ 会長	O
+ 兼	O
+ 社長	O
+執行役員	I-Position
+ 兼	O
+ ８	O
+Ｋ	I-Position
+エコシステム	I-Position
+グループ	I-Position
+長	I-Position
+ 兼	O
+ 中国	O
+代表	I-Position
+
+新日本製鐵	O
+株式会社	O
+（	O
+現	O
+日本製鉄株式会社	B-CompanyName
+新日本製鐵	O
+株式会社	O
+（	O
+現	O
+日本製鉄株式会社	B-CompanyName
+）	O
+入社	B-Start
+
+㈱	B-CompanyName
+アルゴ	I-CompanyName
+21	I-CompanyName
+㈱	B-CompanyName
+アルゴ	I-CompanyName
+21	I-CompanyName
+ 入社	O
+
+同	B-CompanyName
+同	B-CompanyName
+生態学	B-Position
+研究	I-Position
+センター	I-Position
+長	I-Position
+（	O
+京都大学	O
+評議会	O
+評議員	O
+）	O
+
+企画	B-Position
+部長	I-Position
+
+株式会社福利厚生倶楽部九州	B-CompanyName
+株式会社福利厚生倶楽部九州	B-CompanyName
+　	O
+代表取締役社長	B-Position
+
+新光商事株式会社	B-CompanyName
+新光商事株式会社	B-CompanyName
+取締役	B-Position
+相談役	I-Position
+新光商事株式会社	B-CompanyName
+取締役	B-Position
+相談役	I-Position
+に	O
+就任	B-Start
+（	O
+現任	O
+）	O
+
+東京ベイ有明ワシントンホテル	B-CompanyName
+東京ベイ有明ワシントンホテル	B-CompanyName
+総務	B-Position
+支配人	I-Position
+
+ＡＢ	B-CompanyName
+ホテル	I-CompanyName
+株式会社	I-CompanyName
+ＡＢ	B-CompanyName
+ホテル	I-CompanyName
+株式会社	I-CompanyName
+社外監査役	B-Position
+ＡＢ	B-CompanyName
+ホテル	I-CompanyName
+株式会社	I-CompanyName
+社外監査役	B-Position
+に	O
+就任	B-Start
+ (	O
+現任	O
+)	O
+
+アズビル株式会社	B-CompanyName
+アズビル株式会社	B-CompanyName
+取締役	B-Position
+アズビル株式会社	B-CompanyName
+取締役	B-Position
+就任	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+代表取締役	B-Position
+専務	I-Position
+
+ぴあ	B-CompanyName
+㈱	I-CompanyName
+ぴあ	B-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+
+監査法人トーマツ	O
+(	O
+現	O
+有限責任監査法人トーマツ	B-CompanyName
+監査法人トーマツ	O
+(	O
+現	O
+有限責任監査法人トーマツ	B-CompanyName
+)	O
+パートナー	B-Position
+
+楽天リサーチ株式会社	B-CompanyName
+楽天リサーチ株式会社	B-CompanyName
+代表取締役	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+経理	B-Position
+部長	I-Position
+
+兼	O
+経営企画	B-CompanyName
+室長	I-CompanyName
+(	O
+現任	O
+)	O
+
+株式会社エスライン	B-CompanyName
+株式会社エスライン	B-CompanyName
+入社	B-Start
+
+トパーズ	B-CompanyName
+・	I-CompanyName
+キャピタル	I-CompanyName
+㈱	I-CompanyName
+トパーズ	B-CompanyName
+・	I-CompanyName
+キャピタル	I-CompanyName
+㈱	I-CompanyName
+取締役会長	B-Position
+(	O
+現職	O
+)	O
+
+ベルウェザー	B-CompanyName
+総合	I-CompanyName
+会計事務所	I-CompanyName
+ベルウェザー	B-CompanyName
+総合	I-CompanyName
+会計事務所	I-CompanyName
+設立	B-Start
+ベルウェザー	B-CompanyName
+総合	I-CompanyName
+会計事務所	I-CompanyName
+設立	B-Start
+　	O
+同所	B-CompanyName
+ベルウェザー	B-CompanyName
+総合	I-CompanyName
+会計事務所	I-CompanyName
+設立	B-Start
+　	O
+同所	B-CompanyName
+代表	B-Position
+
+株式会社	B-CompanyName
+サムシング	I-CompanyName
+株式会社	B-CompanyName
+サムシング	I-CompanyName
+代表取締役会長	B-Position
+株式会社	B-CompanyName
+サムシング	I-CompanyName
+代表取締役会長	B-Position
+就任	B-Start
+(	O
+現任	O
+)	O
+
+ゲノム	B-CompanyName
+アール	I-CompanyName
+㈱	I-CompanyName
+ゲノム	B-CompanyName
+アール	I-CompanyName
+㈱	I-CompanyName
+　	O
+取締役	B-Position
+ゲノム	B-CompanyName
+アール	I-CompanyName
+㈱	I-CompanyName
+　	O
+取締役	B-Position
+就任	B-Start
+（	O
+現	O
+）	O
+
+株式会社みどり会	B-CompanyName
+株式会社みどり会	B-CompanyName
+　	O
+常勤	B-Position
+監査役	I-Position
+
+ＴＤＫ株式会社	B-CompanyName
+ＴＤＫ株式会社	B-CompanyName
+アドミニストレーション	B-Position
+グループ	I-Position
+ 経理部	I-Position
+ 計数	I-Position
+管理	I-Position
+担当	I-Position
+部長	I-Position
+
+クボタ	B-CompanyName
+トラクター	I-CompanyName
+Corp	I-CompanyName
+.	I-CompanyName
+クボタ	B-CompanyName
+トラクター	I-CompanyName
+Corp	I-CompanyName
+.	I-CompanyName
+社長	B-Position
+
+サムティ株式会社	B-CompanyName
+サムティ株式会社	B-CompanyName
+監査役	B-Position
+(	O
+現	O
+)	O
+
+株式会社	O
+カクヤス	O
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+カクヤスグループ	I-CompanyName
+株式会社	O
+カクヤス	O
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+カクヤスグループ	I-CompanyName
+）	O
+執行役員	B-Position
+
+株式会社東京個別指導学院	B-CompanyName
+株式会社東京個別指導学院	B-CompanyName
+入社	B-Start
+
+札幌市役所	B-CompanyName
+札幌市役所	B-CompanyName
+入	B-Start
+庁	I-Start
+
+ロングライフホールディング株式会社	B-CompanyName
+ロングライフホールディング株式会社	B-CompanyName
+代表取締役社長	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+公共	B-Position
+システム	I-Position
+事業	I-Position
+本部	I-Position
+部長	I-Position
+
+大垣	B-Position
+税務署長	I-Position
+
+株式会社スターフライヤー	B-CompanyName
+株式会社スターフライヤー	B-CompanyName
+ 運航	O
+本部	I-Position
+ 副	I-Position
+本部長	I-Position
+
+株式会社	B-CompanyName
+　	I-CompanyName
+トリケミカル研究所	I-CompanyName
+株式会社	B-CompanyName
+　	I-CompanyName
+トリケミカル研究所	I-CompanyName
+入社	B-Start
+
+株式会社	B-CompanyName
+アインホールディングス	I-CompanyName
+株式会社	B-CompanyName
+アインホールディングス	I-CompanyName
+運営	B-Position
+統括	I-Position
+本部長	I-Position
+株式会社	B-CompanyName
+アインホールディングス	I-CompanyName
+運営	B-Position
+統括	I-Position
+本部長	I-Position
+ 株式会社アインファーマシーズ	O
+株式会社	B-CompanyName
+アインホールディングス	I-CompanyName
+運営	B-Position
+統括	I-Position
+本部長	I-Position
+ 株式会社アインファーマシーズ	O
+ 代表取締役社長	O
+（	O
+現任	O
+）	O
+
+㈱	B-CompanyName
+チッタ エンタテイメント	I-CompanyName
+㈱	B-CompanyName
+チッタ エンタテイメント	I-CompanyName
+入社	B-Start
+
+タカラスタンダード株式会社	B-CompanyName
+タカラスタンダード株式会社	B-CompanyName
+本社	B-Position
+管理	I-Position
+本部長	I-Position
+タカラスタンダード株式会社	B-CompanyName
+本社	B-Position
+管理	I-Position
+本部長	I-Position
+兼	O
+営業	B-Position
+本部	I-Position
+ 管掌	I-Position
+（	O
+現在	O
+）	O
+
+企画	B-Position
+管理	I-Position
+、	I-Position
+テクノネット	I-Position
+担当	I-Position
+企画	B-Position
+管理	I-Position
+、	I-Position
+テクノネット	I-Position
+担当	I-Position
+兼	O
+企画	B-Position
+管理	I-Position
+本部長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役	B-Position
+
+金下建設株式会社	B-CompanyName
+金下建設株式会社	B-CompanyName
+取締役	B-Position
+管理	I-Position
+統括	I-Position
+部長	I-Position
+
+株式会社	B-CompanyName
+　	I-CompanyName
+トリケミカル研究所	I-CompanyName
+株式会社	B-CompanyName
+　	I-CompanyName
+トリケミカル研究所	I-CompanyName
+営業	B-Position
+本部長	I-Position
+
+カネ美食品株式会社	B-CompanyName
+カネ美食品株式会社	B-CompanyName
+Ｋ	B-Position
+-	I-Position
+ＳＴＡＧＥ	I-Position
+運営	I-Position
+部長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+常務	B-Position
+役員	I-Position
+
+東京ラヂエーター製造株式会社	B-CompanyName
+東京ラヂエーター製造株式会社	B-CompanyName
+入社	B-Start
+
+藤森工業株式会社	B-CompanyName
+藤森工業株式会社	B-CompanyName
+取締役	B-Position
+上席	I-Position
+執行役員	I-Position
+藤森工業株式会社	B-CompanyName
+取締役	B-Position
+上席	I-Position
+執行役員	I-Position
+就任	B-Start
+
+三洋電機株式会社	B-CompanyName
+三洋電機株式会社	B-CompanyName
+入社	B-Start
+
+代表取締役	B-Position
+副社長	I-Position
+経営企画	I-Position
+室長	I-Position
+代表取締役	B-Position
+副社長	I-Position
+経営企画	I-Position
+室長	I-Position
+就任	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+北東アジア	B-Position
+総支配人	I-Position
+
+㈱	B-CompanyName
+T4	I-CompanyName
+U	I-CompanyName
+ネットワークス	I-CompanyName
+㈱	B-CompanyName
+T4	I-CompanyName
+U	I-CompanyName
+ネットワークス	I-CompanyName
+名古屋	B-Position
+支社長	I-Position
+
+学校法人中央大学	B-CompanyName
+学校法人中央大学	B-CompanyName
+理事	B-Position
+(	O
+現任	O
+)	O
+
+東京計器株式会社	B-CompanyName
+東京計器株式会社	B-CompanyName
+入社	B-Start
+
+アイフル株式会社	B-CompanyName
+アイフル株式会社	B-CompanyName
+代表取締役社長	B-Position
+社長	I-Position
+執行役員	I-Position
+リスク管理	I-Position
+委員会	I-Position
+委員長	I-Position
+アイフル株式会社	B-CompanyName
+代表取締役社長	B-Position
+社長	I-Position
+執行役員	I-Position
+リスク管理	I-Position
+委員会	I-Position
+委員長	I-Position
+兼	O
+経営情報	B-Position
+室	I-Position
+アイフル株式会社	B-CompanyName
+代表取締役社長	B-Position
+社長	I-Position
+執行役員	I-Position
+リスク管理	I-Position
+委員会	I-Position
+委員長	I-Position
+兼	O
+経営情報	B-Position
+室	I-Position
+兼	O
+内部監査部	B-Position
+統括	I-Position
+アイフル株式会社	B-CompanyName
+代表取締役社長	B-Position
+社長	I-Position
+執行役員	I-Position
+リスク管理	I-Position
+委員会	I-Position
+委員長	I-Position
+兼	O
+経営情報	B-Position
+室	I-Position
+兼	O
+内部監査部	B-Position
+統括	I-Position
+（	O
+現任	O
+）	O
+ライフカード株式会社	B-CompanyName
+アイフル株式会社	B-CompanyName
+代表取締役社長	B-Position
+社長	I-Position
+執行役員	I-Position
+リスク管理	I-Position
+委員会	I-Position
+委員長	I-Position
+兼	O
+経営情報	B-Position
+室	I-Position
+兼	O
+内部監査部	B-Position
+統括	I-Position
+（	O
+現任	O
+）	O
+ライフカード株式会社	B-CompanyName
+　	O
+代表取締役会長	B-Position
+（	O
+現任	O
+）	O
+
+国際紙パルプ商事株式会社	B-CompanyName
+国際紙パルプ商事株式会社	B-CompanyName
+専務取締役	B-Position
+
+イハラサイエンス株式会社	B-CompanyName
+イハラサイエンス株式会社	B-CompanyName
+代表取締役社長	B-Position
+イハラサイエンス株式会社	B-CompanyName
+代表取締役社長	B-Position
+兼	O
+営業	B-Position
+本部長	I-Position
+
+ハリマ化成グループ株式会社	B-CompanyName
+ハリマ化成グループ株式会社	B-CompanyName
+中央	B-Position
+研究所	I-Position
+開発	I-Position
+室長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+取締役会長	B-Position
+
+KPMG	O
+コンサルティング	O
+株式会社	O
+（	O
+その後	O
+ベリングポイント	O
+株式会社	O
+に	O
+社名変更	O
+、	O
+現在	O
+は	O
+PwC	B-CompanyName
+コンサルティング	I-CompanyName
+合同会社	I-CompanyName
+KPMG	O
+コンサルティング	O
+株式会社	O
+（	O
+その後	O
+ベリングポイント	O
+株式会社	O
+に	O
+社名変更	O
+、	O
+現在	O
+は	O
+PwC	B-CompanyName
+コンサルティング	I-CompanyName
+合同会社	I-CompanyName
+）	O
+代表取締役社長	B-Position
+
+光村印刷株式会社	B-CompanyName
+光村印刷株式会社	B-CompanyName
+監査役	B-Position
+(	O
+現任	O
+)	O
+
+東京国税局	B-CompanyName
+東京国税局	B-CompanyName
+中野	B-Position
+税務署長	I-Position
+
+情報技術開発株式会社	B-CompanyName
+情報技術開発株式会社	B-CompanyName
+ 監査役	O
+（	O
+現任	O
+）	O
+
+株式会社上組	B-CompanyName
+株式会社上組	B-CompanyName
+取締役	B-Position
+執行役員	I-Position
+（	O
+現在	O
+）	O
+
+文化庁	B-Position
+次長	I-Position
+
+執行役員	B-Position
+研究開発	I-Position
+室長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+ 代表取締役社長	O
+
+公認会計士	B-CompanyName
+公認会計士	B-CompanyName
+登録	B-Start
+
+扶桑電通株式会社	B-CompanyName
+扶桑電通株式会社	B-CompanyName
+入社	B-Start
+
+株式会社イトーキ	B-CompanyName
+株式会社イトーキ	B-CompanyName
+入社	B-Start
+株式会社イトーキ	B-CompanyName
+入社	B-Start
+　	O
+執行役員	B-Position
+管理	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+
+三愛石油株式会社	B-CompanyName
+三愛石油株式会社	B-CompanyName
+代表取締役社長	B-Position
+(	O
+現在	O
+)	O
+
+日本エマージェンシーアシスタンス株式会社	B-CompanyName
+日本エマージェンシーアシスタンス株式会社	B-CompanyName
+ 営業	O
+開発	I-Position
+部	I-Position
+担当	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+常務取締役	B-Position
+同社	B-CompanyName
+常務取締役	B-Position
+ 経営企画	O
+、	I-Position
+経理	I-Position
+・	I-Position
+財務	I-Position
+、	I-Position
+財務	I-Position
+情報	I-Position
+アシュアランス	I-Position
+、	I-Position
+コーポレートガバナンス	I-Position
+担当	I-Position
+
+名鉄運輸株式会社	B-CompanyName
+名鉄運輸株式会社	B-CompanyName
+代表取締役社長	B-Position
+名鉄運輸株式会社	B-CompanyName
+代表取締役社長	B-Position
+ 社長	O
+執行役員	I-Position
+（	O
+現任	O
+）	O
+
+MT	B-CompanyName
+ラボ	I-CompanyName
+キャピタル	I-CompanyName
+㈱	I-CompanyName
+MT	B-CompanyName
+ラボ	I-CompanyName
+キャピタル	I-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+
+株式会社アクシス・クリエイト	O
+（	O
+現	O
+株式会社	B-CompanyName
+BNK	I-CompanyName
+1	I-CompanyName
+株式会社アクシス・クリエイト	O
+（	O
+現	O
+株式会社	B-CompanyName
+BNK	I-CompanyName
+1	I-CompanyName
+）	O
+監査役	B-Position
+株式会社アクシス・クリエイト	O
+（	O
+現	O
+株式会社	B-CompanyName
+BNK	I-CompanyName
+1	I-CompanyName
+）	O
+監査役	B-Position
+ 株式会社フェイス	O
+（	O
+現	O
+株式会社アクシス・クリエイト	B-CompanyName
+株式会社アクシス・クリエイト	O
+（	O
+現	O
+株式会社	B-CompanyName
+BNK	I-CompanyName
+1	I-CompanyName
+）	O
+監査役	B-Position
+ 株式会社フェイス	O
+（	O
+現	O
+株式会社アクシス・クリエイト	B-CompanyName
+）	O
+監査役	B-Position
+株式会社アクシス・クリエイト	O
+（	O
+現	O
+株式会社	B-CompanyName
+BNK	I-CompanyName
+1	I-CompanyName
+）	O
+監査役	B-Position
+ 株式会社フェイス	O
+（	O
+現	O
+株式会社アクシス・クリエイト	B-CompanyName
+）	O
+監査役	B-Position
+（	O
+現任	O
+）	O
+ 株式会社	O
+アクシスヒューマンデベロップメント	I-CompanyName
+株式会社アクシス・クリエイト	O
+（	O
+現	O
+株式会社	B-CompanyName
+BNK	I-CompanyName
+1	I-CompanyName
+）	O
+監査役	B-Position
+ 株式会社フェイス	O
+（	O
+現	O
+株式会社アクシス・クリエイト	B-CompanyName
+）	O
+監査役	B-Position
+（	O
+現任	O
+）	O
+ 株式会社	O
+アクシスヒューマンデベロップメント	I-CompanyName
+　	O
+監査役	B-Position
+(	O
+現任	O
+)	O
+
+株式会社北川鉄工所	B-CompanyName
+工	I-CompanyName
+機	I-CompanyName
+株式会社北川鉄工所	B-CompanyName
+工	I-CompanyName
+機	I-CompanyName
+事業部	B-Position
+技術	I-Position
+部長	I-Position
+
+株式会社	O
+ソニー・コンピュータエンタテインメント	O
+（	O
+現	O
+株式会社	B-CompanyName
+ソニー・インタラクティブエンタテインメント	I-CompanyName
+株式会社	O
+ソニー・コンピュータエンタテインメント	O
+（	O
+現	O
+株式会社	B-CompanyName
+ソニー・インタラクティブエンタテインメント	I-CompanyName
+）	O
+代表取締役会長	B-Position
+株式会社	O
+ソニー・コンピュータエンタテインメント	O
+（	O
+現	O
+株式会社	B-CompanyName
+ソニー・インタラクティブエンタテインメント	I-CompanyName
+）	O
+代表取締役会長	B-Position
+兼	O
+グループ	B-Position
+CEO	I-Position
+
+若築建設株式会社	B-CompanyName
+若築建設株式会社	B-CompanyName
+常勤	B-Position
+監査役	I-Position
+（	O
+現任	O
+）	O
+
+天馬株式会社	B-CompanyName
+天馬株式会社	B-CompanyName
+入社	B-Start
+
+ブーズ・アンド・カンパニー	B-CompanyName
+株式会社	I-CompanyName
+ブーズ・アンド・カンパニー	B-CompanyName
+株式会社	I-CompanyName
+ ヴァイスプレジデント	O
+（	O
+パートナー	O
+）	O
+
+フロイント産業株式会社	B-CompanyName
+フロイント産業株式会社	B-CompanyName
+入社	B-Start
+
+株式会社近鉄百貨店	B-CompanyName
+株式会社近鉄百貨店	B-CompanyName
+常務執行役員	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+
+新光商事株式会社	B-CompanyName
+新光商事株式会社	B-CompanyName
+入社	B-Start
+
+同	B-CompanyName
+同	B-CompanyName
+　	O
+取締役	B-Position
+常務執行役員	I-Position
+鉄道事業	I-Position
+本部長	I-Position
+同	B-CompanyName
+　	O
+取締役	B-Position
+常務執行役員	I-Position
+鉄道事業	I-Position
+本部長	I-Position
+兼	O
+北部	B-Position
+九州	I-Position
+地域本社	I-Position
+長	I-Position
+（	O
+現在	O
+に	O
+至る	O
+）	O
+
+インド	B-CompanyName
+スエズ	I-CompanyName
+・	I-CompanyName
+Ｗ	I-CompanyName
+.	I-CompanyName
+Ｉ	I-CompanyName
+カー	I-CompanyName
+証券	I-CompanyName
+株式	I-CompanyName
+インド	B-CompanyName
+スエズ	I-CompanyName
+・	I-CompanyName
+Ｗ	I-CompanyName
+.	I-CompanyName
+Ｉ	I-CompanyName
+カー	I-CompanyName
+証券	I-CompanyName
+株式	I-CompanyName
+デリバティブ	B-Position
+トレーダー	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+金融	B-Position
+インダス	I-Position
+トリー	I-Position
+銀行	I-Position
+第	I-Position
+一	I-Position
+サービス	I-Position
+第	I-Position
+三	I-Position
+サービス	I-Position
+部長	I-Position
+
+同行	B-CompanyName
+同行	B-CompanyName
+執行役員	B-Position
+アジア	I-Position
+・	I-Position
+オセアニア	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+(	I-Position
+特命	I-Position
+担当	I-Position
+)	I-Position
+同行	B-CompanyName
+執行役員	B-Position
+アジア	I-Position
+・	I-Position
+オセアニア	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+(	I-Position
+特命	I-Position
+担当	I-Position
+)	I-Position
+兼	O
+アジア	B-Position
+・	I-Position
+オセアニア	I-Position
+営業	I-Position
+部長	I-Position
+同行	B-CompanyName
+執行役員	B-Position
+アジア	I-Position
+・	I-Position
+オセアニア	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+(	I-Position
+特命	I-Position
+担当	I-Position
+)	I-Position
+兼	O
+アジア	B-Position
+・	I-Position
+オセアニア	I-Position
+営業	I-Position
+部長	I-Position
+兼	O
+シンガポール	B-Position
+支店長	I-Position
+
+株式会社	B-CompanyName
+グリーンズ	I-CompanyName
+株式会社	B-CompanyName
+グリーンズ	I-CompanyName
+代表取締役社長	B-Position
+株式会社	B-CompanyName
+グリーンズ	I-CompanyName
+代表取締役社長	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+株式会社フォトロン	B-CompanyName
+株式会社フォトロン	B-CompanyName
+　	O
+取締役会長	B-Position
+株式会社フォトロン	B-CompanyName
+　	O
+取締役会長	B-Position
+株式会社ＩＭＡＧＩＣＡ	B-CompanyName
+　	I-CompanyName
+ＧＲＯＵＰ	I-CompanyName
+株式会社フォトロン	B-CompanyName
+　	O
+取締役会長	B-Position
+株式会社ＩＭＡＧＩＣＡ	B-CompanyName
+　	I-CompanyName
+ＧＲＯＵＰ	I-CompanyName
+　	O
+代表取締役社長	B-Position
+株式会社フォトロン	B-CompanyName
+　	O
+取締役会長	B-Position
+株式会社ＩＭＡＧＩＣＡ	B-CompanyName
+　	I-CompanyName
+ＧＲＯＵＰ	I-CompanyName
+　	O
+代表取締役社長	B-Position
+ 社長	O
+執行役員	I-Position
+(	O
+現任	O
+)	O
+
+ＴＡＣ株式会社	B-CompanyName
+ＴＡＣ株式会社	B-CompanyName
+入社	B-Start
+ＴＡＣ株式会社	B-CompanyName
+入社	B-Start
+(	O
+税理士	B-Position
+講座	I-Position
+社員	I-Position
+講師	I-Position
+)	O
+
+AMERICAN	B-CompanyName
+ ELMO	I-CompanyName
+ CORP	I-CompanyName
+.	I-CompanyName
+AMERICAN	B-CompanyName
+ ELMO	I-CompanyName
+ CORP	I-CompanyName
+.	I-CompanyName
+代表取締役社長	B-Position
+（	O
+現任	O
+）	O
+
+フュージョン株式会社	B-CompanyName
+フュージョン株式会社	B-CompanyName
+　	O
+社外監査役	B-Position
+（	O
+現任	O
+）	O
+
+オーエス	B-CompanyName
+㈱	I-CompanyName
+オーエス	B-CompanyName
+㈱	I-CompanyName
+社外取締役	B-Position
+(	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+)(	I-Position
+現任	O
+)	O
+
+株式会社	B-Position
+ヒガ	I-Position
+・	I-Position
+インターナショナル	I-Position
+株式会社	B-Position
+ヒガ	I-Position
+・	I-Position
+インターナショナル	I-Position
+（	O
+現	O
+株式会社	B-CompanyName
+ヒガ・インダストリーズ	I-CompanyName
+株式会社	B-Position
+ヒガ	I-Position
+・	I-Position
+インターナショナル	I-Position
+（	O
+現	O
+株式会社	B-CompanyName
+ヒガ・インダストリーズ	I-CompanyName
+）	O
+代表取締役会長	B-Position
+株式会社	B-Position
+ヒガ	I-Position
+・	I-Position
+インターナショナル	I-Position
+（	O
+現	O
+株式会社	B-CompanyName
+ヒガ・インダストリーズ	I-CompanyName
+）	O
+代表取締役会長	B-Position
+に	O
+就任	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+専務執行役員	B-Position
+
+竹田印刷株式会社	B-CompanyName
+竹田印刷株式会社	B-CompanyName
+常務取締役	B-Position
+中部	I-Position
+事業部	I-Position
+営業	I-Position
+本部長	I-Position
+竹田印刷株式会社	B-CompanyName
+常務取締役	B-Position
+中部	I-Position
+事業部	I-Position
+営業	I-Position
+本部長	I-Position
+就任	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+執行役員	B-Position
+ 社長	I-Position
+室	I-Position
+ 部長	I-Position
+
+あらた監査法人	B-CompanyName
+あらた監査法人	B-CompanyName
+代表社員	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+アジア太平洋	B-Position
+グループ	I-Position
+会長	I-Position
+
+㈱	B-CompanyName
+安成	I-CompanyName
+工務店	I-CompanyName
+㈱	B-CompanyName
+安成	I-CompanyName
+工務店	I-CompanyName
+入社	B-Start
+
+カメイ株式会社	B-CompanyName
+カメイ株式会社	B-CompanyName
+ファーマシー	B-Position
+事業	I-Position
+部長	I-Position
+カメイ株式会社	B-CompanyName
+ファーマシー	B-Position
+事業	I-Position
+部長	I-Position
+就任	B-Start
+
+松竹	B-CompanyName
+㈱	I-CompanyName
+松竹	B-CompanyName
+㈱	I-CompanyName
+経営企画	B-Position
+部	I-Position
+経営企画	I-Position
+室長	I-Position
+ グループ	I-Position
+企画	I-Position
+室長	I-Position
+(	O
+現任	O
+)	O
+
+株式会社アドバンテスト	B-CompanyName
+株式会社アドバンテスト	B-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+イオンフィナンシャルサービス株式会社	B-CompanyName
+イオンフィナンシャルサービス株式会社	B-CompanyName
+常勤	B-Position
+社外監査役	I-Position
+（	O
+現	O
+）	O
+
+ミサワホーム株式会社	B-CompanyName
+ミサワホーム株式会社	B-CompanyName
+入社	B-Start
+
+同	B-CompanyName
+大学	I-CompanyName
+同	B-CompanyName
+大学	I-CompanyName
+キャリア	B-Position
+センター	I-Position
+長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+代表取締役会長	B-Position
+CEO	I-Position
+
+東洋電機株式会社	B-CompanyName
+東洋電機株式会社	B-CompanyName
+取締役	B-Position
+エンジニアリング	I-Position
+事業	I-Position
+部長	I-Position
+
+株式会社	B-CompanyName
+　	I-CompanyName
+トプコン	I-CompanyName
+株式会社	B-CompanyName
+　	I-CompanyName
+トプコン	I-CompanyName
+上席	B-Position
+執行役員	I-Position
+技術	I-Position
+本部長	I-Position
+(	O
+現任	O
+)	O
+
+日本製紙	B-CompanyName
+㈱	I-CompanyName
+日本製紙	B-CompanyName
+㈱	I-CompanyName
+印刷	B-Position
+・	I-Position
+情報	I-Position
+用紙	I-Position
+営業	I-Position
+本部	I-Position
+営業	I-Position
+統括	I-Position
+部長	I-Position
+
+営業	B-Position
+本部	I-Position
+名古屋	I-Position
+営業	I-Position
+部長	I-Position
+
+大分医科大学	O
+（	O
+現	O
+ 大分大学	O
+医学部	I-CompanyName
+大分医科大学	O
+（	O
+現	O
+ 大分大学	O
+医学部	I-CompanyName
+）	O
+生化学	B-Position
+講座	I-Position
+助教授	I-Position
+
+株式会社	B-CompanyName
+ハピネス・アンド・ディ	I-CompanyName
+株式会社	B-CompanyName
+ハピネス・アンド・ディ	I-CompanyName
+取締役	B-Position
+営業	I-Position
+本部長	I-Position
+
+株式会社明治	B-CompanyName
+安田	I-CompanyName
+総合研究所	I-CompanyName
+株式会社明治	B-CompanyName
+安田	I-CompanyName
+総合研究所	I-CompanyName
+代表取締役会長	B-Position
+
+ライフスタイル	B-CompanyName
+マネジメント	I-CompanyName
+㈱	I-CompanyName
+ライフスタイル	B-CompanyName
+マネジメント	I-CompanyName
+㈱	I-CompanyName
+代表取締役社長	B-Position
+（	O
+現	O
+）	O
+
+株式会社	O
+リクルート	O
+人材	O
+センター	O
+（	O
+現	O
+株式会社リクルートキャリア	B-CompanyName
+株式会社	O
+リクルート	O
+人材	O
+センター	O
+（	O
+現	O
+株式会社リクルートキャリア	B-CompanyName
+）	O
+入社	B-Start
+
+執行役員	B-Position
+執行役員	B-Position
+ メモリー	O
+ディスク	I-Position
+事業	I-Position
+部長	I-Position
+
+株式会社アスカネット	B-CompanyName
+株式会社アスカネット	B-CompanyName
+常務取締役	B-Position
+
+当行	B-CompanyName
+当行	B-CompanyName
+監査役	B-Position
+（	O
+現職	O
+）	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+秋田	B-Position
+支社	I-Position
+総務部	I-Position
+企画	I-Position
+室長	I-Position
+
+㈱	B-CompanyName
+インター	I-CompanyName
+ナショナルスポーツ	I-CompanyName
+マーケティング	I-CompanyName
+㈱	B-CompanyName
+インター	I-CompanyName
+ナショナルスポーツ	I-CompanyName
+マーケティング	I-CompanyName
+監査役	B-Position
+㈱	B-CompanyName
+インター	I-CompanyName
+ナショナルスポーツ	I-CompanyName
+マーケティング	I-CompanyName
+監査役	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+国税庁	B-CompanyName
+国税庁	B-CompanyName
+ 首席監察官	O
+
+"	O
+IBM	B-CompanyName
+ Corporation	I-CompanyName
+"	O
+IBM	B-CompanyName
+ Corporation	I-CompanyName
+出向	B-Transfer
+"	O
+IBM	B-CompanyName
+ Corporation	I-CompanyName
+出向	B-Transfer
+VicePresident	B-CompanyName
+,	I-CompanyName
+Banking	I-CompanyName
+ Frameworks	I-CompanyName
+"	O
+IBM	B-CompanyName
+ Corporation	I-CompanyName
+出向	B-Transfer
+VicePresident	B-CompanyName
+,	I-CompanyName
+Banking	I-CompanyName
+ Frameworks	I-CompanyName
+,	O
+Finance	B-Position
+ Sector	I-Position
+"	O
+
+キッセイ薬品工業株式会社	B-CompanyName
+キッセイ薬品工業株式会社	B-CompanyName
+入社	B-Start
+
+株式会社エスイー	B-CompanyName
+株式会社エスイー	B-CompanyName
+顧問	B-Position
+
+中国	B-CompanyName
+鞍山鋼鉄集団公司	I-CompanyName
+中国	B-CompanyName
+鞍山鋼鉄集団公司	I-CompanyName
+総経理	B-Position
+助	I-Position
+理	I-Position
+
+ナガイレーベン株式会社	B-CompanyName
+ナガイレーベン株式会社	B-CompanyName
+入社	B-Start
+
+(株)	B-CompanyName
+かんぽ生命保険	I-CompanyName
+(株)	B-CompanyName
+かんぽ生命保険	I-CompanyName
+ 社外取締役	O
+(株)	B-CompanyName
+かんぽ生命保険	I-CompanyName
+ 社外取締役	O
+・	O
+監査委員	B-Position
+長	I-Position
+
+石原ケミカル株式会社	B-CompanyName
+石原ケミカル株式会社	B-CompanyName
+入社	B-Start
+
+㈱	B-CompanyName
+アク	I-CompanyName
+シード	I-CompanyName
+設計事務所	I-CompanyName
+㈱	B-CompanyName
+アク	I-CompanyName
+シード	I-CompanyName
+設計事務所	I-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社	B-CompanyName
+ピーバンドットコム	I-CompanyName
+株式会社	B-CompanyName
+ピーバンドットコム	I-CompanyName
+監査役	B-Position
+株式会社	B-CompanyName
+ピーバンドットコム	I-CompanyName
+監査役	B-Position
+就任	B-Start
+
+働き方改革	B-CompanyName
+日本株式会社	I-CompanyName
+働き方改革	B-CompanyName
+日本株式会社	I-CompanyName
+設立	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+退任	B-End
+
+ｒａｋｕｍｏ	B-CompanyName
+株式会社	I-CompanyName
+ｒａｋｕｍｏ	B-CompanyName
+株式会社	I-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+株式会社ネクストジェン	B-CompanyName
+株式会社ネクストジェン	B-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+取締役	B-Position
+常務執行役員	I-Position
+(	O
+現任	O
+)	O
+
+同	B-CompanyName
+同	B-CompanyName
+　	O
+専務取締役	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役会長	B-Position
+同社	B-CompanyName
+取締役会長	B-Position
+就任	B-Start
+
+理事	B-Position
+電力	I-Position
+事業部	I-Position
+変圧器	I-Position
+設計	I-Position
+部長	I-Position
+
+株式会社ラ・アトレ	B-CompanyName
+株式会社ラ・アトレ	B-CompanyName
+社外監査役	B-Position
+
+前田建設工業	B-CompanyName
+㈱	I-CompanyName
+前田建設工業	B-CompanyName
+㈱	I-CompanyName
+　	O
+社外取締役	B-Position
+
+芝浦工業大学	B-CompanyName
+大学院	I-CompanyName
+芝浦工業大学	B-CompanyName
+大学院	I-CompanyName
+工学マネジメント研究科	B-Position
+芝浦工業大学	B-CompanyName
+大学院	I-CompanyName
+工学マネジメント研究科	B-Position
+　	O
+教授	B-Start
+
+REXT	B-CompanyName
+株式会社	I-CompanyName
+REXT	B-CompanyName
+株式会社	I-CompanyName
+ 取締役会長	O
+（	O
+現任	O
+）	O
+
+京都きもの友禅株式会社	B-CompanyName
+京都きもの友禅株式会社	B-CompanyName
+社外取締役	B-Position
+京都きもの友禅株式会社	B-CompanyName
+社外取締役	B-Position
+就任	B-Start
+
+神戸	B-CompanyName
+天然物化学	I-CompanyName
+株式会社	I-CompanyName
+神戸	B-CompanyName
+天然物化学	I-CompanyName
+株式会社	I-CompanyName
+　	O
+取締役	B-Position
+医薬	I-Position
+事業	I-Position
+部長	I-Position
+
+国民生活金融公庫	B-CompanyName
+国民生活金融公庫	B-CompanyName
+副	B-Position
+総裁	I-Position
+
+旧	B-CompanyName
+株式会社フランジア・ジャパン	I-CompanyName
+旧	B-CompanyName
+株式会社フランジア・ジャパン	I-CompanyName
+設立	B-Start
+旧	B-CompanyName
+株式会社フランジア・ジャパン	I-CompanyName
+設立	B-Start
+　	O
+代表取締役	B-Position
+旧	B-CompanyName
+株式会社フランジア・ジャパン	I-CompanyName
+設立	B-Start
+　	O
+代表取締役	B-Position
+就任	B-Start
+
+公認会計士	B-CompanyName
+公認会計士	B-CompanyName
+登録	B-Position
+（	O
+現	O
+）	O
+
+ロング	B-CompanyName
+ライフ	I-CompanyName
+リゾート	I-CompanyName
+株式会社	I-CompanyName
+ロング	B-CompanyName
+ライフ	I-CompanyName
+リゾート	I-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+ロング	B-CompanyName
+ライフ	I-CompanyName
+リゾート	I-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+ 同社	O
+営業	I-Position
+本部長	I-Position
+
+長島・大野・常松法律事務所	B-CompanyName
+長島・大野・常松法律事務所	B-CompanyName
+退所	B-End
+
+取締役	B-Position
+取締役	B-Position
+兼	O
+常務執行役員	B-Position
+経営企画	I-Position
+・	I-Position
+連結	I-Position
+経営	I-Position
+部長	I-Position
+取締役	B-Position
+兼	O
+常務執行役員	B-Position
+経営企画	I-Position
+・	I-Position
+連結	I-Position
+経営	I-Position
+部長	I-Position
+兼	O
+管理	B-Position
+本部長	I-Position
+
+ＫｅｅＰｅｒ技研株式会社	B-CompanyName
+ＫｅｅＰｅｒ技研株式会社	B-CompanyName
+取締役	B-Position
+ＫｅｅＰｅｒ技研株式会社	B-CompanyName
+取締役	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+日本水産株式会社	B-CompanyName
+日本水産株式会社	B-CompanyName
+ 社外監査役	O
+（	O
+現在	O
+）	O
+
+インフォテリア株式会社	B-CompanyName
+インフォテリア株式会社	B-CompanyName
+社外監査役	B-Position
+
+SMBC日興証券	B-CompanyName
+㈱	I-CompanyName
+SMBC日興証券	B-CompanyName
+㈱	I-CompanyName
+専務取締役	B-Position
+営業	I-Position
+統轄	I-Position
+SMBC日興証券	B-CompanyName
+㈱	I-CompanyName
+専務取締役	B-Position
+営業	I-Position
+統轄	I-Position
+ 兼	O
+ 総合	O
+法人	I-Position
+本部長	I-Position
+
+日揮ホールディングス株式会社	B-CompanyName
+日揮ホールディングス株式会社	B-CompanyName
+執行役員	B-Position
+日揮ホールディングス株式会社	B-CompanyName
+執行役員	B-Position
+日揮	B-CompanyName
+Japan	I-CompanyName
+日揮ホールディングス株式会社	B-CompanyName
+執行役員	B-Position
+日揮	B-CompanyName
+Japan	I-CompanyName
+設立	B-Start
+日揮ホールディングス株式会社	B-CompanyName
+執行役員	B-Position
+日揮	B-CompanyName
+Japan	I-CompanyName
+設立	B-Start
+準備	B-Position
+室長	I-Position
+日揮ホールディングス株式会社	B-CompanyName
+執行役員	B-Position
+日揮	B-CompanyName
+Japan	I-CompanyName
+設立	B-Start
+準備	B-Position
+室長	I-Position
+兼	O
+インフラ	B-Position
+統括	I-Position
+本部	I-Position
+国内	I-Position
+インフラ	I-Position
+プロジェクト	I-Position
+本部長	I-Position
+代行	I-Position
+
+預金保険機構	B-CompanyName
+預金保険機構	B-CompanyName
+(	O
+預金保険機構	B-Position
+審議	I-Position
+役	I-Position
+預金保険機構	B-CompanyName
+(	O
+預金保険機構	B-Position
+審議	I-Position
+役	I-Position
+)	O
+出向	B-Transfer
+
+公共	O
+シィー・アール・イー	O
+株式会社	O
+(	O
+現	O
+：	O
+株式会社	B-CompanyName
+シーアールイー	I-CompanyName
+公共	O
+シィー・アール・イー	O
+株式会社	O
+(	O
+現	O
+：	O
+株式会社	B-CompanyName
+シーアールイー	I-CompanyName
+)	O
+ 常務取締役	O
+
+株式会社ＪＢイレブン	B-CompanyName
+株式会社ＪＢイレブン	B-CompanyName
+　	O
+監査役	B-Position
+
+近藤	O
+会計士	O
+補	O
+事務所	O
+(	O
+現	O
+ 近藤	O
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+近藤	O
+会計士	O
+補	O
+事務所	O
+(	O
+現	O
+ 近藤	O
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+)	O
+開業	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+天然ガス	B-Position
+系	I-Position
+化学	I-Position
+品	I-Position
+カンパニー	I-Position
+新潟	I-Position
+工場	I-Position
+研究	I-Position
+技術	I-Position
+部長	I-Position
+
+川崎地質株式会社	B-CompanyName
+川崎地質株式会社	B-CompanyName
+技術	B-Position
+本部	I-Position
+技術	I-Position
+統括	I-Position
+部長	I-Position
+
+株式会社	B-CompanyName
+ＩＪＴＴ	I-CompanyName
+株式会社	B-CompanyName
+ＩＪＴＴ	I-CompanyName
+常務執行役員	B-Position
+営業	I-Position
+本部長	I-Position
+
+第二東京弁護士会	B-Position
+第二東京弁護士会	B-Position
+登録	B-Start
+第二東京弁護士会	B-Position
+登録	B-Start
+ 今村	O
+嗣夫	I-CompanyName
+法律事務所	I-CompanyName
+第二東京弁護士会	B-Position
+登録	B-Start
+ 今村	O
+嗣夫	I-CompanyName
+法律事務所	I-CompanyName
+入所	B-Start
+
+テクノアルファ株式会社	B-CompanyName
+テクノアルファ株式会社	B-CompanyName
+設立	B-Start
+テクノアルファ株式会社	B-CompanyName
+設立	B-Start
+と	O
+同時に	O
+入社	B-Start
+テクノアルファ株式会社	B-CompanyName
+設立	B-Start
+と	O
+同時に	O
+入社	B-Start
+　	O
+半導体	B-Position
+装置	I-Position
+グループ	I-Position
+　	I-Position
+グループ	I-Position
+マネージャー	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役	B-Position
+専務執行役員	I-Position
+
+株式会社	B-CompanyName
+ハピネス・アンド・ディ	I-CompanyName
+株式会社	B-CompanyName
+ハピネス・アンド・ディ	I-CompanyName
+総務	B-Position
+人事	I-Position
+部長	I-Position
+
+株式会社関通	B-CompanyName
+株式会社関通	B-CompanyName
+社外取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+（	O
+現任	O
+）	O
+
+大阪大学	B-CompanyName
+大阪大学	B-CompanyName
+医学部	B-Position
+内科医	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+ 代表取締役社長	O
+
+株式会社日本製鋼所	B-CompanyName
+株式会社日本製鋼所	B-CompanyName
+技術戦略	B-Position
+室	I-Position
+副	I-Position
+室長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+執行役	B-Position
+副社長	I-Position
+同社	B-CompanyName
+執行役	B-Position
+副社長	I-Position
+就任	B-Start
+
+税理士	B-CompanyName
+税理士	B-CompanyName
+登録	B-Start
+
+パルファン・クリスチャン・ディオール	B-CompanyName
+・	I-CompanyName
+ジャポン	I-CompanyName
+株式会社	I-CompanyName
+パルファン・クリスチャン・ディオール	B-CompanyName
+・	I-CompanyName
+ジャポン	I-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+
+経営企画	B-Position
+本部	I-Position
+製品戦略	I-Position
+部長	I-Position
+
+株式会社	O
+ジェー・アイ・イー・シー	O
+（	O
+現	O
+SCSK株式会社	B-CompanyName
+株式会社	O
+ジェー・アイ・イー・シー	O
+（	O
+現	O
+SCSK株式会社	B-CompanyName
+）	O
+取締役	B-Position
+
+日本食品化工株式会社	B-CompanyName
+日本食品化工株式会社	B-CompanyName
+執行役員	B-Position
+
+株式会社	B-CompanyName
+ディー・ブレイン	I-CompanyName
+関西	I-CompanyName
+株式会社	B-CompanyName
+ディー・ブレイン	I-CompanyName
+関西	I-CompanyName
+　	O
+代表取締役	B-Position
+株式会社	B-CompanyName
+ディー・ブレイン	I-CompanyName
+関西	I-CompanyName
+　	O
+代表取締役	B-Position
+就任	B-Start
+
+若築建設株式会社	B-CompanyName
+若築建設株式会社	B-CompanyName
+名古屋	B-Position
+支店	I-Position
+副	I-Position
+支店長	I-Position
+
+株式会社日本抵抗器製作所	B-CompanyName
+株式会社日本抵抗器製作所	B-CompanyName
+入社	B-Start
+
+伊藤忠燃料	O
+株式会社	O
+（	O
+現	O
+・	O
+伊藤忠	B-Position
+ エネクス	I-Position
+株式会社	I-Position
+伊藤忠燃料	O
+株式会社	O
+（	O
+現	O
+・	O
+伊藤忠	B-Position
+ エネクス	I-Position
+株式会社	I-Position
+）	O
+ 入社	O
+
+株式会社セブン＆アイ・ホールディングス	B-CompanyName
+株式会社セブン＆アイ・ホールディングス	B-CompanyName
+財務	B-Position
+経理	I-Position
+本部長	I-Position
+(	O
+現任	O
+)	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+ 宇宙	O
+・	I-Position
+情報	I-Position
+・	I-Position
+マルチメディア	I-Position
+事業	I-Position
+・	I-Position
+審査	I-Position
+部	I-Position
+
+株式会社アルプス技研	B-CompanyName
+株式会社アルプス技研	B-CompanyName
+取締役	B-Position
+営業	I-Position
+推進	I-Position
+部長	I-Position
+
+司法試験	B-Position
+司法試験	B-Position
+合格	B-Start
+
+サンフロンティア不動産株式会社	B-CompanyName
+サンフロンティア不動産株式会社	B-CompanyName
+入社	B-Start
+サンフロンティア不動産株式会社	B-CompanyName
+入社	B-Start
+　	O
+受託	B-Position
+資産運用	I-Position
+本部	I-Position
+　	I-Position
+法人	I-Position
+営業	I-Position
+課	I-Position
+
+ファーストコーポレーション株式会社	B-CompanyName
+ファーストコーポレーション株式会社	B-CompanyName
+入社	B-Start
+ファーストコーポレーション株式会社	B-CompanyName
+入社	B-Start
+　	O
+建築	B-Position
+部	I-Position
+営業	I-Position
+技術	I-Position
+支援	I-Position
+グループ	I-Position
+長	I-Position
+
+株式会社エヌ・ティ・ティ・データ	B-CompanyName
+株式会社エヌ・ティ・ティ・データ	B-CompanyName
+第	B-Position
+四	I-Position
+金融事業	I-Position
+本部	I-Position
+企画部	I-Position
+事業	I-Position
+企画	I-Position
+担当	I-Position
+シニア	I-Position
+・	I-Position
+スペシャリスト	I-Position
+（	O
+現任	O
+）	O
+
+旭テック株式会社	B-CompanyName
+旭テック株式会社	B-CompanyName
+取締役	B-Position
+(	I-Position
+非常勤	I-Position
+)(	I-Position
+現	O
+)	O
+
+同行	B-CompanyName
+同行	B-CompanyName
+新宿	B-Position
+支店長	I-Position
+
+弁護士	B-CompanyName
+弁護士	B-CompanyName
+登録	B-Start
+
+常務執行役員	B-Position
+
+公認会計士	B-CompanyName
+公認会計士	B-CompanyName
+登録	B-Start
+
+川辺株式会社	B-CompanyName
+川辺株式会社	B-CompanyName
+商品	B-Position
+本部	I-Position
+政策	I-Position
+部	I-Position
+部長	I-Position
+川辺株式会社	B-CompanyName
+商品	B-Position
+本部	I-Position
+政策	I-Position
+部	I-Position
+部長	I-Position
+兼	O
+品質管理	B-Position
+室長	I-Position
+
+株式会社ウェッズ	B-CompanyName
+株式会社ウェッズ	B-CompanyName
+入社	B-Start
+
+株式会社	B-CompanyName
+みずほコーポレート銀行	I-CompanyName
+株式会社	B-CompanyName
+みずほコーポレート銀行	I-CompanyName
+執行役員	B-Position
+
+株式会社シーイーシー	B-CompanyName
+株式会社シーイーシー	B-CompanyName
+入社	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+執行役	B-Position
+常務	I-Position
+同社	B-CompanyName
+執行役	B-Position
+常務	I-Position
+ 電カ	O
+システム	I-Position
+グループ	I-Position
+電カ	I-Position
+システム	I-Position
+社	I-Position
+電力	I-Position
+統括	I-Position
+営業	I-Position
+本部長	I-Position
+同社	B-CompanyName
+執行役	B-Position
+常務	I-Position
+ 電カ	O
+システム	I-Position
+グループ	I-Position
+電カ	I-Position
+システム	I-Position
+社	I-Position
+電力	I-Position
+統括	I-Position
+営業	I-Position
+本部長	I-Position
+兼	O
+営業	B-Position
+統括	I-Position
+本部	I-Position
+副	I-Position
+統括	I-Position
+本部長	I-Position
+
+事務	B-Position
+間接	I-Position
+管掌	I-Position
+事務	B-Position
+間接	I-Position
+管掌	I-Position
+兼	O
+生産技術	B-Position
+担当	I-Position
+
+シチズンマシナリー	B-CompanyName
+㈱	I-CompanyName
+シチズンマシナリー	B-CompanyName
+㈱	I-CompanyName
+管理	B-Position
+本部長	I-Position
+
+池田泉州銀行	B-CompanyName
+池田泉州銀行	B-CompanyName
+取締役	B-Position
+専務執行役員	I-Position
+(	O
+現職	O
+)	O
+
+株式会社ニコン	B-CompanyName
+株式会社ニコン	B-CompanyName
+代表取締役	B-Position
+株式会社ニコン	B-CompanyName
+代表取締役	B-Position
+兼	O
+副社長	B-Position
+執行役員	I-Position
+株式会社ニコン	B-CompanyName
+代表取締役	B-Position
+兼	O
+副社長	B-Position
+執行役員	I-Position
+兼	O
+ＣＦＯ	B-Position
+
+株式会社大阪チタニウムテクノロジーズ	B-CompanyName
+株式会社大阪チタニウムテクノロジーズ	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+
+同上	B-CompanyName
+同上	B-CompanyName
+ 退職	O
+
+株式会社ステップ	B-CompanyName
+株式会社ステップ	B-CompanyName
+取締役	B-Position
+株式会社ステップ	B-CompanyName
+取締役	B-Position
+就任	B-Start
+(	O
+現任	O
+)	O
+
+専務取締役	B-Position
+商品	I-Position
+本部長	I-Position
+
+執行役員	B-Position
+総務	I-Position
+部長	I-Position
+
+㈱	B-CompanyName
+アサヒペン	I-CompanyName
+㈱	B-CompanyName
+アサヒペン	I-CompanyName
+入社	B-Start
+
+常務取締役	B-Position
+常務取締役	B-Position
+就任	B-Start
+
+一般財団法人	B-CompanyName
+葵	I-CompanyName
+プロジェクト	I-CompanyName
+一般財団法人	B-CompanyName
+葵	I-CompanyName
+プロジェクト	I-CompanyName
+　	O
+理事	B-Position
+（	O
+現任	O
+）	O
+
+株式会社丹青社	B-CompanyName
+株式会社丹青社	B-CompanyName
+Ｓ	B-Position
+Ｅ	I-Position
+事業部	I-Position
+第	I-Position
+２	I-Position
+営業	I-Position
+部長	I-Position
+
+丸紅株式会社	B-CompanyName
+丸紅株式会社	B-CompanyName
+入社	B-Start
+
+株式会社エイト	O
+コンサルタント	O
+（	O
+現	O
+ 株式会社	O
+エイト日本技術開発	I-CompanyName
+株式会社エイト	O
+コンサルタント	O
+（	O
+現	O
+ 株式会社	O
+エイト日本技術開発	I-CompanyName
+）	O
+入社	B-Start
+
+学校法人	B-CompanyName
+清泉女子大学	I-CompanyName
+学校法人	B-CompanyName
+清泉女子大学	I-CompanyName
+監事	B-Position
+（	O
+現任	O
+）	O
+
+常務取締役	B-Position
+経営企画	I-Position
+本部長	I-Position
+
+株式会社アルバイトタイムス	B-CompanyName
+株式会社アルバイトタイムス	B-CompanyName
+取締役	B-Position
+東京	I-Position
+本部長	I-Position
+
+取締役	B-Position
+経営企画	I-Position
+部長	I-Position
+
+株式会社システナ	B-CompanyName
+株式会社システナ	B-CompanyName
+取締役	B-Position
+執行役員	I-Position
+人材戦略	I-Position
+本部長	I-Position
+
+株式会社	B-CompanyName
+トレード	I-CompanyName
+ワークス	I-CompanyName
+株式会社	B-CompanyName
+トレード	I-CompanyName
+ワークス	I-CompanyName
+ 設立	O
+株式会社	B-CompanyName
+トレード	I-CompanyName
+ワークス	I-CompanyName
+ 設立	O
+ 取締役	O
+株式会社	B-CompanyName
+トレード	I-CompanyName
+ワークス	I-CompanyName
+ 設立	O
+ 取締役	O
+ 就任	O
+
+取締役	B-Position
+商品	I-Position
+部	I-Position
+部長	I-Position
+取締役	B-Position
+商品	I-Position
+部	I-Position
+部長	I-Position
+就任	B-Start
+
+旭有機材株式会社	B-CompanyName
+旭有機材株式会社	B-CompanyName
+管理	B-Position
+本部	I-Position
+経営企画	I-Position
+室長	I-Position
+
+松本実	B-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+松本実	B-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+開設	B-Start
+松本実	B-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+開設	B-Start
+同	B-CompanyName
+松本実	B-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+開設	B-Start
+同	B-CompanyName
+所長	B-Position
+(	O
+現任	O
+)	O
+
+セールス	B-Position
+統括	I-Position
+部	I-Position
+・	I-Position
+ホテル	I-Position
+製品	I-Position
+事業部	I-Position
+・	I-Position
+マーケティング	I-Position
+部	I-Position
+・	I-Position
+IT	I-Position
+システム	I-Position
+部	I-Position
+担当	I-Position
+セールス	B-Position
+統括	I-Position
+部	I-Position
+・	I-Position
+ホテル	I-Position
+製品	I-Position
+事業部	I-Position
+・	I-Position
+マーケティング	I-Position
+部	I-Position
+・	I-Position
+IT	I-Position
+システム	I-Position
+部	I-Position
+担当	I-Position
+（	O
+兼	O
+）	O
+経営企画	B-Position
+部	I-Position
+副	I-Position
+担当	I-Position
+（	O
+現	O
+）	O
+
+ＳＡＮＥＩ	B-CompanyName
+株式会社	I-CompanyName
+ＳＡＮＥＩ	B-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+
+ソニー株式会社	B-CompanyName
+ソニー株式会社	B-CompanyName
+VP	B-Position
+広報	I-Position
+・	I-Position
+CSR	I-Position
+部	I-Position
+シニア	I-Position
+ゼネラルマネージャー	I-Position
+
+取締役	B-Position
+取締役	B-Position
+就任	B-Start
+取締役	B-Position
+就任	B-Start
+（	O
+現任	O
+)　	O
+乾物	B-Position
+ユニット	I-Position
+長	I-Position
+
+株式会社奥村組	B-CompanyName
+株式会社奥村組	B-CompanyName
+東京	B-Position
+支社	I-Position
+土木	I-Position
+統括	I-Position
+部長	I-Position
+
+株式会社	B-CompanyName
+レコフ	I-CompanyName
+株式会社	B-CompanyName
+レコフ	I-CompanyName
+取締役	B-Position
+株式会社	B-CompanyName
+レコフ	I-CompanyName
+取締役	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+London	B-CompanyName
+ Business	I-CompanyName
+ School	I-CompanyName
+London	B-CompanyName
+ Business	I-CompanyName
+ School	I-CompanyName
+卒業	B-End
+
+株式会社	B-CompanyName
+　	I-CompanyName
+コロナ	I-CompanyName
+株式会社	B-CompanyName
+　	I-CompanyName
+コロナ	I-CompanyName
+執行役員	B-Position
+技術	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+
+株式会社	B-CompanyName
+デジタルハーツホールディングス	I-CompanyName
+株式会社	B-CompanyName
+デジタルハーツホールディングス	I-CompanyName
+ 社外取締役	O
+（	O
+現任	O
+）	O
+
+ジャスコ	O
+㈱	O
+（	O
+現	O
+イオン	B-CompanyName
+㈱	I-CompanyName
+ジャスコ	O
+㈱	O
+（	O
+現	O
+イオン	B-CompanyName
+㈱	I-CompanyName
+）	O
+入社	B-Start
+
+東京大学	B-CompanyName
+大学院	I-CompanyName
+東京大学	B-CompanyName
+大学院	I-CompanyName
+　	O
+理学研究科	B-Position
+　	I-Position
+教務	I-Position
+補佐	I-Position
+員	I-Position
+
+取締役	B-Position
+上席	I-Position
+執行役員	I-Position
+
+日本	O
+ユニ	O
+バック	O
+株式会社	O
+（	O
+現	O
+日本ユニシス株式会社	B-CompanyName
+日本	O
+ユニ	O
+バック	O
+株式会社	O
+（	O
+現	O
+日本ユニシス株式会社	B-CompanyName
+）	O
+入社	B-Position
+
+営業部	B-Position
+次長	I-Position
+営業部	B-Position
+次長	I-Position
+兼	O
+素	B-Position
+形	I-Position
+材	I-Position
+センター	I-Position
+課長	I-Position
+
+スチールプランテック	B-CompanyName
+㈱	I-CompanyName
+スチールプランテック	B-CompanyName
+㈱	I-CompanyName
+代表取締役社長	B-Position
+
+（	O
+一社	O
+）	O
+日本	B-CompanyName
+バイオ	I-CompanyName
+デザイン	I-CompanyName
+学会	I-CompanyName
+（	O
+一社	O
+）	O
+日本	B-CompanyName
+バイオ	I-CompanyName
+デザイン	I-CompanyName
+学会	I-CompanyName
+顧問	B-Position
+（	O
+現	O
+）	O
+
+日本弁護士連合会	B-CompanyName
+日本弁護士連合会	B-CompanyName
+・	O
+労働法	B-Position
+制	I-Position
+委員会	I-Position
+副委員長	I-Position
+（	O
+現在	O
+）	O
+
+税理士法人	B-CompanyName
+大分	I-CompanyName
+綜合	I-CompanyName
+会計事務所	I-CompanyName
+税理士法人	B-CompanyName
+大分	I-CompanyName
+綜合	I-CompanyName
+会計事務所	I-CompanyName
+設立	B-Start
+（	O
+現任	O
+）	O
+
+㈱	B-CompanyName
+トッパン	I-CompanyName
+・	I-CompanyName
+ダイレクト	I-CompanyName
+・	I-CompanyName
+   メール	I-CompanyName
+・	I-CompanyName
+センター	I-CompanyName
+㈱	B-CompanyName
+トッパン	I-CompanyName
+・	I-CompanyName
+ダイレクト	I-CompanyName
+・	I-CompanyName
+   メール	I-CompanyName
+・	I-CompanyName
+センター	I-CompanyName
+取締役	B-Position
+㈱	B-CompanyName
+トッパン	I-CompanyName
+・	I-CompanyName
+ダイレクト	I-CompanyName
+・	I-CompanyName
+   メール	I-CompanyName
+・	I-CompanyName
+センター	I-CompanyName
+取締役	B-Position
+就任	B-Start
+
+内部監査	B-Position
+財団	I-Position
+ 理事	I-Position
+内部監査	B-Position
+財団	I-Position
+ 理事	I-Position
+、	O
+評議員	B-Position
+
+大興電子通信株式会社	B-CompanyName
+大興電子通信株式会社	B-CompanyName
+製造	B-Position
+ソリューション	I-Position
+統括	I-Position
+部	I-Position
+第	I-Position
+二	I-Position
+システム	I-Position
+部長	I-Position
+
+株式会社	B-CompanyName
+トイカード	I-CompanyName
+株式会社	B-CompanyName
+トイカード	I-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+入所	B-Start
+
+株式会社	B-CompanyName
+セコニック	I-CompanyName
+電子	I-CompanyName
+株式会社	B-CompanyName
+セコニック	I-CompanyName
+電子	I-CompanyName
+取締役	B-Position
+
+株式会社大庄	B-CompanyName
+株式会社大庄	B-CompanyName
+営業	B-Position
+本部	I-Position
+東京	I-Position
+第	I-Position
+二	I-Position
+支部長	I-Position
+
+上席	B-Position
+執行役員	I-Position
+ 電力	I-Position
+本部	I-Position
+ 副	I-Position
+本部長	I-Position
+
+弁護士法人御堂筋法律事務所	B-CompanyName
+弁護士法人御堂筋法律事務所	B-CompanyName
+パートナー	B-Position
+（	O
+現	O
+）	O
+
+株式会社建設技術研究所	B-CompanyName
+株式会社建設技術研究所	B-CompanyName
+東京	B-Position
+支社	I-Position
+河川	I-Position
+本部長	I-Position
+
+新田ゼラチン株式会社	B-CompanyName
+新田ゼラチン株式会社	B-CompanyName
+出向	B-Transfer
+新田ゼラチン株式会社	B-CompanyName
+出向	B-Transfer
+ 営業	O
+本部	I-Position
+営業部	I-Position
+マネージャー	I-Position
+
+北越工業株式会社	B-CompanyName
+北越工業株式会社	B-CompanyName
+執行役員	B-Position
+大阪	I-Position
+営業	I-Position
+部長	I-Position
+
+上席	B-Position
+執行役員	I-Position
+就任	I-Position
+管理	I-Position
+本部長	I-Position
+(	O
+現任	O
+)	O
+
+GMOインターネット株式会社	B-CompanyName
+GMOインターネット株式会社	B-CompanyName
+ 専務取締役	O
+GMOインターネット株式会社	B-CompanyName
+ 専務取締役	O
+ グループ	O
+システム	I-CompanyName
+部門	I-CompanyName
+統括	I-CompanyName
+GMOインターネット株式会社	B-CompanyName
+ 専務取締役	O
+ グループ	O
+システム	I-CompanyName
+部門	I-CompanyName
+統括	I-CompanyName
+兼	O
+システム	B-Position
+本部長	I-Position
+ （	O
+現任	O
+）	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+執行役員	B-Position
+事務	I-Position
+同社	B-CompanyName
+執行役員	B-Position
+事務	I-Position
+・	O
+システム	B-Position
+統括	I-Position
+部門	I-Position
+契約	I-Position
+事務	I-Position
+専管	I-Position
+部門	I-Position
+長	I-Position
+
+同	B-CompanyName
+同	B-CompanyName
+　	O
+執行役員	B-Position
+
+日本高周波鋼業株式会社	B-CompanyName
+日本高周波鋼業株式会社	B-CompanyName
+営業	B-Position
+本部	I-Position
+工具鋼	I-Position
+営業	I-Position
+部長	I-Position
+
+アイエヌジー生命保険	O
+㈱	O
+（	O
+現	O
+エヌエヌ生命保険	B-CompanyName
+㈱	I-CompanyName
+アイエヌジー生命保険	O
+㈱	O
+（	O
+現	O
+エヌエヌ生命保険	B-CompanyName
+㈱	I-CompanyName
+）	O
+ 入社	O
+
+監査法人トーマツ	O
+（	O
+現	O
+有限責任監査法人トーマツ	B-CompanyName
+監査法人トーマツ	O
+（	O
+現	O
+有限責任監査法人トーマツ	B-CompanyName
+）	O
+入所	B-Start
+
+郵便局	O
+㈱	O
+（	O
+現	O
+日本郵便	B-CompanyName
+㈱	I-CompanyName
+郵便局	O
+㈱	O
+（	O
+現	O
+日本郵便	B-CompanyName
+㈱	I-CompanyName
+）	O
+専務執行役員	B-Position
+郵便局	O
+㈱	O
+（	O
+現	O
+日本郵便	B-CompanyName
+㈱	I-CompanyName
+）	O
+専務執行役員	B-Position
+就任	B-Start
+郵便局	O
+㈱	O
+（	O
+現	O
+日本郵便	B-CompanyName
+㈱	I-CompanyName
+）	O
+専務執行役員	B-Position
+就任	B-Start
+CIO	B-Position
+
+株式会社プロトコーポレーション	B-CompanyName
+株式会社プロトコーポレーション	B-CompanyName
+入社	B-Start
+
+日本生命保険相互会社	B-CompanyName
+日本生命保険相互会社	B-CompanyName
+社外監査役	B-Position
+(	O
+現	O
+)	O
+
+ザクソン	B-CompanyName
+グループ	I-CompanyName
+ザクソン	B-CompanyName
+グループ	I-CompanyName
+入社	B-Start
+
+協立電機株式会社	B-CompanyName
+協立電機株式会社	B-CompanyName
+営業	O
+本部長	O
+(	O
+現	O
+・	O
+国内	B-Position
+営業	I-Position
+本部長	I-Position
+協立電機株式会社	B-CompanyName
+営業	O
+本部長	O
+(	O
+現	O
+・	O
+国内	B-Position
+営業	I-Position
+本部長	I-Position
+)	O
+就任	B-Start
+(	O
+現在	O
+)	O
+
+執行役員	B-Position
+金融	I-Position
+法人	I-Position
+グループ	I-Position
+長	I-Position
+
+庄村	B-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+庄村	B-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+設立	B-Start
+庄村	B-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+設立	B-Start
+、	O
+所長	B-Position
+庄村	B-CompanyName
+公認会計士	I-CompanyName
+事務所	I-CompanyName
+設立	B-Start
+、	O
+所長	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+社長	B-Position
+補佐	I-Position
+（	I-Position
+生産技術	I-Position
+部	I-Position
+、	I-Position
+風力発電	I-Position
+事業	I-Position
+推進	I-Position
+室	I-Position
+、	I-Position
+機能性	I-Position
+材料	I-Position
+事業	I-Position
+推進	I-Position
+室	I-Position
+管掌	I-Position
+）	I-Position
+
+株式会社国際協力銀行	B-CompanyName
+株式会社国際協力銀行	B-CompanyName
+常務取締役	B-Position
+株式会社国際協力銀行	B-CompanyName
+常務取締役	B-Position
+（	O
+審査	B-Position
+・	I-Position
+リスク管理	I-Position
+担当	I-Position
+）	O
+
+株式会社プラザクリエイト	B-CompanyName
+株式会社プラザクリエイト	B-CompanyName
+本社	B-Position
+人事	I-Position
+労務	I-Position
+部長	I-Position
+株式会社プラザクリエイト	B-CompanyName
+本社	B-Position
+人事	I-Position
+労務	I-Position
+部長	I-Position
+　	O
+兼	O
+　	O
+店舗開発	B-Position
+部長	I-Position
+
+取締役	B-Position
+
+人事	B-Position
+労政	I-Position
+部長	I-Position
+
+アグロ	B-CompanyName
+　	I-CompanyName
+カネ	I-CompanyName
+ショウ	I-CompanyName
+株式会社	I-CompanyName
+アグロ	B-CompanyName
+　	I-CompanyName
+カネ	I-CompanyName
+ショウ	I-CompanyName
+株式会社	I-CompanyName
+専務取締役	B-Position
+アグロ	B-CompanyName
+　	I-CompanyName
+カネ	I-CompanyName
+ショウ	I-CompanyName
+株式会社	I-CompanyName
+専務取締役	B-Position
+就任	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+上席	B-Position
+執行役員	I-Position
+年金	I-Position
+コンサルティング	I-Position
+部長	I-Position
+
+横浜	B-Position
+営業所	I-Position
+長	I-Position
+
+株式会社全国ビジネスパートナー	B-CompanyName
+株式会社全国ビジネスパートナー	B-CompanyName
+代表取締役社長	B-Position
+（	O
+現任	O
+）	O
+
+富士変速機株式会社	B-CompanyName
+富士変速機株式会社	B-CompanyName
+パーキング	B-Position
+事業部	I-Position
+営業部	I-Position
+本社	I-Position
+営業	I-Position
+課長	I-Position
+
+株式会社ラック	B-CompanyName
+株式会社ラック	B-CompanyName
+　	O
+社外取締役	B-Position
+（	O
+現任	O
+）	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+執行役	B-Position
+同社	B-CompanyName
+執行役	B-Position
+　	O
+ＣＴＯ	B-Position
+
+インキュベイトファンド	B-CompanyName
+１	I-CompanyName
+号	I-CompanyName
+投資事業有限責任組合	I-CompanyName
+インキュベイトファンド	B-CompanyName
+１	I-CompanyName
+号	I-CompanyName
+投資事業有限責任組合	I-CompanyName
+設立	B-Start
+インキュベイトファンド	B-CompanyName
+１	I-CompanyName
+号	I-CompanyName
+投資事業有限責任組合	I-CompanyName
+設立	B-Start
+　	O
+無限責任組合員	B-Position
+（	O
+現任	O
+）	O
+
+南九州	B-CompanyName
+トーヨータイヤ	I-CompanyName
+㈱	I-CompanyName
+南九州	B-CompanyName
+トーヨータイヤ	I-CompanyName
+㈱	I-CompanyName
+　	O
+取締役	B-Position
+副社長	I-Position
+
+さくらインターネット株式会社	B-CompanyName
+さくらインターネット株式会社	B-CompanyName
+新規	B-Position
+事業	I-Position
+室	I-Position
+室長	I-Position
+
+Oncolys	B-CompanyName
+ USA	I-CompanyName
+ Inc	I-CompanyName
+.	I-CompanyName
+ CEO	I-CompanyName
+Oncolys	B-CompanyName
+ USA	I-CompanyName
+ Inc	I-CompanyName
+.	I-CompanyName
+ CEO	I-CompanyName
+　	O
+兼	O
+　	O
+取締役会	B-Position
+議長	I-Position
+Oncolys	B-CompanyName
+ USA	I-CompanyName
+ Inc	I-CompanyName
+.	I-CompanyName
+ CEO	I-CompanyName
+　	O
+兼	O
+　	O
+取締役会	B-Position
+議長	I-Position
+就任	B-Start
+(	O
+現任	O
+)	O
+
+同	B-CompanyName
+同	B-CompanyName
+ 執行役員	O
+同	B-CompanyName
+ 執行役員	O
+　	O
+東京	B-Position
+支社長	I-Position
+
+明治生命保険	B-CompanyName
+相互会社	I-CompanyName
+明治生命保険	B-CompanyName
+相互会社	I-CompanyName
+入社	B-Start
+
+アジア	B-Position
+・	I-Position
+大洋州	I-Position
+事業	I-Position
+担当	I-Position
+(	O
+現	O
+)	O
+
+横浜	B-CompanyName
+バイオテクノロジー	I-CompanyName
+株式会社	I-CompanyName
+横浜	B-CompanyName
+バイオテクノロジー	I-CompanyName
+株式会社	I-CompanyName
+　	O
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+㈱	B-CompanyName
+ホットリンク	I-CompanyName
+㈱	B-CompanyName
+ホットリンク	I-CompanyName
+社外取締役	B-Position
+
+パナソニック株式会社	B-CompanyName
+パナソニック株式会社	B-CompanyName
+　	O
+AP	B-CompanyName
+社	I-CompanyName
+パナソニック株式会社	B-CompanyName
+　	O
+AP	B-CompanyName
+社	I-CompanyName
+　	O
+経理	B-Position
+Gr	I-Position
+事業	I-Position
+統括	I-Position
+部	I-Position
+・	I-Position
+参事	I-Position
+パナソニック株式会社	B-CompanyName
+　	O
+AP	B-CompanyName
+社	I-CompanyName
+　	O
+経理	B-Position
+Gr	I-Position
+事業	I-Position
+統括	I-Position
+部	I-Position
+・	I-Position
+参事	I-Position
+　	O
+出向	B-Transfer
+
+株式会社カネカ	B-CompanyName
+株式会社カネカ	B-CompanyName
+入社	B-Start
+
+ビーウィズ株式会社	B-CompanyName
+ビーウィズ株式会社	B-CompanyName
+社外取締役	B-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+（	O
+現任	O
+）	O
+
+株式会社ＡＯＫＩホールディングス	B-CompanyName
+株式会社ＡＯＫＩホールディングス	B-CompanyName
+監査役	B-Position
+(	O
+現任	O
+)	O
+
+グリーンランドリゾート株式会社	B-CompanyName
+グリーンランドリゾート株式会社	B-CompanyName
+常務取締役	B-Position
+遊園地	I-Position
+事業	I-Position
+部長	I-Position
+
+株式会社	B-CompanyName
+旅	I-CompanyName
+キャピタル	I-CompanyName
+（	O
+現	O
+株式	O
+会	O
+
+ソニー株式会社	B-CompanyName
+ソニー株式会社	B-CompanyName
+ 入社	O
+
+エゴンゼンダー	B-CompanyName
+㈱	I-CompanyName
+エゴンゼンダー	B-CompanyName
+㈱	I-CompanyName
+入社	B-Start
+
+ヴィリアネットジャパン	B-CompanyName
+㈱	I-CompanyName
+ヴィリアネットジャパン	B-CompanyName
+㈱	I-CompanyName
+代表取締役社長	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+ 退任	O
+
+株式会社	B-CompanyName
+クローバー	I-CompanyName
+ホーム	I-CompanyName
+株式会社	B-CompanyName
+クローバー	I-CompanyName
+ホーム	I-CompanyName
+代表取締役社長	B-Position
+
+㈱	B-CompanyName
+インプレスホールディングス	I-CompanyName
+㈱	B-CompanyName
+インプレスホールディングス	I-CompanyName
+　	O
+相談役	B-Position
+
+ステラケミファ株式会社	B-CompanyName
+ステラケミファ株式会社	B-CompanyName
+社外取締役	B-Position
+(	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+)	I-Position
+ (	O
+現任	O
+)	O
+
+執行役員	B-Position
+執行役員	B-Position
+・	O
+人事	B-Position
+総務部	I-Position
+副部長	I-Position
+
+営業	B-Position
+統括	I-Position
+営業	B-Position
+統括	I-Position
+兼	O
+人事	B-Position
+労務	I-Position
+担当	I-Position
+営業	B-Position
+統括	I-Position
+兼	O
+人事	B-Position
+労務	I-Position
+担当	I-Position
+兼	O
+人財	B-Position
+開発	I-Position
+部長	I-Position
+
+株式会社ファインデックス	B-CompanyName
+株式会社ファインデックス	B-CompanyName
+監査役	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+
+㈱	B-CompanyName
+三菱	I-CompanyName
+ＵＦＪ	I-CompanyName
+フィナンシャル	I-CompanyName
+・	I-CompanyName
+グループ	I-CompanyName
+㈱	B-CompanyName
+三菱	I-CompanyName
+ＵＦＪ	I-CompanyName
+フィナンシャル	I-CompanyName
+・	I-CompanyName
+グループ	I-CompanyName
+取締役	B-Position
+副社長	I-Position
+㈱	B-CompanyName
+三菱	I-CompanyName
+ＵＦＪ	I-CompanyName
+フィナンシャル	I-CompanyName
+・	I-CompanyName
+グループ	I-CompanyName
+取締役	B-Position
+副社長	I-Position
+就任	B-Start
+
+㈱	B-CompanyName
+日本興業銀行	I-CompanyName
+㈱	B-CompanyName
+日本興業銀行	I-CompanyName
+入行	B-Start
+
+同	B-CompanyName
+同	B-CompanyName
+専務取締役	B-Position
+同	B-CompanyName
+専務取締役	B-Position
+中央発條株式会社	B-CompanyName
+同	B-CompanyName
+専務取締役	B-Position
+中央発條株式会社	B-CompanyName
+社外監査役	B-Position
+
+株式会社ＫＳＫ	B-CompanyName
+株式会社ＫＳＫ	B-CompanyName
+入社	B-Start
+株式会社ＫＳＫ	B-CompanyName
+入社	B-Start
+　	O
+Ｉ	B-Position
+Ｔ	I-Position
+ソリューション	I-Position
+事業部	I-Position
+ゼネラルマネージャー	I-Position
+
+公益財団法人	B-CompanyName
+新潟県	I-CompanyName
+下水道	I-CompanyName
+公社	I-CompanyName
+公益財団法人	B-CompanyName
+新潟県	I-CompanyName
+下水道	I-CompanyName
+公社	I-CompanyName
+ 理事長	O
+
+株式会社	B-CompanyName
+ＳＮ	I-CompanyName
+システムズ	I-CompanyName
+株式会社	B-CompanyName
+ＳＮ	I-CompanyName
+システムズ	I-CompanyName
+代表取締役	B-Position
+株式会社	B-CompanyName
+ＳＮ	I-CompanyName
+システムズ	I-CompanyName
+代表取締役	B-Position
+就任	B-Start
+
+一般社団法人	B-CompanyName
+日本	I-CompanyName
+営業	I-CompanyName
+科学	I-CompanyName
+協会	I-CompanyName
+一般社団法人	B-CompanyName
+日本	I-CompanyName
+営業	I-CompanyName
+科学	I-CompanyName
+協会	I-CompanyName
+代表理事	B-Position
+（	O
+現任	O
+）	O
+
+一般社団法人	B-CompanyName
+東大	I-CompanyName
+ウォリアーズ	I-CompanyName
+クラブ	I-CompanyName
+一般社団法人	B-CompanyName
+東大	I-CompanyName
+ウォリアーズ	I-CompanyName
+クラブ	I-CompanyName
+名誉理事	B-Position
+（	O
+現任	O
+）	O
+
+株式会社みずほ銀行	B-CompanyName
+株式会社みずほ銀行	B-CompanyName
+常務執行役員	B-Position
+
+株式会社日本取引所グループ	B-CompanyName
+株式会社日本取引所グループ	B-CompanyName
+常務執行役	B-Position
+株式会社日本取引所グループ	B-CompanyName
+常務執行役	B-Position
+　	O
+株式会社	B-CompanyName
+大阪証券取引所	I-CompanyName
+株式会社日本取引所グループ	B-CompanyName
+常務執行役	B-Position
+　	O
+株式会社	B-CompanyName
+大阪証券取引所	I-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+
+㈱	B-CompanyName
+船井総合研究所	I-CompanyName
+㈱	B-CompanyName
+船井総合研究所	I-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+鋳造	B-Position
+生	I-Position
+技	I-Position
+部	I-Position
+部長	I-Position
+
+三菱鉛筆株式会社	B-CompanyName
+三菱鉛筆株式会社	B-CompanyName
+常務取締役	B-Position
+三菱鉛筆株式会社	B-CompanyName
+常務取締役	B-Position
+ コンプライアンス	O
+担当	I-Position
+三菱鉛筆株式会社	B-CompanyName
+常務取締役	B-Position
+ コンプライアンス	O
+担当	I-Position
+兼	O
+年金	B-Position
+担当	I-Position
+
+取締役	B-Position
+大阪	I-Position
+支店長	I-Position
+・	I-Position
+中国	I-Position
+支援	I-Position
+担当	I-Position
+
+あさひ法律事務所	O
+（	O
+現	O
+：	O
+西村あさひ法律事務所	B-CompanyName
+あさひ法律事務所	O
+（	O
+現	O
+：	O
+西村あさひ法律事務所	B-CompanyName
+）	O
+パートナー	B-Position
+
+小平市役所	B-CompanyName
+小平市役所	B-CompanyName
+退所	B-End
+
+弁護士	B-Position
+弁護士	B-Position
+登録	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+業務	B-Position
+部長	I-Position
+
+堺化学工業株式会社	B-CompanyName
+堺化学工業株式会社	B-CompanyName
+顧問	B-Position
+
+株式会社ステップ	B-CompanyName
+株式会社ステップ	B-CompanyName
+取締役	B-Position
+株式会社ステップ	B-CompanyName
+取締役	B-Position
+退任	B-End
+
+同社	B-CompanyName
+同社	B-CompanyName
+和歌山	B-Position
+工場長	I-Position
+
+株式会社	B-CompanyName
+モブキャストホールディングス	I-CompanyName
+株式会社	B-CompanyName
+モブキャストホールディングス	I-CompanyName
+ 監査役	O
+(	O
+現任	O
+)	O
+
+金融審議会	B-CompanyName
+金融審議会	B-CompanyName
+会長	B-Position
+
+サントリー食品インターナショナル株式会社	B-CompanyName
+サントリー食品インターナショナル株式会社	B-CompanyName
+代表取締役社長	B-Position
+（	O
+現任	O
+）	O
+
+㈱	O
+住友銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+三井住友銀行	I-CompanyName
+㈱	O
+住友銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+三井住友銀行	I-CompanyName
+）	O
+入行	B-Start
+
+高周波熱錬株式会社	B-CompanyName
+高周波熱錬株式会社	B-CompanyName
+入社	B-Start
+
+金沢機工株式会社	B-CompanyName
+金沢機工株式会社	B-CompanyName
+ 社外取締役	O
+（	O
+現任	O
+）	O
+
+昭和電線ホールディングス株式会社	B-CompanyName
+昭和電線ホールディングス株式会社	B-CompanyName
+代表取締役社長	B-Position
+昭和電線ホールディングス株式会社	B-CompanyName
+代表取締役社長	B-Position
+、	O
+取締役会	B-Position
+議長	I-Position
+昭和電線ホールディングス株式会社	B-CompanyName
+代表取締役社長	B-Position
+、	O
+取締役会	B-Position
+議長	I-Position
+、	O
+ グループ	O
+CEO	I-Position
+（	O
+現任	O
+）	O
+
+執行役員	B-Position
+大阪	I-Position
+営業	I-Position
+本部長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+基礎	B-Position
+化学	I-Position
+品	I-Position
+事業部門	I-Position
+事業	I-Position
+管理部	I-Position
+主席	I-Position
+
+デルタ	B-CompanyName
+㈱	I-CompanyName
+デルタ	B-CompanyName
+㈱	I-CompanyName
+設立	B-Start
+デルタ	B-CompanyName
+㈱	I-CompanyName
+設立	B-Start
+　	O
+代表取締役	B-Position
+デルタ	B-CompanyName
+㈱	I-CompanyName
+設立	B-Start
+　	O
+代表取締役	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+エヌ・イーケムキャット	B-CompanyName
+㈱	I-CompanyName
+エヌ・イーケムキャット	B-CompanyName
+㈱	I-CompanyName
+ 代表取締役社長	O
+
+株式会社	B-CompanyName
+イリス	I-CompanyName
+株式会社	B-CompanyName
+イリス	I-CompanyName
+代表取締役社長	B-Position
+株式会社	B-CompanyName
+イリス	I-CompanyName
+代表取締役社長	B-Position
+就任	B-Start
+
+㈱	O
+メリーサイト	O
+（	O
+現	O
+　	O
+ＳＨＯ	B-CompanyName
+－	I-CompanyName
+ＢＩ	I-CompanyName
+　	I-CompanyName
+Ｌａｂｏ	I-CompanyName
+㈱	I-CompanyName
+㈱	O
+メリーサイト	O
+（	O
+現	O
+　	O
+ＳＨＯ	B-CompanyName
+－	I-CompanyName
+ＢＩ	I-CompanyName
+　	I-CompanyName
+Ｌａｂｏ	I-CompanyName
+㈱	I-CompanyName
+）	O
+代表取締役社長	B-Position
+㈱	O
+メリーサイト	O
+（	O
+現	O
+　	O
+ＳＨＯ	B-CompanyName
+－	I-CompanyName
+ＢＩ	I-CompanyName
+　	I-CompanyName
+Ｌａｂｏ	I-CompanyName
+㈱	I-CompanyName
+）	O
+代表取締役社長	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+"	O
+China	B-CompanyName
+ International	I-CompanyName
+ Capital	I-CompanyName
+ Co	I-CompanyName
+.,	I-CompanyName
+ Limited	I-CompanyName
+"	O
+
+日本興業株式会社	B-CompanyName
+日本興業株式会社	B-CompanyName
+土木	B-Position
+・	I-Position
+景観	I-Position
+資材	I-Position
+事業	I-Position
+本部長	I-Position
+日本興業株式会社	B-CompanyName
+土木	B-Position
+・	I-Position
+景観	I-Position
+資材	I-Position
+事業	I-Position
+本部長	I-Position
+兼	O
+土木	B-Position
+資材	I-Position
+事業部	I-Position
+　	I-Position
+事業	I-Position
+部長	I-Position
+
+役員	B-Position
+秘書室長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役	B-Position
+専務執行役員	I-Position
+
+弁護士	B-CompanyName
+弁護士	B-CompanyName
+登録	B-Start
+
+社長	B-Position
+付	I-Position
+
+株式会社モリタホールディングス	B-CompanyName
+株式会社モリタホールディングス	B-CompanyName
+グループ	B-Position
+コーポレート	I-Position
+本部長	I-Position
+
+ユナイテッド・アーバン投資法人	B-CompanyName
+ユナイテッド・アーバン投資法人	B-CompanyName
+　	O
+監督	B-Position
+役員	I-Position
+（	O
+現	O
+）	O
+
+ミサワホーム株式会社	B-CompanyName
+ミサワホーム株式会社	B-CompanyName
+執行役員	B-Position
+
+清水	B-CompanyName
+直	I-CompanyName
+法律事務所	I-CompanyName
+清水	B-CompanyName
+直	I-CompanyName
+法律事務所	I-CompanyName
+入所	B-Start
+
+オリエンタル白石株式会社	B-CompanyName
+オリエンタル白石株式会社	B-CompanyName
+施工	B-Position
+・	I-Position
+技術	I-Position
+本部	I-Position
+工事	I-Position
+部長	I-Position
+
+ユニチカ	O
+テキスタイル	O
+株式会社	O
+（	O
+現	O
+ユニチカトレーディング株式会社	B-CompanyName
+ユニチカ	O
+テキスタイル	O
+株式会社	O
+（	O
+現	O
+ユニチカトレーディング株式会社	B-CompanyName
+）	O
+分社	O
+により	O
+転籍	B-Transfer
+
+東京地方裁判所	B-CompanyName
+東京地方裁判所	B-CompanyName
+　	O
+判事補	B-Position
+
+ＶＡＬＵＥＮＥＸ	B-CompanyName
+株式会社	I-CompanyName
+ＶＡＬＵＥＮＥＸ	B-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+ＶＡＬＵＥＮＥＸ	B-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+   コーポレート	O
+本部長	I-Position
+ＶＡＬＵＥＮＥＸ	B-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+   コーポレート	O
+本部長	I-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+株式会社アクセス	O
+通信	O
+（	O
+現	O
+株式会社アクセスプログレス	B-CompanyName
+株式会社アクセス	O
+通信	O
+（	O
+現	O
+株式会社アクセスプログレス	B-CompanyName
+）	O
+監査役	B-Position
+株式会社アクセス	O
+通信	O
+（	O
+現	O
+株式会社アクセスプログレス	B-CompanyName
+）	O
+監査役	B-Position
+就任	B-Start
+
+ＪＦＥコンテイナー株式会社	B-CompanyName
+ＪＦＥコンテイナー株式会社	B-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+日本プラスト株式会社	B-CompanyName
+日本プラスト株式会社	B-CompanyName
+執行役員	B-Position
+日本プラスト株式会社	B-CompanyName
+執行役員	B-Position
+　	O
+生産	B-Position
+本部長	I-Position
+日本プラスト株式会社	B-CompanyName
+執行役員	B-Position
+　	O
+生産	B-Position
+本部長	I-Position
+兼	O
+新機種	B-Position
+管理	I-Position
+部長	I-Position
+
+野村證券	B-CompanyName
+金融経済	I-CompanyName
+研究所	I-CompanyName
+野村證券	B-CompanyName
+金融経済	I-CompanyName
+研究所	I-CompanyName
+ 所長	O
+野村證券	B-CompanyName
+金融経済	I-CompanyName
+研究所	I-CompanyName
+ 所長	O
+就任	B-Start
+
+アオイ電子	B-CompanyName
+㈱	I-CompanyName
+アオイ電子	B-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+
+宏洋	B-CompanyName
+サンテック	I-CompanyName
+㈱	I-CompanyName
+宏洋	B-CompanyName
+サンテック	I-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+宏洋	B-CompanyName
+サンテック	I-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+就任	B-Start
+
+株式会社妙徳	B-CompanyName
+株式会社妙徳	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+開発	I-Position
+担当	I-Position
+株式会社妙徳	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+開発	I-Position
+担当	I-Position
+兼	O
+開発	B-Position
+部長	I-Position
+（	O
+現任	O
+）	O
+
+太田昭和	O
+監査法人	O
+（	O
+現	O
+ＥＹ	B-CompanyName
+新日	I-CompanyName
+ 本	I-CompanyName
+有限責任監査法人	I-CompanyName
+太田昭和	O
+監査法人	O
+（	O
+現	O
+ＥＹ	B-CompanyName
+新日	I-CompanyName
+ 本	I-CompanyName
+有限責任監査法人	I-CompanyName
+）	O
+入所	B-Start
+
+株式会社ソフト９９コーポレーション	B-CompanyName
+株式会社ソフト９９コーポレーション	B-CompanyName
+取締役	B-Position
+管理	I-Position
+本部長	I-Position
+ (	O
+現在	O
+に	O
+至る	O
+)	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+パーソナルコンピュータ	B-Position
+技術	I-Position
+統括	I-Position
+部長	I-Position
+
+J	B-CompanyName
+・	I-CompanyName
+ALPHA	I-CompanyName
+美容室	I-CompanyName
+J	B-CompanyName
+・	I-CompanyName
+ALPHA	I-CompanyName
+美容室	I-CompanyName
+入社	B-Start
+
+常務取締役	B-CompanyName
+常務取締役	B-CompanyName
+執行役員	B-Position
+営業	I-Position
+本部長	I-Position
+
+株式会社ツクイ	B-CompanyName
+ホールディングス	I-CompanyName
+株式会社ツクイ	B-CompanyName
+ホールディングス	I-CompanyName
+管理	B-Position
+推進	I-Position
+副	I-Position
+本部長	I-Position
+株式会社ツクイ	B-CompanyName
+ホールディングス	I-CompanyName
+管理	B-Position
+推進	I-Position
+副	I-Position
+本部長	I-Position
+兼	O
+経営企画	B-Position
+部長	I-Position
+
+さくら情報システム株式会社	B-CompanyName
+さくら情報システム株式会社	B-CompanyName
+　	O
+社外監査役	B-Position
+
+オリエンタル	O
+コンクリート	O
+株式会社	O
+(	O
+現	O
+オリエンタル白石株式会社	B-CompanyName
+オリエンタル	O
+コンクリート	O
+株式会社	O
+(	O
+現	O
+オリエンタル白石株式会社	B-CompanyName
+)	O
+入社	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+常務執行役員	B-Position
+同社	B-CompanyName
+　	O
+常務執行役員	B-Position
+　	O
+電源	B-Position
+事業	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+
+監査法人トーマツ	O
+　	O
+パートナー	B-Position
+監査法人トーマツ	O
+　	O
+パートナー	B-Position
+ （	O
+現	O
+有限責任監査法人トーマツ	B-CompanyName
+）	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+ 編集担当	O
+取締役	I-Position
+
+株式会社なとり	B-CompanyName
+株式会社なとり	B-CompanyName
+社外取締役	B-Position
+(	O
+現任	O
+)	O
+
+株式会社タカギセイコー	B-CompanyName
+株式会社タカギセイコー	B-CompanyName
+　	O
+執行役員	B-Position
+株式会社タカギセイコー	B-CompanyName
+　	O
+執行役員	B-Position
+　	O
+製品	B-Position
+本部	I-Position
+海外	I-Position
+担当	I-Position
+（	I-Position
+上海	I-Position
+駐在	I-Position
+）	I-Position
+
+㈱	B-CompanyName
+グローバルキッズ	I-CompanyName
+㈱	B-CompanyName
+グローバルキッズ	I-CompanyName
+監査役	B-Position
+
+学校法人	B-CompanyName
+朝日	I-CompanyName
+学園	I-CompanyName
+学校法人	B-CompanyName
+朝日	I-CompanyName
+学園	I-CompanyName
+　	O
+明生	B-Position
+情報	I-Position
+ビジネス	I-Position
+専門学校	I-Position
+学校法人	B-CompanyName
+朝日	I-CompanyName
+学園	I-CompanyName
+　	O
+明生	B-Position
+情報	I-Position
+ビジネス	I-Position
+専門学校	I-Position
+　	O
+入	B-Start
+職	I-Start
+
+㈱	B-CompanyName
+エムズカンパニー	I-CompanyName
+㈱	B-CompanyName
+エムズカンパニー	I-CompanyName
+取締役	B-Position
+㈱	B-CompanyName
+エムズカンパニー	I-CompanyName
+取締役	B-Position
+就任	B-Start
+
+東邦生命保険	B-CompanyName
+相互会社	I-CompanyName
+東邦生命保険	B-CompanyName
+相互会社	I-CompanyName
+入社	B-Start
+
+ビーエム	B-CompanyName
+機器	I-CompanyName
+株式会社	I-CompanyName
+ビーエム	B-CompanyName
+機器	I-CompanyName
+株式会社	I-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+㈱	B-CompanyName
+ＴＯＳ	I-CompanyName
+・	I-CompanyName
+デバイス	I-CompanyName
+㈱	B-CompanyName
+ＴＯＳ	I-CompanyName
+・	I-CompanyName
+デバイス	I-CompanyName
+ 監査役	O
+
+取締役	B-Position
+経営管理	I-Position
+本部長	I-Position
+
+㈱	O
+エー・ディー・リモデリング	O
+（	O
+現	O
+ ㈱	O
+エー・ディー・パートナーズ	I-CompanyName
+㈱	O
+エー・ディー・リモデリング	O
+（	O
+現	O
+ ㈱	O
+エー・ディー・パートナーズ	I-CompanyName
+）	O
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+三井物産	B-CompanyName
+フランス	I-CompanyName
+㈱	I-CompanyName
+三井物産	B-CompanyName
+フランス	I-CompanyName
+㈱	I-CompanyName
+入社	B-Start
+
+三菱食品株式会社	B-CompanyName
+三菱食品株式会社	B-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+新日本有限責任監査法人	B-CompanyName
+新日本有限責任監査法人	B-CompanyName
+常務理事	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+ 取締役	O
+同社	B-CompanyName
+ 取締役	O
+ 副社長	O
+
+当行	B-CompanyName
+当行	B-CompanyName
+入行	B-Start
+
+ヤマウ	B-CompanyName
+ホールディングス	I-CompanyName
+株式会社	I-CompanyName
+ヤマウ	B-CompanyName
+ホールディングス	I-CompanyName
+株式会社	I-CompanyName
+　	O
+専務取締役	B-Position
+ヤマウ	B-CompanyName
+ホールディングス	I-CompanyName
+株式会社	I-CompanyName
+　	O
+専務取締役	B-Position
+兼	O
+営業	B-Position
+本部長	I-Position
+
+同	B-CompanyName
+同	B-CompanyName
+代表取締役社長	B-Position
+ＣＯＯ	I-Position
+（	O
+現任	O
+）	O
+
+ブルーホライゾン債権回収株式会社	B-CompanyName
+ブルーホライゾン債権回収株式会社	B-CompanyName
+　	O
+監査役	B-Position
+ブルーホライゾン債権回収株式会社	B-CompanyName
+　	O
+監査役	B-Position
+就任	B-Start
+(	O
+現任	O
+)	O
+
+監査法人トーマツ	O
+（	O
+現	O
+ 有限責任監査法人トーマツ	O
+監査法人トーマツ	O
+（	O
+現	O
+ 有限責任監査法人トーマツ	O
+）	O
+入所	B-Start
+
+常務取締役	B-Position
+製造	I-Position
+部	I-Position
+統轄	I-Position
+常務取締役	B-Position
+製造	I-Position
+部	I-Position
+統轄	I-Position
+兼	O
+高圧	B-Position
+機器	I-Position
+事業	I-Position
+部長	I-Position
+
+専務取締役	B-Position
+
+司法試験	B-Position
+司法試験	B-Position
+合格	B-Start
+（	O
+第	O
+51期	O
+）	O
+
+株式会社三機サービス	B-CompanyName
+株式会社三機サービス	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+常務取締役	B-Position
+管理	I-Position
+部長	I-Position
+
+みな	B-CompanyName
+と	I-CompanyName
+リース	I-CompanyName
+株式会社	I-CompanyName
+みな	B-CompanyName
+と	I-CompanyName
+リース	I-CompanyName
+株式会社	I-CompanyName
+ 審査	O
+部長	I-Position
+
+交通	B-Position
+事業部	I-Position
+業務	I-Position
+部長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役	B-Position
+
+株式会社ピーエス三菱	B-CompanyName
+株式会社ピーエス三菱	B-CompanyName
+社外取締役	B-Position
+（	O
+現	O
+）	O
+
+同	B-CompanyName
+同	B-CompanyName
+　	O
+取締役	B-Position
+同	B-CompanyName
+　	O
+取締役	B-Position
+　	O
+常務執行役員	B-Position
+カーボン	I-Position
+事業	I-Position
+部長	I-Position
+
+熊本国税局	B-CompanyName
+熊本国税局	B-CompanyName
+入局	B-Start
+
+同	B-CompanyName
+同	B-CompanyName
+　	O
+取締役	B-Position
+同	B-CompanyName
+　	O
+取締役	B-Position
+兼	O
+執行役員	B-Position
+業務	I-Position
+統括	I-Position
+本部	I-Position
+財務	I-Position
+部長	I-Position
+同	B-CompanyName
+　	O
+取締役	B-Position
+兼	O
+執行役員	B-Position
+業務	I-Position
+統括	I-Position
+本部	I-Position
+財務	I-Position
+部長	I-Position
+兼	O
+事務	B-Position
+サポート	I-Position
+部長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+代表取締役	B-Position
+副社長	I-Position
+
+モビーダエンターテインメント	B-CompanyName
+株式会社	I-CompanyName
+モビーダエンターテインメント	B-CompanyName
+株式会社	I-CompanyName
+ 入社	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+執行役員	B-Position
+同社	B-CompanyName
+　	O
+執行役員	B-Position
+　	O
+コマースカンパニー	B-Position
+O2O	I-Position
+統括	I-Position
+本部長	I-Position
+
+株式会社フォーシーズホールディングス	B-CompanyName
+株式会社フォーシーズホールディングス	B-CompanyName
+社外監査役	B-Position
+株式会社フォーシーズホールディングス	B-CompanyName
+社外監査役	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+ヤマエ久野株式会社	B-CompanyName
+ヤマエ久野株式会社	B-CompanyName
+情報システム	B-Position
+部長	I-Position
+ヤマエ久野株式会社	B-CompanyName
+情報システム	B-Position
+部長	I-Position
+、	O
+リテールサポート	B-Position
+推進	I-Position
+室長	I-Position
+
+株式会社エコス	B-Position
+財務	I-Position
+部長	I-Position
+
+株式会社ラックランド	B-CompanyName
+子会社	I-CompanyName
+株式会社ラックランド	B-CompanyName
+子会社	I-CompanyName
+　	O
+ニイクラ	B-CompanyName
+電工	I-CompanyName
+株式会社	I-CompanyName
+株式会社ラックランド	B-CompanyName
+子会社	I-CompanyName
+　	O
+ニイクラ	B-CompanyName
+電工	I-CompanyName
+株式会社	I-CompanyName
+　	O
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+東急不動産ホールディングス	B-CompanyName
+㈱	I-CompanyName
+東急不動産ホールディングス	B-CompanyName
+㈱	I-CompanyName
+取締役会長	B-Position
+東急不動産ホールディングス	B-CompanyName
+㈱	I-CompanyName
+取締役会長	B-Position
+(	O
+現	O
+)	O
+東急不動産	B-CompanyName
+㈱	I-CompanyName
+東急不動産ホールディングス	B-CompanyName
+㈱	I-CompanyName
+取締役会長	B-Position
+(	O
+現	O
+)	O
+東急不動産	B-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+(	O
+現	O
+)	O
+
+大阪瓦斯株式会社	B-CompanyName
+大阪瓦斯株式会社	B-CompanyName
+監査役	B-Position
+(	O
+現	O
+)	O
+
+㈱	O
+埼玉銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+埼玉りそな銀行	I-CompanyName
+㈱	O
+埼玉銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+埼玉りそな銀行	I-CompanyName
+）	O
+入行	B-Start
+
+広島ガス株式会社	B-CompanyName
+広島ガス株式会社	B-CompanyName
+入社	B-Start
+
+株式会社ツクイ	B-CompanyName
+ホールディングス	I-CompanyName
+株式会社ツクイ	B-CompanyName
+ホールディングス	I-CompanyName
+取締役	B-Position
+管理	I-Position
+推進	I-Position
+副	I-Position
+本部長	I-Position
+株式会社ツクイ	B-CompanyName
+ホールディングス	I-CompanyName
+取締役	B-Position
+管理	I-Position
+推進	I-Position
+副	I-Position
+本部長	I-Position
+兼	O
+教育	B-Position
+研修	I-Position
+推進	I-Position
+本部長	I-Position
+株式会社ツクイ	B-CompanyName
+ホールディングス	I-CompanyName
+取締役	B-Position
+管理	I-Position
+推進	I-Position
+副	I-Position
+本部長	I-Position
+兼	O
+教育	B-Position
+研修	I-Position
+推進	I-Position
+本部長	I-Position
+兼	O
+総務	B-Position
+部長	I-Position
+
+三和	O
+システム開発株式会社	O
+(	O
+現	O
+ 三菱UFJインフォメーションテクノロジー株式会社	O
+三和	O
+システム開発株式会社	O
+(	O
+現	O
+ 三菱UFJインフォメーションテクノロジー株式会社	O
+)	O
+ 入社	O
+
+ING	B-CompanyName
+ベアリング	I-CompanyName
+証券	I-CompanyName
+ING	B-CompanyName
+ベアリング	I-CompanyName
+証券	I-CompanyName
+M&A	B-Position
+部門	I-Position
+ヘッド	I-Position
+
+㈱	B-CompanyName
+システムソフト	I-CompanyName
+㈱	B-CompanyName
+システムソフト	I-CompanyName
+ 常務取締役	O
+
+㈱	B-CompanyName
+ユアテック	I-CompanyName
+㈱	B-CompanyName
+ユアテック	I-CompanyName
+社名変更	B-Transfer
+
+トヨタ自動車	O
+工業	O
+株式会社	O
+(	O
+現	O
+トヨタ自動車株式会社	B-CompanyName
+トヨタ自動車	O
+工業	O
+株式会社	O
+(	O
+現	O
+トヨタ自動車株式会社	B-CompanyName
+)	O
+入社	B-Start
+
+日本テレビホールディングス株式会社	B-CompanyName
+日本テレビホールディングス株式会社	B-CompanyName
+監査役	B-Position
+(	O
+現	O
+)	O
+
+取締役	B-Position
+管理	I-Position
+統括	I-Position
+本部長	I-Position
+
+京三	B-CompanyName
+システム	I-CompanyName
+㈱	I-CompanyName
+京三	B-CompanyName
+システム	I-CompanyName
+㈱	I-CompanyName
+代表取締役社長	B-Position
+（	O
+現任	O
+）	O
+
+京都	B-CompanyName
+魚市場	I-CompanyName
+株式会社	I-CompanyName
+京都	B-CompanyName
+魚市場	I-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+
+株式会社三東工業社	B-CompanyName
+株式会社三東工業社	B-CompanyName
+社外取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+（	O
+現任	O
+）	O
+
+㈱	O
+三和銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+三菱	I-CompanyName
+ＵＦＪ	I-CompanyName
+銀行	I-CompanyName
+㈱	O
+三和銀行	O
+（	O
+現	O
+㈱	B-CompanyName
+三菱	I-CompanyName
+ＵＦＪ	I-CompanyName
+銀行	I-CompanyName
+）	O
+入行	B-Start
+
+金下建設株式会社	B-CompanyName
+金下建設株式会社	B-CompanyName
+執行役員	B-Position
+経営企画	I-Position
+部長	I-Position
+金下建設株式会社	B-CompanyName
+執行役員	B-Position
+経営企画	I-Position
+部長	I-Position
+兼	O
+安全	B-Position
+環境	I-Position
+部長	I-Position
+金下建設株式会社	B-CompanyName
+執行役員	B-Position
+経営企画	I-Position
+部長	I-Position
+兼	O
+安全	B-Position
+環境	I-Position
+部長	I-Position
+兼	O
+品質管理	B-Position
+部長	I-Position
+
+"	O
+SHINPO	B-CompanyName
+ AMERICA	I-CompanyName
+,	I-CompanyName
+INC	I-CompanyName
+.	I-CompanyName
+"	O
+SHINPO	B-CompanyName
+ AMERICA	I-CompanyName
+,	I-CompanyName
+INC	I-CompanyName
+.	I-CompanyName
+ CEO	O
+"	O
+SHINPO	B-CompanyName
+ AMERICA	I-CompanyName
+,	I-CompanyName
+INC	I-CompanyName
+.	I-CompanyName
+ CEO	O
+に	O
+就任	B-Start
+(	O
+現任	O
+)"	O
+
+医薬	B-Position
+開発	I-Position
+本部長	I-Position
+
+株式会社安永	B-CompanyName
+取締役	I-CompanyName
+株式会社安永	B-CompanyName
+取締役	I-CompanyName
+（	O
+監査	B-Position
+等	I-Position
+委員	I-Position
+）	O
+（	O
+現任	O
+）	O
+
+ベアリング	O
+投信	O
+投資顧問	O
+㈱	O
+（	O
+現	O
+ベア	B-CompanyName
+リングス・ジャパン	I-CompanyName
+㈱	I-CompanyName
+ベアリング	O
+投信	O
+投資顧問	O
+㈱	O
+（	O
+現	O
+ベア	B-CompanyName
+リングス・ジャパン	I-CompanyName
+㈱	I-CompanyName
+）	O
+社外監査役	B-Position
+
+同行	B-CompanyName
+同行	B-CompanyName
+新宿	B-Position
+中央	I-Position
+支店長	I-Position
+
+ＫＤＤＩ	B-CompanyName
+㈱	I-CompanyName
+ＫＤＤＩ	B-CompanyName
+㈱	I-CompanyName
+コンシューマ	B-Position
+事業	I-Position
+本部	I-Position
+コンシューマ	I-Position
+事業	I-Position
+企画	I-Position
+本部	I-Position
+コンシューマ	I-Position
+マーケティング	I-Position
+２	I-Position
+部長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+リスク管理	B-Position
+部	I-Position
+同社	B-CompanyName
+リスク管理	B-Position
+部	I-Position
+兼	O
+人事部	B-Position
+副部長	I-Position
+
+経営企画	B-Position
+室長	I-Position
+
+株式会社	B-CompanyName
+フードビジネス	I-CompanyName
+キャスティング	I-CompanyName
+株式会社	B-CompanyName
+フードビジネス	I-CompanyName
+キャスティング	I-CompanyName
+　	O
+取締役	B-Position
+
+管理	B-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+
+栄光	B-CompanyName
+綜合	I-CompanyName
+法律事務所	I-CompanyName
+栄光	B-CompanyName
+綜合	I-CompanyName
+法律事務所	I-CompanyName
+入所	B-Start
+
+株式会社丹青社	B-CompanyName
+株式会社丹青社	B-CompanyName
+業務	B-Position
+改革	I-Position
+推進	I-Position
+室長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+代表取締役社長	B-Position
+
+ネクストウェア株式会社	B-CompanyName
+ネクストウェア株式会社	B-CompanyName
+入社	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+代表取締役	B-Position
+同社	B-CompanyName
+代表取締役	B-Position
+退任	B-End
+
+株式会社ピエトロ	B-CompanyName
+株式会社ピエトロ	B-CompanyName
+専務取締役	B-Position
+
+堅田	B-Position
+支	I-Position
+店長	I-Position
+
+超音波	B-Position
+センサ	I-Position
+事業部	I-Position
+改善	I-Position
+推進	I-Position
+部長	I-Position
+
+株式会社壱番屋	B-CompanyName
+株式会社壱番屋	B-CompanyName
+取締役	B-Position
+店舗運営	I-Position
+本部長	I-Position
+
+㈱	B-CompanyName
+銀座	I-CompanyName
+仁志	I-CompanyName
+川	I-CompanyName
+㈱	B-CompanyName
+銀座	I-CompanyName
+仁志	I-CompanyName
+川	I-CompanyName
+代表取締役会長	B-Position
+㈱	B-CompanyName
+銀座	I-CompanyName
+仁志	I-CompanyName
+川	I-CompanyName
+代表取締役会長	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+田辺三菱製薬	B-CompanyName
+㈱	I-CompanyName
+田辺三菱製薬	B-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+田辺三菱製薬	B-CompanyName
+㈱	I-CompanyName
+取締役	B-Position
+、	O
+副社長	B-Position
+執行役員	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+シンジケーション	B-Position
+部長	I-Position
+
+タツタ電線株式会社	B-CompanyName
+タツタ電線株式会社	B-CompanyName
+ システム	O
+・	I-Position
+エレクトロニクス	I-Position
+事業	I-Position
+本部	I-Position
+機能性	I-Position
+材料	I-Position
+事業	I-Position
+部長	I-Position
+(	O
+現任	O
+)	O
+
+株式会社きんでん	B-CompanyName
+株式会社きんでん	B-CompanyName
+代表取締役社長	B-Position
+（	O
+現	O
+）	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+取締役	B-Position
+
+取締役	B-Position
+副社長	I-Position
+
+株式会社ナカボーテック	B-CompanyName
+株式会社ナカボーテック	B-CompanyName
+常勤	B-Position
+監査役	I-Position
+(	O
+現任	O
+)	O
+
+執行役員	B-Position
+常務	I-Position
+
+野村證券株式会社	B-CompanyName
+野村證券株式会社	B-CompanyName
+顧問	B-Position
+
+株式会社ＭＩＥコーポレーション	B-CompanyName
+株式会社ＭＩＥコーポレーション	B-CompanyName
+入社	B-Position
+管理	I-Position
+本部	I-Position
+顧問	I-Position
+
+鹿島建設株式会社	B-CompanyName
+鹿島建設株式会社	B-CompanyName
+専務執行役員	B-Position
+鹿島建設株式会社	B-CompanyName
+専務執行役員	B-Position
+(	O
+現任	O
+)、	O
+総務	B-Position
+管理	I-Position
+本部長	I-Position
+鹿島建設株式会社	B-CompanyName
+専務執行役員	B-Position
+(	O
+現任	O
+)、	O
+総務	B-Position
+管理	I-Position
+本部長	I-Position
+(	O
+現任	O
+)、	O
+安全	B-Position
+環境部	I-Position
+管掌	I-Position
+(	O
+現任	O
+)	O
+
+第一	B-Position
+労務管理	I-Position
+事務所	I-Position
+第一	B-Position
+労務管理	I-Position
+事務所	I-Position
+入所	B-Start
+
+株式会社	B-CompanyName
+タカトリ	I-CompanyName
+株式会社	B-CompanyName
+タカトリ	I-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+吉	B-CompanyName
+姿	I-CompanyName
+商	I-CompanyName
+貿	I-CompanyName
+（	I-CompanyName
+瀋陽	I-CompanyName
+）	I-CompanyName
+有限公司	I-CompanyName
+吉	B-CompanyName
+姿	I-CompanyName
+商	I-CompanyName
+貿	I-CompanyName
+（	I-CompanyName
+瀋陽	I-CompanyName
+）	I-CompanyName
+有限公司	I-CompanyName
+ 董事長	O
+（	O
+現任	O
+）	O
+
+シチズン時計	B-CompanyName
+㈱	I-CompanyName
+シチズン時計	B-CompanyName
+㈱	I-CompanyName
+執行役員	B-Position
+
+株式会社やまびこ	B-CompanyName
+株式会社やまびこ	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+農	I-Position
+機	I-Position
+事業	I-Position
+担当	I-Position
+株式会社やまびこ	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+農	I-Position
+機	I-Position
+事業	I-Position
+担当	I-Position
+兼	O
+営業	B-Position
+本部長	I-Position
+株式会社やまびこ	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+農	I-Position
+機	I-Position
+事業	I-Position
+担当	I-Position
+兼	O
+営業	B-Position
+本部長	I-Position
+兼	O
+やまびこ	B-CompanyName
+ジャパン	I-CompanyName
+㈱	I-CompanyName
+株式会社やまびこ	B-CompanyName
+取締役	B-Position
+常務執行役員	I-Position
+農	I-Position
+機	I-Position
+事業	I-Position
+担当	I-Position
+兼	O
+営業	B-Position
+本部長	I-Position
+兼	O
+やまびこ	B-CompanyName
+ジャパン	I-CompanyName
+㈱	I-CompanyName
+代表取締役社長	B-Position
+
+株式会社歌舞伎座	B-CompanyName
+株式会社歌舞伎座	B-CompanyName
+代表取締役社長	B-Position
+(	O
+現任	O
+)	O
+
+株式会社三井	O
+銀行	O
+（	O
+現	O
+ 株式会社三井住友銀行	O
+株式会社三井	O
+銀行	O
+（	O
+現	O
+ 株式会社三井住友銀行	O
+）	O
+ 入行	O
+
+大阪製鐵株式会社	B-CompanyName
+大阪製鐵株式会社	B-CompanyName
+取締役	B-Position
+生産技術	I-Position
+部長	I-Position
+大阪製鐵株式会社	B-CompanyName
+取締役	B-Position
+生産技術	I-Position
+部長	I-Position
+、	O
+購買	B-Position
+・	I-Position
+外注	I-Position
+管理	I-Position
+部長	I-Position
+大阪製鐵株式会社	B-CompanyName
+取締役	B-Position
+生産技術	I-Position
+部長	I-Position
+、	O
+購買	B-Position
+・	I-Position
+外注	I-Position
+管理	I-Position
+部長	I-Position
+、	O
+安全	B-Position
+環境	I-Position
+防災	I-Position
+大阪製鐵株式会社	B-CompanyName
+取締役	B-Position
+生産技術	I-Position
+部長	I-Position
+、	O
+購買	B-Position
+・	I-Position
+外注	I-Position
+管理	I-Position
+部長	I-Position
+、	O
+安全	B-Position
+環境	I-Position
+防災	I-Position
+、	O
+設備	B-Position
+技術	I-Position
+に関する	I-Position
+事項	I-Position
+管掌	I-Position
+（	O
+現	O
+）	O
+
+株式会社	B-CompanyName
+そごう	I-CompanyName
+株式会社	B-CompanyName
+そごう	I-CompanyName
+入社	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+取締役	B-Position
+Ｉ	I-Position
+Ｔ	I-Position
+イノベーション	I-Position
+部長	I-Position
+
+弁護士	B-Position
+弁護士	B-Position
+登録	B-Start
+弁護士	B-Position
+登録	B-Start
+   伊藤	O
+・	O
+松田	O
+法律事務所	O
+（	O
+現	O
+・シティユーワ	O
+法律事務所	I-CompanyName
+弁護士	B-Position
+登録	B-Start
+   伊藤	O
+・	O
+松田	O
+法律事務所	O
+（	O
+現	O
+・シティユーワ	O
+法律事務所	I-CompanyName
+）	O
+入所	B-Start
+
+あずさ監査法人	B-CompanyName
+あずさ監査法人	B-CompanyName
+入所	B-Start
+
+ＯＡＴアグリオ株式会社	B-CompanyName
+ＯＡＴアグリオ株式会社	B-CompanyName
+役員	B-Position
+待遇	I-Position
+ＯＡＴアグリオ株式会社	B-CompanyName
+役員	B-Position
+待遇	I-Position
+　	O
+肥料	B-Position
+・	I-Position
+ＢＳ	I-Position
+事業	I-Position
+部長	I-Position
+
+㈱	O
+焼肉屋さかい	O
+（	O
+現	O
+ ㈱	O
+さかい	I-CompanyName
+㈱	O
+焼肉屋さかい	O
+（	O
+現	O
+ ㈱	O
+さかい	I-CompanyName
+）	O
+ 入社	O
+
+株式会社光通信	B-CompanyName
+株式会社光通信	B-CompanyName
+常務取締役	B-Position
+
+日鉄ソリューションズ株式会社	B-CompanyName
+日鉄ソリューションズ株式会社	B-CompanyName
+監査役	B-Position
+
+㈱	B-CompanyName
+ポケット	I-CompanyName
+カルチャー	I-CompanyName
+㈱	B-CompanyName
+ポケット	I-CompanyName
+カルチャー	I-CompanyName
+設立	B-Start
+㈱	B-CompanyName
+ポケット	I-CompanyName
+カルチャー	I-CompanyName
+設立	B-Start
+　	O
+代表取締役	B-Position
+(	O
+現任	O
+)	O
+
+ＴＤＣ	B-CompanyName
+ソフト	I-CompanyName
+株式会社	I-CompanyName
+ＴＤＣ	B-CompanyName
+ソフト	I-CompanyName
+株式会社	I-CompanyName
+金融	B-Position
+システム	I-Position
+事業	I-Position
+本部	I-Position
+営業	I-Position
+推進	I-Position
+部長	I-Position
+
+取締役	B-CompanyName
+取締役	B-CompanyName
+　	O
+常務執行役員	B-Position
+システム	I-Position
+ビジネス	I-Position
+ユニット	I-Position
+担当	I-Position
+（	O
+現任	O
+）	O
+
+東邦ホールディングス株式会社	B-CompanyName
+東邦ホールディングス株式会社	B-CompanyName
+グループ	B-Position
+・	I-Position
+リスクマネジメント	I-Position
+室長	I-Position
+
+アイビーシー株式会社	B-CompanyName
+アイビーシー株式会社	B-CompanyName
+　	O
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+同社	B-CompanyName
+同社	B-CompanyName
+代表取締役社長	B-Position
+
+株式会社アドウェイズ	B-CompanyName
+株式会社アドウェイズ	B-CompanyName
+　	O
+社外取締役	B-Position
+
+ゴールドマン・サックス証券	O
+会社	O
+(	O
+現	O
+ゴールドマン・サックス証券(株)	B-CompanyName
+ゴールドマン・サックス証券	O
+会社	O
+(	O
+現	O
+ゴールドマン・サックス証券(株)	B-CompanyName
+)	O
+入社	B-Start
+
+日本碍子株式会社	B-CompanyName
+日本碍子株式会社	B-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+JPモルガン証券	B-CompanyName
+会社	I-CompanyName
+JPモルガン証券	B-CompanyName
+会社	I-CompanyName
+入社	B-Position
+
+株式会社ダイセル	B-CompanyName
+株式会社ダイセル	B-CompanyName
+執行役員	B-Position
+
+味の素株式会社	B-CompanyName
+味の素株式会社	B-CompanyName
+入社	B-Start
+
+山形銀行	B-CompanyName
+山形銀行	B-CompanyName
+入行	B-Position
+
+業態	B-Position
+開発	I-Position
+本部	I-Position
+本部長	I-Position
+業態	B-Position
+開発	I-Position
+本部	I-Position
+本部長	I-Position
+　	O
+兼	O
+ 開発	O
+企画	I-Position
+・	I-Position
+デジタルマーケティング	I-Position
+部	I-Position
+部長	I-Position
+
+第一三共	B-CompanyName
+バイオテック	I-CompanyName
+株式会社	I-CompanyName
+第一三共	B-CompanyName
+バイオテック	I-CompanyName
+株式会社	I-CompanyName
+顧問	B-Position
+
+岡藤商事	B-CompanyName
+株式会社	I-CompanyName
+岡藤商事	B-CompanyName
+株式会社	I-CompanyName
+総合	B-Position
+管理	I-Position
+部長	I-Position
+
+営業部	B-Position
+営業	I-Position
+二	I-Position
+課長	I-Position
+営業部	B-Position
+営業	I-Position
+二	I-Position
+課長	I-Position
+兼	O
+営業	B-Position
+三	I-Position
+課長	I-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+退社	B-End
+
+公益財団法人	B-CompanyName
+山形県	I-CompanyName
+建設	I-CompanyName
+技術	I-CompanyName
+センター	I-CompanyName
+公益財団法人	B-CompanyName
+山形県	I-CompanyName
+建設	I-CompanyName
+技術	I-CompanyName
+センター	I-CompanyName
+理事長	B-Position
+（	O
+現任	O
+）	O
+
+税理士	B-Position
+税理士	B-Position
+登録	B-Start
+
+三菱瓦斯化学株式会社	B-CompanyName
+三菱瓦斯化学株式会社	B-CompanyName
+代表取締役	B-Position
+三菱瓦斯化学株式会社	B-CompanyName
+代表取締役	B-Position
+ 専務執行役員	O
+三菱瓦斯化学株式会社	B-CompanyName
+代表取締役	B-Position
+ 専務執行役員	O
+ 研究	O
+推進	I-Position
+部	I-Position
+・	I-Position
+新規	I-Position
+事業	I-Position
+開発	I-Position
+部	I-Position
+・	I-Position
+事業戦略	I-Position
+室	I-Position
+担当	I-Position
+三菱瓦斯化学株式会社	B-CompanyName
+代表取締役	B-Position
+ 専務執行役員	O
+ 研究	O
+推進	I-Position
+部	I-Position
+・	I-Position
+新規	I-Position
+事業	I-Position
+開発	I-Position
+部	I-Position
+・	I-Position
+事業戦略	I-Position
+室	I-Position
+担当	I-Position
+、	O
+QOL	B-Position
+イノベーション	I-Position
+センター	I-Position
+白河	I-Position
+所長	I-Position
+
+グローバル	B-Position
+調達	I-Position
+本部長	I-Position
+
+国税庁長官	B-Position
+官房	I-Position
+首席	I-Position
+国税庁	I-Position
+監察官	I-Position
+
+㈱	B-CompanyName
+東通	I-CompanyName
+エィジェンシー	I-CompanyName
+㈱	B-CompanyName
+東通	I-CompanyName
+エィジェンシー	I-CompanyName
+設立	B-Position
+代表取締役	I-Position
+(	O
+現任	O
+)	O
+
+若築建設株式会社	B-CompanyName
+若築建設株式会社	B-CompanyName
+取締役	B-Position
+（	O
+現任	O
+）	O
+
+㈱	O
+UFJ銀行	O
+(	O
+現	O
+㈱	B-CompanyName
+三菱UFJ銀行	I-CompanyName
+㈱	O
+UFJ銀行	O
+(	O
+現	O
+㈱	B-CompanyName
+三菱UFJ銀行	I-CompanyName
+)	O
+執行役員	B-Position
+
+株式会社アークコア	B-CompanyName
+株式会社アークコア	B-CompanyName
+監査役	B-Position
+(	O
+現任	O
+)	O
+
+㈱	B-CompanyName
+モバイルコンピューティングテクノロジーズ	I-CompanyName
+㈱	B-CompanyName
+モバイルコンピューティングテクノロジーズ	I-CompanyName
+取締役	B-Position
+
+横浜市	B-Position
+横浜市	B-Position
+ 入	O
+庁	I-Start
+
+西尾	B-CompanyName
+総合	I-CompanyName
+印刷	I-CompanyName
+㈱	I-CompanyName
+西尾	B-CompanyName
+総合	I-CompanyName
+印刷	I-CompanyName
+㈱	I-CompanyName
+入社	B-Start
+
+㈱	O
+東京	O
+三菱銀行	O
+(	O
+現	O
+㈱	B-CompanyName
+三菱UFJ銀行	I-CompanyName
+㈱	O
+東京	O
+三菱銀行	O
+(	O
+現	O
+㈱	B-CompanyName
+三菱UFJ銀行	I-CompanyName
+)	O
+田町	B-Position
+支	I-Position
+店長	I-Position
+
+辰巳	O
+商事	O
+㈱	O
+(	O
+現	O
+ピーアークホールディングス	B-CompanyName
+㈱	I-CompanyName
+辰巳	O
+商事	O
+㈱	O
+(	O
+現	O
+ピーアークホールディングス	B-CompanyName
+㈱	I-CompanyName
+)	O
+入社	B-Start
+
+シークス株式会社	B-CompanyName
+シークス株式会社	B-CompanyName
+執行役員	B-Position
+営業	I-Position
+統括	I-Position
+シークス株式会社	B-CompanyName
+執行役員	B-Position
+営業	I-Position
+統括	I-Position
+兼	O
+欧州	B-Position
+地域	I-Position
+担当	I-Position
+
+テックファームホールディングス	B-CompanyName
+株式会社	I-CompanyName
+テックファームホールディングス	B-CompanyName
+株式会社	I-CompanyName
+入社	B-Start
+
+東海	B-CompanyName
+システム	I-CompanyName
+サービス	I-CompanyName
+株式会社	I-CompanyName
+東海	B-CompanyName
+システム	I-CompanyName
+サービス	I-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+東海	B-CompanyName
+システム	I-CompanyName
+サービス	I-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+就任	B-Start
+(	O
+現在	O
+)	O
+
+株式会社新日本科学	B-CompanyName
+株式会社新日本科学	B-CompanyName
+ 代表取締役社長	O
+株式会社新日本科学	B-CompanyName
+ 代表取締役社長	O
+兼	O
+CEO	B-Position
+就任	I-Position
+
+株式会社	B-CompanyName
+ローランド・ベルガー	I-CompanyName
+株式会社	B-CompanyName
+ローランド・ベルガー	I-CompanyName
+入社	B-Position
+
+株式会社東京機械製作所	B-Position
+株式会社東京機械製作所	B-Position
+退社	B-End
+株式会社東京機械製作所	B-Position
+退社	B-End
+株式会社	B-CompanyName
+東	I-CompanyName
+機	I-CompanyName
+システム	I-CompanyName
+サービス	I-CompanyName
+株式会社東京機械製作所	B-Position
+退社	B-End
+株式会社	B-CompanyName
+東	I-CompanyName
+機	I-CompanyName
+システム	I-CompanyName
+サービス	I-CompanyName
+取締役	B-Position
+株式会社東京機械製作所	B-Position
+退社	B-End
+株式会社	B-CompanyName
+東	I-CompanyName
+機	I-CompanyName
+システム	I-CompanyName
+サービス	I-CompanyName
+取締役	B-Position
+株式会社	B-CompanyName
+ＫＫＳ	I-CompanyName
+株式会社東京機械製作所	B-Position
+退社	B-End
+株式会社	B-CompanyName
+東	I-CompanyName
+機	I-CompanyName
+システム	I-CompanyName
+サービス	I-CompanyName
+取締役	B-Position
+株式会社	B-CompanyName
+ＫＫＳ	I-CompanyName
+取締役	B-Position
+
+株式会社	B-CompanyName
+ピースリー	I-CompanyName
+株式会社	B-CompanyName
+ピースリー	I-CompanyName
+取締役	B-Position
+（	I-Position
+監査	I-Position
+等	I-Position
+委員	I-Position
+）	I-Position
+（	O
+現任	O
+）	O
+
+丸八証券(株)	B-CompanyName
+丸八証券(株)	B-CompanyName
+入社	B-Start
+
+同省	B-CompanyName
+同省	B-CompanyName
+退官	B-End
+
+監査法人	O
+朝日	O
+会計	O
+社	O
+（	O
+現	O
+ 有限責任	O
+ あずさ監査法人	I-CompanyName
+監査法人	O
+朝日	O
+会計	O
+社	O
+（	O
+現	O
+ 有限責任	O
+ あずさ監査法人	I-CompanyName
+）	O
+入社	B-Start
+
+同社	B-CompanyName
+同社	B-CompanyName
+　	O
+取締役	B-Position
+同社	B-CompanyName
+　	O
+取締役	B-Position
+就任	B-Start
+（	O
+現任	O
+）	O
+
+日本電信電話公社	B-CompanyName
+日本電信電話公社	B-CompanyName
+入社	B-Start
+
+安曇野	B-CompanyName
+食品	I-CompanyName
+工房	I-CompanyName
+株式会社	I-CompanyName
+安曇野	B-CompanyName
+食品	I-CompanyName
+工房	I-CompanyName
+株式会社	I-CompanyName
+代表取締役社長	B-Position
+
+経理	B-Position
+部長	I-Position
+
+東武鉄道株式会社	B-CompanyName
+東武鉄道株式会社	B-CompanyName
+入社	B-Start
+
+フランスベッド	B-CompanyName
+㈱	I-CompanyName
+フランスベッド	B-CompanyName
+㈱	I-CompanyName
+執行役員	B-Position
+メディカル	I-Position
+サービス	I-Position
+事業	I-Position
+本部	I-Position
+レンタル	I-Position
+営業	I-Position
+本部	I-Position
+営業	I-Position
+推進	I-Position
+部長	I-Position
+
+独立行政法人造幣局	B-CompanyName
+独立行政法人造幣局	B-CompanyName
+　	O
+契約	B-Position
+監視委員会	I-Position
+独立行政法人造幣局	B-CompanyName
+　	O
+契約	B-Position
+監視委員会	I-Position
+　	O
+委員	B-Position
+
+㈱	B-CompanyName
+東京流通センター	I-CompanyName
+㈱	B-CompanyName
+東京流通センター	I-CompanyName
+代表取締役	B-Position
+副社長	I-Position
+㈱	B-CompanyName
+東京流通センター	I-CompanyName
+代表取締役	B-Position
+副社長	I-Position
+㈱	B-CompanyName
+テーアールシーサービス	I-CompanyName
+㈱	B-CompanyName
+東京流通センター	I-CompanyName
+代表取締役	B-Position
+副社長	I-Position
+㈱	B-CompanyName
+テーアールシーサービス	I-CompanyName
+代表取締役社長	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+常務取締役	B-Position
+
+同社	B-CompanyName
+同社	B-CompanyName
+退社	B-End
+
+丸八倉庫株式会社	B-CompanyName
+丸八倉庫株式会社	B-CompanyName
+入社	B-Start
+
+キヤノンマーケティングジャパン株式会社	B-CompanyName
+キヤノンマーケティングジャパン株式会社	B-CompanyName
+コンスーマビジネスユニットコンスーマ	B-Position
+東日本	I-Position
+営業	I-Position
+本部	I-Position
+上席	I-Position
+スタッフ	I-Position
+
+同	B-CompanyName
+同	B-CompanyName
+執行役員	B-Position
+営業	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+同	B-CompanyName
+執行役員	B-Position
+営業	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+兼	O
+西日本	B-Position
+営業	I-Position
+推進	I-Position
+担当	I-Position
+同	B-CompanyName
+執行役員	B-Position
+営業	I-Position
+本部	I-Position
+副	I-Position
+本部長	I-Position
+兼	O
+西日本	B-Position
+営業	I-Position
+推進	I-Position
+担当	I-Position
+、	O
+大阪	B-Position
+支店長	I-Position
+
+東プレ(株)	B-CompanyName
+東プレ(株)	B-CompanyName
+　	O
+社外取締役	B-Position
+（	O
+現任	O
+）	O
+
+Assura	B-CompanyName
+ plc	I-CompanyName
+Assura	B-CompanyName
+ plc	I-CompanyName
+ Chairman	O
+
+"	O
+Indeed	B-CompanyName
+,	I-CompanyName
+ Inc	I-CompanyName
+.	I-CompanyName
+"	O
+Indeed	B-CompanyName
+,	I-CompanyName
+ Inc	I-CompanyName
+.	I-CompanyName
+ CEO	O
+"	O
+Indeed	B-CompanyName
+,	I-CompanyName
+ Inc	I-CompanyName
+.	I-CompanyName
+ CEO	O
+ and	O
+ President	O
+"	O
+
+PT	B-CompanyName
+.	I-CompanyName
+ BENEFIT	I-CompanyName
+ ONE	I-CompanyName
+PT	B-CompanyName
+.	I-CompanyName
+ BENEFIT	I-CompanyName
+ ONE	I-CompanyName
+ INDONESIACommissioner	B-Position
+(	O
+現任	O
+)	O
+
+Hexagon	B-CompanyName
+ Aktiebolag	I-CompanyName
+Hexagon	B-CompanyName
+ Aktiebolag	I-CompanyName
+ Director	O
+Hexagon	B-CompanyName
+ Aktiebolag	I-CompanyName
+ Director	O
+就任	B-Start
+（	O
+現任	O
+）	O
+
+㈱	B-Position
+Ｃｒｏｗｅ	I-Position
+ ＰｒｏＣ	I-Position
+.	I-Position
+Ａ	I-Position
+㈱	B-Position
+Ｃｒｏｗｅ	I-Position
+ ＰｒｏＣ	I-Position
+.	I-Position
+Ａ	I-Position
+ 代表取締役社長	O
+（	O
+現任	O
+）	O
+
+Atariya	B-CompanyName
+ Foods	I-CompanyName
+ Netherlands	I-CompanyName
+ B	I-CompanyName
+.	I-CompanyName
+V	I-CompanyName
+.	I-CompanyName
+Atariya	B-CompanyName
+ Foods	I-CompanyName
+ Netherlands	I-CompanyName
+ B	I-CompanyName
+.	I-CompanyName
+V	I-CompanyName
+.	I-CompanyName
+ 監査役	O
+Atariya	B-CompanyName
+ Foods	I-CompanyName
+ Netherlands	I-CompanyName
+ B	I-CompanyName
+.	I-CompanyName
+V	I-CompanyName
+.	I-CompanyName
+ 監査役	O
+（	O
+現任	O
+）	O
+   Atariya	O
+ Horeca	I-CompanyName
+ B	I-CompanyName
+.	I-CompanyName
+V	I-CompanyName
+.	I-CompanyName
+Atariya	B-CompanyName
+ Foods	I-CompanyName
+ Netherlands	I-CompanyName
+ B	I-CompanyName
+.	I-CompanyName
+V	I-CompanyName
+.	I-CompanyName
+ 監査役	O
+（	O
+現任	O
+）	O
+   Atariya	O
+ Horeca	I-CompanyName
+ B	I-CompanyName
+.	I-CompanyName
+V	I-CompanyName
+.	I-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+"	O
+Pulstec	B-CompanyName
+ USA	I-CompanyName
+,	I-CompanyName
+Inc	I-CompanyName
+.	I-CompanyName
+"	O
+Pulstec	B-CompanyName
+ USA	I-CompanyName
+,	I-CompanyName
+Inc	I-CompanyName
+.	I-CompanyName
+代表取締役社長	B-Position
+"	O
+Pulstec	B-CompanyName
+ USA	I-CompanyName
+,	I-CompanyName
+Inc	I-CompanyName
+.	I-CompanyName
+代表取締役社長	B-Position
+就任	B-Start
+（	O
+現任	O
+）"	O
+
+株式会社	B-CompanyName
+Y's	I-CompanyName
+ corporation	I-CompanyName
+株式会社	B-CompanyName
+Y's	I-CompanyName
+ corporation	I-CompanyName
+ 代表取締役	O
+株式会社	B-CompanyName
+Y's	I-CompanyName
+ corporation	I-CompanyName
+ 代表取締役	O
+ 就任	O
+(	O
+現任	O
+）	O
+
+伊藤忠	B-CompanyName
+豪州	I-CompanyName
+会社	I-CompanyName
+伊藤忠	B-CompanyName
+豪州	I-CompanyName
+会社	I-CompanyName
+社長	B-Position
+伊藤忠	B-CompanyName
+豪州	I-CompanyName
+会社	I-CompanyName
+社長	B-Position
+(	O
+兼	O
+)	O
+ITOCHU	B-CompanyName
+ Minerals	I-CompanyName
+ &	I-CompanyName
+ Energy	I-CompanyName
+ Australia	I-CompanyName
+ Pty	I-CompanyName
+ Ltd	I-CompanyName
+伊藤忠	B-CompanyName
+豪州	I-CompanyName
+会社	I-CompanyName
+社長	B-Position
+(	O
+兼	O
+)	O
+ITOCHU	B-CompanyName
+ Minerals	I-CompanyName
+ &	I-CompanyName
+ Energy	I-CompanyName
+ Australia	I-CompanyName
+ Pty	I-CompanyName
+ Ltd	I-CompanyName
+（	O
+Managing	B-Position
+ Director	I-Position
+＆	I-Position
+ＣＥＯ	I-Position
+）	O
+
+株式会社	O
+ソニー・コンピュータエンタテインメント	O
+（	O
+現	O
+株式会社	B-CompanyName
+ソニー・インタラクティブエンタテインメント	I-CompanyName
+株式会社	O
+ソニー・コンピュータエンタテインメント	O
+（	O
+現	O
+株式会社	B-CompanyName
+ソニー・インタラクティブエンタテインメント	I-CompanyName
+）	O
+代表取締役会長	B-Position
+株式会社	O
+ソニー・コンピュータエンタテインメント	O
+（	O
+現	O
+株式会社	B-CompanyName
+ソニー・インタラクティブエンタテインメント	I-CompanyName
+）	O
+代表取締役会長	B-Position
+兼	O
+グループ	B-Position
+CEO	I-Position
+
+"	O
+CDG	B-CompanyName
+ Promotional	I-CompanyName
+ Marketing	I-CompanyName
+ Co	I-CompanyName
+.,	I-CompanyName
+Ltd	I-CompanyName
+.	I-CompanyName
+"	O
+CDG	B-CompanyName
+ Promotional	I-CompanyName
+ Marketing	I-CompanyName
+ Co	I-CompanyName
+.,	I-CompanyName
+Ltd	I-CompanyName
+.	I-CompanyName
+ Secretary	O
+"	O
+
+旭精機工業株式会社	B-CompanyName
+旭精機工業株式会社	B-CompanyName
+第	B-Position
+二	I-Position
+技術開発	I-Position
+部長	I-Position
+旭精機工業株式会社	B-CompanyName
+第	B-Position
+二	I-Position
+技術開発	I-Position
+部長	I-Position
+就任	B-Start
+
+株式会社ダイドーリミテッド	B-CompanyName
+株式会社ダイドーリミテッド	B-CompanyName
+監査役	B-Position
+株式会社ダイドーリミテッド	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+株式会社	O
+ニューヨーカー	O
+監査役	B-Position
+株式会社ダイドーリミテッド	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+株式会社	O
+ニューヨーカー	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+株式会社ダイドーリミテッド	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+株式会社	O
+ニューヨーカー	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社	O
+ダイドー	O
+インターナショナル	O
+監査役	B-Position
+株式会社ダイドーリミテッド	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+株式会社	O
+ニューヨーカー	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社	O
+ダイドー	O
+インターナショナル	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+株式会社ダイドーリミテッド	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+株式会社	O
+ニューヨーカー	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社	O
+ダイドー	O
+インターナショナル	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社ダイナシティ	O
+監査役	B-Position
+株式会社ダイドーリミテッド	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+株式会社	O
+ニューヨーカー	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社	O
+ダイドー	O
+インターナショナル	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社ダイナシティ	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+株式会社ダイドーリミテッド	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+株式会社	O
+ニューヨーカー	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社	O
+ダイドー	O
+インターナショナル	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社ダイナシティ	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社	B-CompanyName
+ブルックス ブラザーズ	I-CompanyName
+ ジャパン	I-CompanyName
+株式会社ダイドーリミテッド	B-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+株式会社	O
+ニューヨーカー	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社	O
+ダイドー	O
+インターナショナル	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社ダイナシティ	O
+監査役	B-Position
+（	O
+現	O
+　	O
+株式会社	B-CompanyName
+ダイドーフォワード	I-CompanyName
+）	O
+株式会社	B-CompanyName
+ブルックス ブラザーズ	I-CompanyName
+ ジャパン	I-CompanyName
+監査役	B-Position
+（	O
+現任	O
+）	O
+
+代表取締役社長	B-CompanyName
+代表取締役社長	B-CompanyName
+兼	O
+最高執行責任者	B-Position
+(	I-Position
+COO	I-Position
+)	I-Position
+代表取締役社長	B-CompanyName
+兼	O
+最高執行責任者	B-Position
+(	I-Position
+COO	I-Position
+)	I-Position
+兼	O
+経営企画	B-Position
+室長	I-Position
+代表取締役社長	B-CompanyName
+兼	O
+最高執行責任者	B-Position
+(	I-Position
+COO	I-Position
+)	I-Position
+兼	O
+経営企画	B-Position
+室長	I-Position
+兼	O
+CSR	B-Position
+推進	I-Position
+室長	I-Position
+
+㈱	B-CompanyName
+Kaizen	I-CompanyName
+ Platform	I-CompanyName
+㈱	B-CompanyName
+Kaizen	I-CompanyName
+ Platform	I-CompanyName
+ 社外監査役	O
+（	O
+現任	O
+）	O
+
+株式会社	B-CompanyName
+AIAD	I-CompanyName
+株式会社	B-CompanyName
+AIAD	I-CompanyName
+ 監査役	O
+(	O
+現任	O
+)	O
+
+株式会社高見澤	B-CompanyName
+株式会社高見澤	B-CompanyName
+入社	B-Start
+
+株式会社日清製粉グループ本社	B-CompanyName
+株式会社日清製粉グループ本社	B-CompanyName
+監査役	B-Position
+
+国土交通省総合政策局	B-CompanyName
+国際	O
+建設	O
+技術	O
+企画	O
+官	O
+
+"	O
+Matsuya	B-CompanyName
+ Foods	I-CompanyName
+ USA	I-CompanyName
+,	I-CompanyName
+Inc	I-CompanyName
+.	I-CompanyName
+"	O
+Matsuya	B-CompanyName
+ Foods	I-CompanyName
+ USA	I-CompanyName
+,	I-CompanyName
+Inc	I-CompanyName
+.	I-CompanyName
+ Director	O
+"	O
+Matsuya	B-CompanyName
+ Foods	I-CompanyName
+ USA	I-CompanyName
+,	I-CompanyName
+Inc	I-CompanyName
+.	I-CompanyName
+ Director	O
+ and	O
+ chairman	O
+"	O
+
+日本	O
+ストラタスコンピュータ	O
+㈱	O
+   (	O
+現	O
+ 日本	O
+ストラタステクノロジー	I-CompanyName
+㈱	I-CompanyName
+日本	O
+ストラタスコンピュータ	O
+㈱	O
+   (	O
+現	O
+ 日本	O
+ストラタステクノロジー	I-CompanyName
+㈱	I-CompanyName
+)	O
+入社	B-Start
+
+いすゞ	O
+マリン	O
+製造	O
+㈱	O
+(	O
+現	O
+いすゞ自動車	B-CompanyName
+エンジン	I-CompanyName
+販売	I-CompanyName
+㈱	I-CompanyName
+いすゞ	O
+マリン	O
+製造	O
+㈱	O
+(	O
+現	O
+いすゞ自動車	B-CompanyName
+エンジン	I-CompanyName
+販売	I-CompanyName
+㈱	I-CompanyName
+)	O
+代表取締役社長	B-Position
+
+"	O
+Calsonic	B-CompanyName
+ Kansei	I-CompanyName
+ North	I-CompanyName
+ America	I-CompanyName
+,	I-CompanyName
+Inc	I-CompanyName
+.	I-CompanyName
+"	O
+Calsonic	B-CompanyName
+ Kansei	I-CompanyName
+ North	I-CompanyName
+ America	I-CompanyName
+,	I-CompanyName
+Inc	I-CompanyName
+.	I-CompanyName
+プログラム	B-Position
+マネージメント	I-Position
+ シニア	I-Position
+ダイレクター	I-Position
+"	O
+
+日	O
+曹	O
+油	O
+化	O
+工業	O
+㈱	O
+(	O
+現	O
+丸善石油化学	B-CompanyName
+㈱	I-CompanyName
+日	O
+曹	O
+油	O
+化	O
+工業	O
+㈱	O
+(	O
+現	O
+丸善石油化学	B-CompanyName
+㈱	I-CompanyName
+)	O
+ 入社	O
+
+株式会社オンワードホールディングス	B-CompanyName
+株式会社オンワードホールディングス	B-CompanyName
+専務取締役	B-Position
+株式会社オンワードホールディングス	B-CompanyName
+専務取締役	B-Position
+(	O
+現任	O
+)㈱	O
+オンワード樫山	I-CompanyName
+代表取締役社長	O
+執行役員	O
+(	O
+現任	O
+)	O
+
+愛知大学大学院法務研究科	B-CompanyName
+教授	O
+（	O
+現	O
+）	O
+
+最高検察庁公安部	B-CompanyName
+長	O
+就任	O
+
+慶應義塾大学法学部	B-CompanyName
+教授	O
+、	O
+法学	O
+博士	O
+
+株式会社タウンニュース社	B-CompanyName
+株式会社タウンニュース社	B-CompanyName
+取締役	B-Position
+執行役員	I-Position
+経営企画	I-Position
+室	I-Position
+室長	I-Position
+株式会社タウンニュース社	B-CompanyName
+取締役	B-Position
+執行役員	I-Position
+経営企画	I-Position
+室	I-Position
+室長	I-Position
+兼	O
+制作	B-Position
+監理	I-Position
+役員	I-Position
+
+株式会社	B-CompanyName
+三陽商会執行役員人事総務本部長兼総務部長	I-CompanyName
+
